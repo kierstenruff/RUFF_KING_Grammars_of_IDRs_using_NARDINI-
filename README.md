@@ -29,6 +29,6 @@ However, in this case NARDINI+ must be run for each inputed IDR sequence. Thus, 
 Patterning ZSVs are calculated using NARDINI and this involves creating 100,000 sequence scrambles of the IDR of interest to use as a prior distribution. 
 Due to this, generating the patterning ZSV for a given IDR can take minutes to run depending on the length of the IDR. 
 To facilitate reasonable run times, we have set the maximum number of IDRs to 20 and the maximum length of the IDR to 1000 for the calculation of the patterning ZSVs.
-For more IDRs or longer IDRs, users can extract patterning ZSVs using NARDINI within localCIDER.
+For more IDRs or longer IDRs, users can extract patterning ZSVs using [NARDINI](https://www.sciencedirect.com/science/article/pii/S0022283621006100) within [localCIDER](https://github.com/Pappulab/localCIDER).
 The final outputs of this notebook are a summary of the GIN cluster annotations and the ZSVs for all IDRs in the inputed list. 
 
