@@ -13,7 +13,7 @@ Each GIN cluster has a distinct set of grammar features that define it.
 To faciliate the use of GIN as a resource, we created two Google Colab notebooks.
 
 
-# Google Colab Notebook: NARDINI+_from_accession
+## Google Colab Notebook: NARDINI+_from_accession
 
 In this notebook, users input a list of proteins as either a list of gene names or Uniprot accessions. The list can be comma separated or uploaded as a file with one gene / accession per line. 
 This notebook takes advantage of the fact that GIN was created by analyzing 24,508 IDRs from the human IDRome and thus can extract the IDRs from the user inputed list of genes / accessions. 
@@ -22,7 +22,7 @@ Users also have additional output options. These include a schematic of the prot
 and labeled by the domain name. To visualize exceptional grammars within the IDRs of interest, users can also plot and download hierarchically clustered heatmaps of the ZSVs.
 
 
-# Google Colab Notebook: NARDINI+_from_fasta
+## Google Colab Notebook: NARDINI+_from_fasta
 
 In this notebook, users input an IDR sequence or a list of IDR sequences in FASTA format. This notebook is helpful if users want to specificy their own definitions of IDR sequences. 
 However, in this case NARDINI+ must be run for each inputed IDR sequence. Thus, NARDINI+ is broken down into its two components: (1) calculation of compositional ZSVs and (2) calculation of patterning ZSVs. 
