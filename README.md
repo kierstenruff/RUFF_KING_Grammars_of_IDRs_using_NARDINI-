@@ -1,6 +1,6 @@
 # RUFF_KING_Grammars_of_IDRs_using_NARDINI+
 
-This repository contains the analysis code associated with the **GIN: Grammars of IDRs using NARDINI+** project, led by **Kiersten M. Ruff** and **Matthew R. King**. 
+This repository contains the analysis code associated with the [**GIN: Grammars of IDRs using NARDINI+**](https://www.biorxiv.org/content/10.1101/2025.02.27.640591v1) project, led by **Kiersten M. Ruff** and **Matthew R. King**. 
 
 
 ## GIN Resource
