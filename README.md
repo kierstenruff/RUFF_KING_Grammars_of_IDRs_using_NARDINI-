@@ -12,7 +12,7 @@ Here, molecular grammar refers to the non-random amino acid composition and the 
 Molecular grammars for each IDR are reported as a 90-feature z-score vector (ZSV). 
 These ZSVs were utilized to cluster the human IDRome into 30 distinct grammar clusters which we refer to as GIN clusters. 
 Each GIN cluster has a distinct set of grammar features that define it. 
-To faciliate the use of GIN as a resource, we created two Google Colab notebooks.
+To faciliate the use of GIN as a resource, we created three Google Colab notebooks.
 
 
 ## Google Colab Notebook: [NARDINI+_from_accession](https://colab.research.google.com/drive/15O00GXapuDmD8AijSvkFfRm2fo0xgFPv#scrollTo=DNWtoXwYr71X)
@@ -42,4 +42,10 @@ The final outputs of this notebook are a summary of the GIN cluster annotations 
 
 Users also have access to extracting IDRs and their sequence grammars from eight other species. Here, the compositonal features of the selected IDRome are used as the prior distirbution.
 However, if a species besides Homo sapiens is selected the GIN clusters are not shown since human IDRome was utilized as the prior to construct these clusters. 
+
+## Google Colab Notebook: GIN cluster and NARDINI+ analysis for orthologs
+
+Coming soon...Beta version can be accessed on request.
+
+In this notebook, users input a human uniprot accession number and then the associated human GIN clusters are mapped and NARDINI+ z-score vectors are shown for all human and orthologous IDRs. This notebook takes advantage of previously generated orthologous sequences extracted using BLASTp. Additionally, the notebook can rank order specific grammar features for each species and select the IDR with the top rank per species. For the latter, heatmaps are generated for (1) the rank of the top scoring IDRs (2) the percent identity of the top scoring IDRs to the human IDR, and (3) the z-score / grammar value of the top scoring IDRs. The total number of proteins per species refers to the number of unique proteins that are orthologs to human IDR containing proteins. This choice was made for tractability.
 
