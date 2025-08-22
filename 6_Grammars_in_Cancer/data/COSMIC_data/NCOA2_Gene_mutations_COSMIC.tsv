@@ -1,0 +1,2361 @@
+Position	CDS Mutation	AA Mutation	Legacy Mutation ID	Count	Type
+11	c.33C>T	p.P11=	COSM4836883	3	Substitution - coding silent
+12	c.35C>A	p.S12Y	COSM7119644	2	Substitution - Missense
+12	c.35C>T	p.S12F	COSM10223694	1	Substitution - Missense
+13	c.37A>T	p.R13W	COSM1458084	1	Substitution - Missense
+15	c.45G>A	p.E15=	COSM6457430	1	Substitution - coding silent
+19	c.56G>A	p.R19H	COSM2874675	1	Substitution - Missense
+20	c.60G>A	p.K20=	COSM5409829	1	Substitution - coding silent
+21	c.63A>G	p.E21=	COSM6352763	1	Substitution - coding silent
+23	c.67C>T	p.P23S	COSM3650690	1	Substitution - Missense
+23	c.69T>C	p.P23=	COSM6723105	1	Substitution - coding silent
+27	c.79G>A	p.G27R	COSM1739488	3	Substitution - Missense
+27	c.80G>A	p.G27E	COSM4559561	2	Substitution - Missense
+29	c.87C>T	p.S29=	COSM9093887	1	Substitution - coding silent
+37	c.109C>T	p.R37C	COSM7699946	1	Substitution - Missense
+38	c.114T>A	p.N38K	COSM245965	1	Substitution - Missense
+39	c.116G>A	p.R39H	COSM6899096	2	Substitution - Missense
+39	c.117T>C	p.R39=	COSM10406423	1	Substitution - coding silent
+42	c.124G>A	p.E42K	COSM3650689	1	Substitution - Missense
+48	c.142G>T	p.E48*	COSM389656	2	Substitution - Nonsense
+51	c.152A>G	p.E51G	COSM1101423	1	Substitution - Missense
+56	c.166A>G	p.N56D	COSM5500452	1	Substitution - Missense
+60	c.180del	p.I60Mfs*14	COSM7327562	1	Deletion - Frameshift
+64	c.192C>A	p.N64K	COSM9079078	1	Substitution - Missense
+67	c.201T>G	p.P67=	COSM3996117	1	Substitution - coding silent
+75	c.223G>T	p.E75*	COSM3901355	1	Substitution - Nonsense
+75	c.225A>G	p.E75=	COSM2874670	2	Substitution - coding silent
+81	c.241C>A	p.R81S	COSM10894428	1	Substitution - Missense
+81	c.241C>T	p.R81C	COSM2874669	2	Substitution - Missense
+81	c.242G>A	p.R81H	COSM8514409	2	Substitution - Missense
+83	c.249C>T	p.I83=	COSM2874668	2	Substitution - coding silent
+85	c.253G>A	p.E85K	COSM10046571	2	Substitution - Missense
+85	c.254A>T	p.E85V	COSM1489408	1	Substitution - Missense
+89	c.266C>T	p.A89V	COSM3663865	2	Substitution - Missense
+90	c.268G>A	p.A90T	COSM3901354	1	Substitution - Missense
+91	c.273T>G	p.A91=	COSM3834977	1	Substitution - coding silent
+92	c.276C>G	p.A92=	COSM10339835	1	Substitution - coding silent
+94	c.280A>G	p.I94V	COSM5048070	1	Substitution - Missense
+96	c.286G>T	p.E96*	COSM1216856	1	Substitution - Nonsense
+97	c.289G>A	p.V97M	COSM9029479	1	Substitution - Missense
+97	c.291G>A	p.V97=	COSM9169703	1	Substitution - coding silent
+107	c.319C>G	p.Q107E	COSM4429332	1	Substitution - Missense
+107	c.321G>T	p.Q107H	COSM4942965	1	Substitution - Missense
+108	c.323G>A	p.G108D	COSM3663864	2	Substitution - Missense
+110	c.330C>T	p.I110=	COSM6723112	1	Substitution - coding silent
+111	c.331G>A	p.D111N	COSM7548998	2	Substitution - Missense
+114	c.341C>T	p.A114V	COSM10550301	1	Substitution - Missense
+117	c.349C>A	p.P117T	COSM6342902	1	Substitution - Missense
+118	c.352A>G	p.M118V	COSM10287266	1	Substitution - Missense
+121	c.361G>C	p.E121Q	COSM10450606	1	Substitution - Missense
+126	c.378C>A	p.F126L	COSM9225477	2	Substitution - Missense
+126	c.378C>T	p.F126=	COSM1286523	2	Substitution - coding silent
+129	c.387A>G	p.V129=	COSM10156505	2	Substitution - coding silent
+133	c.397G>T	p.E133*	COSM10038224	1	Substitution - Nonsense
+133	c.398A>T	p.E133V	COSM8344989	1	Substitution - Missense
+136	c.406G>T	p.V136F	COSM7235636	1	Substitution - Missense
+137	c.410T>C	p.V137A	COSM8987797	1	Substitution - Missense
+139	c.415G>T	p.V139L	COSM750797	1	Substitution - Missense
+147	c.440T>C	p.L147P	COSM8427079	1	Substitution - Missense
+148	c.442A>C	p.R148=	COSM3901353	1	Substitution - coding silent
+148	c.443G>T	p.R148M	COSM8244102	1	Substitution - Missense
+150	c.450C>T	p.N150=	COSM2874663	3	Substitution - coding silent
+155	c.465G>T	p.M155I	COSM7413713	1	Substitution - Missense
+157	c.471A>C	p.K157N	COSM3901352	1	Substitution - Missense
+160	c.479A>G	p.Y160C	COSM6181057	2	Substitution - Missense
+162	c.486C>G	p.I162M	COSM94808	1	Substitution - Missense
+165	c.494T>C	p.V165A	COSM9450488	1	Substitution - Missense
+166	c.497G>T	p.G166V	COSM7379141	2	Substitution - Missense
+166	c.498G>A	p.G166=	COSM9006216	1	Substitution - coding silent
+169	c.505A>G	p.T169A	COSM5574795	2	Substitution - Missense
+169	c.506C>T	p.T169M	COSM3901351	1	Substitution - Missense
+169	c.507G>T	p.T169=	COSM7823961	1	Substitution - coding silent
+174	c.521del	p.N174Tfs*7	COSM8503458	1	Deletion - Frameshift
+174	c.522C>G	p.N174K	COSM10620032	1	Substitution - Missense
+182	c.545A>C	p.N182T	COSM1101422	1	Substitution - Missense
+183	c.549G>T	p.G183=	COSM4138730	1	Substitution - coding silent
+184	c.550G>A	p.G184R	COSM10382144	1	Substitution - Missense
+184	c.551G>A	p.G184E	COSM8981712	1	Substitution - Missense
+184	c.551G>T	p.G184V	COSM6181058	1	Substitution - Missense
+184	c.552A>G	p.G184=	COSM5808525	1	Substitution - coding silent
+185	c.552dup	p.S185Ifs*25	COSM7001927	1	Insertion - Frameshift
+189	c.565G>A	p.E189K	COSM1458083	2	Substitution - Missense
+189	c.565G>T	p.E189*	COSM750798	1	Substitution - Nonsense
+191	c.572C>T	p.P191L	COSM7349648	1	Substitution - Missense
+195	c.583_584insC	p.S195Tfs*15	COSM2157817	1	Insertion - Frameshift
+195	c.585C>A	p.S195R	COSM3685411	1	Substitution - Missense
+199	c.596A>G	p.N199S	COSM9264884	2	Substitution - Missense
+200	c.600T>C	p.C200=	COSM2874661	2	Substitution - coding silent
+201	c.603G>C	p.R201=	COSM22020	1	Substitution - coding silent
+203	c.607C>T	p.L203=	COSM4976706	3	Substitution - coding silent
+204	c.610G>A	p.V204I	COSM2874660	1	Substitution - Missense
+214	c.642T>A	p.G214=	COSM7523776	1	Substitution - coding silent
+219	c.656A>T	p.E219V	COSM378531	1	Substitution - Missense
+220	c.659C>A	p.A220D	COSM7444309	2	Substitution - Missense
+221	c.661C>T	p.H221Y	COSM5987525	1	Substitution - Missense
+222	c.664C>T	p.Q222*	COSM3901350	1	Substitution - Nonsense
+228	c.684G>A	p.Q228=	COSM5949842	1	Substitution - coding silent
+230	c.690C>T	p.F230=	COSM1101421	1	Substitution - coding silent
+231	c.691G>A	p.A231T	COSM2874659	1	Substitution - Missense
+233	c.697T>A	p.S233T	COSM5808613	1	Substitution - Missense
+234	c.701A>T	p.Q234L	COSM10252917	1	Substitution - Missense
+235	c.703C>A	p.P235T	COSM1489407	1	Substitution - Missense
+237	c.710C>A	p.S237Y	COSM9326914	1	Substitution - Missense
+238	c.714C>T	p.I238=	COSM7521621	1	Substitution - coding silent
+242	c.725_727del	p.G242del	COSM10008081	1	Deletion - In frame
+244	c.731A>T	p.D244V	COSM10724674	1	Substitution - Missense
+257	c.770C>T	p.P257L	COSM5679873	1	Substitution - Missense
+257	c.771C>A	p.P257=	COSM750799	1	Substitution - coding silent
+258	c.774G>T	p.M258I	COSM9080231	1	Substitution - Missense
+261	c.783A>C	p.R261S	COSM3901349	1	Substitution - Missense
+264	c.790C>A	p.L264I	COSM1458079	1	Substitution - Missense
+266	c.797C>T	p.S266L	COSM7101745	1	Substitution - Missense
+267	c.800C>G	p.S267*	COSM9973015	2	Substitution - Nonsense
+269	c.806G>A	p.S269N	COSM6181059	1	Substitution - Missense
+270	c.810T>C	p.F270=	COSM7589244	1	Substitution - coding silent
+273	c.817C>T	p.R273C	COSM4705946	4	Substitution - Missense
+275	c.823G>A	p.D275N	COSM9369137	1	Substitution - Missense
+276	c.826C>T	p.L276F	COSM7698413	1	Substitution - Missense
+277	c.831A>G	p.Q277=	COSM7766930	1	Substitution - coding silent
+278	c.832G>A	p.G278S	COSM5884730	1	Substitution - Missense
+278	c.833G>T	p.G278V	COSM6181060	1	Substitution - Missense
+281	c.842C>T	p.T281M	COSM1216853	2	Substitution - Missense
+282	c.845C>T	p.S282F	COSM10847620	1	Substitution - Missense
+283	c.847C>T	p.L283=	COSM2874656	2	Substitution - coding silent
+288	c.864G>A	p.M288I	COSM4973251	3	Substitution - Missense
+289	c.866G>T	p.R289I	COSM8163820	1	Substitution - Missense
+290	c.868G>A	p.A290T	COSM6723108	2	Substitution - Missense
+290	c.870A>G	p.A290=	COSM10457930	1	Substitution - coding silent
+292	c.874A>T	p.M292L	COSM6233029	1	Substitution - Missense
+295	c.883G>A	p.G295S	COSM10803851	1	Substitution - Missense
+296	c.887G>A	p.W296*	COSM750800	1	Substitution - Nonsense
+300	c.898G>A	p.V300I	COSM10617823	1	Substitution - Missense
+309	c.926C>T	p.A309V	COSM169326	4	Substitution - Missense
+309	c.927G>A	p.A309=	COSM9036495	1	Substitution - coding silent
+311	c.933T>C	p.H311=	COSM96064	1	Substitution - coding silent
+317	c.951C>A	p.S317=	COSM8213661	1	Substitution - coding silent
+325	c.974A>G	p.E325G	COSM4938538	1	Substitution - Missense
+330	c.988G>C	p.G330R	COSM7379138	1	Substitution - Missense
+336	c.1008C>A	p.I336=	COSM1101420	1	Substitution - coding silent
+338	c.1012C>T	p.R338C	COSM1216852	1	Substitution - Missense
+340	c.1018del	p.S340Pfs*28	COSM8470107	1	Deletion - Frameshift
+341	c.1023G>T	p.L341F	COSM8794258	1	Substitution - Missense
+342	c.1025C>T	p.S342F	COSM3901348	1	Substitution - Missense
+343	c.1027G>A	p.D343N	COSM10590962	1	Substitution - Missense
+344	c.1031G>A	p.G344D	COSM3901347	1	Substitution - Missense
+344	c.1031G>T	p.G344V	COSM6181061	1	Substitution - Missense
+346	c.1038T>C	p.L346=	COSM8324925	1	Substitution - coding silent
+348	c.1044T>C	p.A348=	COSM3901346	1	Substitution - coding silent
+351	c.1053G>A	p.T351=	COSM8979920	1	Substitution - coding silent
+353	c.1059C>A	p.S353R	COSM10511419	1	Substitution - Missense
+357	c.1069C>T	p.R357C	COSM4595458	2	Substitution - Missense
+357	c.1070G>A	p.R357H	COSM6723110	1	Substitution - Missense
+357	c.1070G>T	p.R357L	COSM750801	1	Substitution - Missense
+361	c.1081A>G	p.T361A	COSM1458077	2	Substitution - Missense
+363	c.1089A>G	p.E363=	COSM8787485	1	Substitution - coding silent
+365	c.1093C>T	p.Q365*	COSM750802	1	Substitution - Nonsense
+369	c.1106C>A	p.S369Y	COSM9252073	1	Substitution - Missense
+370	c.1110A>G	p.L370=	COSM301383	1	Substitution - coding silent
+371	c.1113T>C	p.H371=	COSM3901345	1	Substitution - coding silent
+373	c.1118T>C	p.L373P	COSM9264964	1	Substitution - Missense
+376	c.1126G>T	p.E376*	COSM9261129	1	Substitution - Nonsense
+381	c.1142T>C	p.V381A	COSM6855681	1	Substitution - Missense
+382	c.1146G>C	p.M382I	COSM5874947	1	Substitution - Missense
+384	c.1151C>T	p.P384L	COSM750803	3	Substitution - Missense
+386	c.1156C>G	p.L386V	COSM10181478	1	Substitution - Missense
+391	c.1172T>G	p.M391R	COSM162836	1	Substitution - Missense
+392	c.1174G>T	p.G392W	COSM8079820	1	Substitution - Missense
+392	c.1175G>A	p.G392E	COSM7717311	2	Substitution - Missense
+394	c.1181C>T	p.P394L	COSM10787608	1	Substitution - Missense
+395	c.1184T>C	p.L395P	COSM4600938	1	Substitution - Missense
+398	c.1192A>G	p.I398V	COSM10049059	1	Substitution - Missense
+399	c.1195A>G	p.S399G	COSM4705944	1	Substitution - Missense
+403	c.1208C>A	p.P403H	COSM7941995	1	Substitution - Missense
+403	c.1208C>T	p.P403L	COSM9898112	1	Substitution - Missense
+404	c.1212C>A	p.A404=	COSM3901344	1	Substitution - coding silent
+406	c.1216C>A	p.Q406K	COSM8342457	1	Substitution - Missense
+406	c.1216C>G	p.Q406E	COSM10046572	1	Substitution - Missense
+407	c.1219G>A	p.A407T	COSM9901731	1	Substitution - Missense
+407	c.1219G>C	p.A407P	COSM4888482	1	Substitution - Missense
+409	c.1226G>T	p.C409F	COSM10046570	1	Substitution - Missense
+413	c.1238C>G	p.P413R	COSM4771546	1	Substitution - Missense
+415	c.1245G>T	p.Q415H	COSM10156504	2	Substitution - Missense
+417	c.1251G>A	p.M417I	COSM10160550	1	Substitution - Missense
+419	c.1255C>A	p.L419I	COSM8133390	1	Substitution - Missense
+420	c.1260T>C	p.S420=	COSM5476827	1	Substitution - coding silent
+424	c.1270A>C	p.N424H	COSM9938513	1	Substitution - Missense
+426	c.1276C>T	p.P426S	COSM3650688	2	Substitution - Missense
+426	c.1278C>A	p.P426=	COSM8254369	1	Substitution - coding silent
+427	c.1277_1278insTGA	p.P426_I427insD	COSM10293851	1	Insertion - In frame
+427	c.1280T>A	p.I427K	COSM10293850	1	Substitution - Missense
+429	c.1285G>A	p.G429S	COSM6843707	1	Substitution - Missense
+435	c.1303G>A	p.G435S	COSM6005560	1	Substitution - Missense
+436	c.1308G>A	p.M436I	COSM673971	1	Substitution - Missense
+437	c.1310C>A	p.P437H	COSM7951292	1	Substitution - Missense
+438	c.1313T>C	p.M438T	COSM7602190	1	Substitution - Missense
+439	c.1316G>A	p.G439D	COSM22058	1	Substitution - Missense
+441	c.1323T>C	p.F441=	COSM3413106	1	Substitution - coding silent
+442	c.1326T>C	p.G442=	COSM8504195	1	Substitution - coding silent
+444	c.1330T>A	p.S444T	COSM1330918	1	Substitution - Missense
+444	c.1331C>T	p.S444F	COSM8056333	1	Substitution - Missense
+446	c.1337G>A	p.G446E	COSM750804	1	Substitution - Missense
+446	c.1338A>C	p.G446=	COSM2874641	1	Substitution - coding silent
+449	c.1346A>C	p.H449P	COSM1216855	1	Substitution - Missense
+450	c.1350G>A	p.V450=	COSM9083500	1	Substitution - coding silent
+458	c.1372C>A	p.P458T	COSM2874639	1	Substitution - Missense
+459	c.1375C>T	p.Q459*	COSM454814	2	Substitution - Nonsense
+464	c.1392A>G	p.A464=	COSM9195466	2	Substitution - coding silent
+467	c.1401G>T	p.M467I	COSM4526552	1	Substitution - Missense
+469	c.1406G>T	p.S469I	COSM10823597	1	Substitution - Missense
+470	c.1408C>T	p.P470S	COSM22018	1	Substitution - Missense
+471	c.1412C>G	p.S471*	COSM7638569	1	Substitution - Nonsense
+473	c.1418G>C	p.S473T	COSM9112512	1	Substitution - Missense
+480	c.1437del	p.G480Dfs*13	COSM9612324	1	Deletion - Frameshift
+480	c.1438G>C	p.G480R	COSM6723106	1	Substitution - Missense
+480	c.1439G>T	p.G480V	COSM10894427	1	Substitution - Missense
+483	c.1449C>T	p.T483=	COSM9451581	1	Substitution - coding silent
+487	c.1460C>G	p.S487*	COSM7306443	1	Substitution - Nonsense
+488	c.1463C>T	p.P488L	COSM5432838	1	Substitution - Missense
+489	c.1466G>A	p.R489K	COSM10053640	1	Substitution - Missense
+489	c.1466G>T	p.R489M	COSM10318493	1	Substitution - Missense
+490	c.1470T>C	p.H490=	COSM1101419	1	Substitution - coding silent
+491	c.1472G>A	p.R491H	COSM750805	5	Substitution - Missense
+499	c.1496G>A	p.S499N	COSM3942737	1	Substitution - Missense
+501	c.1501C>T	p.R501*	COSM9538220	1	Substitution - Nonsense
+501	c.1503A>T	p.R501=	COSM6516256	1	Substitution - coding silent
+502	c.1506C>T	p.I502=	COSM1719632	4	Substitution - coding silent
+503	c.1509A>C	p.P503=	COSM3834976	1	Substitution - coding silent
+505	c.1514G>A	p.S505N	COSM9664279	1	Substitution - Missense
+508	c.1522del	p.S508Pfs*41	COSM6723107	1	Deletion - Frameshift
+508	c.1523C>T	p.S508F	COSM230153	1	Substitution - Missense
+509	c.1525C>T	p.P509S	COSM3650687	2	Substitution - Missense
+509	c.1526C>T	p.P509L	COSM7195490	1	Substitution - Missense
+515	c.1545C>A	p.S515=	COSM10571986	1	Substitution - coding silent
+516	c.1546C>G	p.P516A	COSM8676009	1	Substitution - Missense
+516	c.1547C>A	p.P516H	COSM10295281	1	Substitution - Missense
+516	c.1547C>T	p.P516L	COSM3650686	1	Substitution - Missense
+518	c.1552G>T	p.G518*	COSM8606089	1	Substitution - Nonsense
+518	c.1553G>T	p.G518V	COSM94807	1	Substitution - Missense
+518	c.1553_1554delinsAC	p.G518D	COSM9829162	1	Substitution - Missense
+520	c.1558T>C	p.C520R	COSM9829161	1	Substitution - Missense
+520	c.1559G>T	p.C520F	COSM10167559	1	Substitution - Missense
+520	c.1560C>T	p.C520=	COSM8810705	1	Substitution - coding silent
+524	c.1570G>T	p.G524*	COSM9195465	2	Substitution - Nonsense
+531	c.1593C>A	p.N531K	COSM6275399	1	Substitution - Missense
+533	c.1598C>T	p.S533F	COSM4469380	1	Substitution - Missense
+535	c.1603A>G	p.N535D	COSM9829160	1	Substitution - Missense
+536	c.1607C>T	p.A536V	COSM1458071	2	Substitution - Missense
+540	c.1618C>T	p.L540F	COSM8569528	1	Substitution - Missense
+540	c.1619T>G	p.L540R	COSM9224245	2	Substitution - Missense
+542	c.1624G>A	p.E542K	COSM1624177	2	Substitution - Missense
+544	c.1631_1632inv	p.H544R	COSM9829159	1	Substitution - Missense
+545	c.1633G>A	p.G545R	COSM750806	3	Substitution - Missense
+545	c.1633G>T	p.G545W	COSM1552795	2	Substitution - Missense
+548	c.1644A>C	p.L548F	COSM9829158	1	Substitution - Missense
+552	c.1654T>C	p.L552=	COSM9085694	1	Substitution - coding silent
+552	c.1655T>C	p.L552S	COSM5434221	1	Substitution - Missense
+555	c.1664_1665inv	p.P555L	COSM9829157	1	Substitution - Missense
+559	c.1675del	p.M559Wfs*11	COSM8538659	1	Deletion - Frameshift
+565	c.1694C>T	p.S565F	COSM3650685	3	Substitution - Missense
+565	c.1695C>T	p.S565=	COSM5581820	1	Substitution - coding silent
+566	c.1697C>T	p.P566L	COSM8207887	1	Substitution - Missense
+567	c.1699G>T	p.V567F	COSM1196836	4	Substitution - Missense
+569	c.1705A>G	p.M569V	COSM4919272	1	Substitution - Missense
+569	c.1707G>A	p.M569I	COSM10724673	1	Substitution - Missense
+570	c.1707_1708insT	p.N570*	COSM5631364	1	Insertion - Frameshift
+571	c.1713T>C	p.P571=	COSM10152245	1	Substitution - coding silent
+573	c.1718C>A	p.P573Q	COSM9954092	1	Substitution - Missense
+573	c.1719A>G	p.P573=	COSM5063313	1	Substitution - coding silent
+577	c.1729A>T	p.M577L	COSM8338343	1	Substitution - Missense
+577	c.1731G>T	p.M577I	COSM8715057	1	Substitution - Missense
+578	c.1732G>A	p.G578R	COSM9195464	2	Substitution - Missense
+581	c.1741G>T	p.D581Y	COSM383564	1	Substitution - Missense
+582	c.1746A>G	p.S582=	COSM3663863	2	Substitution - coding silent
+584	c.1749del	p.D584Tfs*38	COSM6723104	1	Deletion - Frameshift
+584	c.1750G>T	p.D584Y	COSM8921960	1	Substitution - Missense
+586	c.1756T>C	p.F586L	COSM262329	1	Substitution - Missense
+595	c.1784G>T	p.G595V	COSM355307	1	Substitution - Missense
+598	c.1793G>T	p.G598V	COSM218961	2	Substitution - Missense
+598	c.1794A>G	p.G598=	COSM5815949	1	Substitution - coding silent
+601	c.1801G>C	p.E601Q	COSM8741966	1	Substitution - Missense
+602	c.1804A>T	p.S602C	COSM10590961	1	Substitution - Missense
+602	c.1806C>T	p.S602=	COSM10590960	1	Substitution - coding silent
+608	c.1822G>A	p.E608K	COSM8757487	1	Substitution - Missense
+612	c.1834A>G	p.T612A	COSM486638	1	Substitution - Missense
+613	c.1837A>C	p.N613H	COSM5467489	1	Substitution - Missense
+614	c.1840G>A	p.D614N	COSM8217962	1	Substitution - Missense
+615	c.1843C>T	p.P615S	COSM3925540	1	Substitution - Missense
+615	c.1844C>T	p.P615L	COSM5621357	1	Substitution - Missense
+616	c.1848_1849delinsTT	p.NL616=	COSM9652101	1	Substitution - coding silent
+618	c.1854C>A	p.P618=	COSM9001326	1	Substitution - coding silent
+619	c.1856C>A	p.P619Q	COSM9954091	1	Substitution - Missense
+619	c.1856C>G	p.P619R	COSM6854712	1	Substitution - Missense
+620	c.1859C>T	p.A620V	COSM10182095	1	Substitution - Missense
+620	c.1860C>T	p.A620=	COSM9064144	1	Substitution - coding silent
+621	c.1861G>A	p.V621M	COSM3901343	1	Substitution - Missense
+621	c.1861G>T	p.V621L	COSM5979538	1	Substitution - Missense
+621	c.1863G>A	p.V621=	COSM454813	1	Substitution - coding silent
+624	c.1870G>A	p.E624K	COSM390324	1	Substitution - Missense
+627	c.1881C>T	p.D627=	COSM2874629	3	Substitution - coding silent
+628	c.1882G>A	p.G628R	COSM6723116	2	Substitution - Missense
+631	c.1892G>C	p.R631T	COSM10181743	1	Substitution - Missense
+635	c.1905C>A	p.S635R	COSM8442463	1	Substitution - Missense
+635	c.1905C>T	p.S635=	COSM10737599	1	Substitution - coding silent
+637	c.1909G>T	p.G637W	COSM1216851	2	Substitution - Missense
+638	c.1912C>T	p.Q638*	COSM4006958	1	Substitution - Nonsense
+639	c.1915A>C	p.T639P	COSM4705943	1	Substitution - Missense
+644	c.1930C>T	p.L644=	COSM8582479	1	Substitution - coding silent
+652	c.1954A>T	p.M652L	COSM7795411	1	Substitution - Missense
+654	c.1960C>G	p.P654A	COSM6181062	1	Substitution - Missense
+655	c.1964C>T	p.S655L	COSM7662460	1	Substitution - Missense
+655	c.1965G>A	p.S655=	COSM4632487	1	Substitution - coding silent
+656	c.1966C>T	p.P656S	COSM5409828	1	Substitution - Missense
+662	c.?	p.S662L	COSM5885282	1	Substitution - Missense
+664	c.1991C>A	p.T664K	COSM10002178	2	Substitution - Missense
+666	c.1998A>C	p.K666N	COSM10724672	2	Substitution - Missense
+668	c.2002T>A	p.S668T	COSM8188050	1	Substitution - Missense
+670	c.2008G>A	p.G670S	COSM5409827	1	Substitution - Missense
+672	c.2016G>T	p.L672F	COSM6181063	1	Substitution - Missense
+682	c.2045C>T	p.S682L	COSM4998655	2	Substitution - Missense
+682	c.2046G>A	p.S682=	COSM1101418	1	Substitution - coding silent
+685	c.2055G>T	p.E685D	COSM6331583	1	Substitution - Missense
+686	c.2057A>C	p.K686T	COSM9002271	1	Substitution - Missense
+688	c.2063A>G	p.K688R	COSM4006957	1	Substitution - Missense
+688	c.2064A>C	p.K688N	COSM3901342	2	Substitution - Missense
+691	c.2073C>A	p.H691Q	COSM7379142	1	Substitution - Missense
+700	c.2098C>T	p.P700S	COSM10420273	1	Substitution - Missense
+700	c.2099C>T	p.P700L	COSM10209903	1	Substitution - Missense
+701	c.2101G>T	p.V701L	COSM10590959	1	Substitution - Missense
+702	c.2104G>T	p.D702Y	COSM8742248	1	Substitution - Missense
+704	c.2110G>A	p.A704T	COSM7590763	2	Substitution - Missense
+704	c.2112C>A	p.A704=	COSM4163052	1	Substitution - coding silent
+710	c.2130C>A	p.A710=	COSM7823786	1	Substitution - coding silent
+712	c.2135G>A	p.G712D	COSM6278685	1	Substitution - Missense
+715	c.2143C>G	p.L715V	COSM7115225	1	Substitution - Missense
+715	c.2144T>C	p.L715P	COSM3745657	1	Substitution - Missense
+716	c.2147G>A	p.S716N	COSM1458070	1	Substitution - Missense
+720	c.2160_2174del	p.S720_G725delinsR	COSM1731502	2	Deletion - In frame
+725	c.2174G>T	p.G725V	COSM94806	1	Substitution - Missense
+729	c.2185A>G	p.T729A	COSM8207682	1	Substitution - Missense
+734	c.2201C>T	p.P734L	COSM10742984	1	Substitution - Missense
+734	c.2202G>A	p.P734=	COSM6723114	1	Substitution - coding silent
+736	c.2208C>T	p.S736=	COSM5409826	2	Substitution - coding silent
+737	c.2209C>T	p.P737S	COSM5409825	2	Substitution - Missense
+743	c.2227G>A	p.A743T	COSM5772530	2	Substitution - Missense
+743	c.2228C>A	p.A743E	COSM6276854	1	Substitution - Missense
+746	c.2236C>T	p.R746C	COSM3901341	2	Substitution - Missense
+750	c.2249A>T	p.D750V	COSM3942736	1	Substitution - Missense
+756	c.2266G>T	p.D756Y	COSM8581028	1	Substitution - Missense
+756	c.2267A>T	p.D756V	COSM5575648	1	Substitution - Missense
+760	c.2278C>A	p.P760T	COSM3367400	1	Substitution - Missense
+768	c.2304A>G	p.R768=	COSM3901340	1	Substitution - coding silent
+768	c.2304A>T	p.R768S	COSM10724671	1	Substitution - Missense
+775	c.2323C>T	p.P775S	COSM3650684	1	Substitution - Missense
+779	c.2335A>G	p.T779A	COSM8801134	1	Substitution - Missense
+780	c.2340A>G	p.K780=	COSM7816216	1	Substitution - coding silent
+782	c.2346A>C	p.I782=	COSM6212189	1	Substitution - coding silent
+786	c.2356A>G	p.T786A	COSM1101417	1	Substitution - Missense
+787	c.2361G>T	p.E787D	COSM1101416	1	Substitution - Missense
+788	c.2364G>T	p.K788N	COSM8607063	1	Substitution - Missense
+796	c.2387G>A	p.G796D	COSM8536161	1	Substitution - Missense
+797	c.2389G>T	p.D797Y	COSM8606389	1	Substitution - Missense
+798	c.2394G>A	p.Q798=	COSM6857554	1	Substitution - coding silent
+799	c.2395C>T	p.P799S	COSM10724670	1	Substitution - Missense
+801	c.2402G>A	p.S801N	COSM9972200	1	Substitution - Missense
+807	c.2419G>T	p.E807*	COSM7861126	1	Substitution - Nonsense
+811	c.2432A>T	p.D811V	COSM750807	2	Substitution - Missense
+811	c.2433T>A	p.D811E	COSM7840255	1	Substitution - Missense
+817	c.2451A>G	p.Q817=	COSM9947744	2	Substitution - coding silent
+820	c.2459A>T	p.Q820L	COSM6411707	2	Substitution - Missense
+822	c.2466C>T	p.F822=	COSM3925539	1	Substitution - coding silent
+825	c.2475G>A	p.T825=	COSM7593156	1	Substitution - coding silent
+825	c.2475G>C	p.T825=	COSM4705942	1	Substitution - coding silent
+827	c.2479C>G	p.P827A	COSM5791018	1	Substitution - Missense
+828	c.2484C>A	p.G828=	COSM6298790	1	Substitution - coding silent
+828	c.2484C>T	p.G828=	COSM454812	1	Substitution - coding silent
+839	c.2515A>G	p.I839V	COSM8662752	1	Substitution - Missense
+842	c.2524G>A	p.D842N	COSM4436937	1	Substitution - Missense
+842	c.2524G>T	p.D842Y	COSM4163051	1	Substitution - Missense
+843	c.2529C>A	p.L843=	COSM3834975	1	Substitution - coding silent
+846	c.2538C>T	p.L846=	COSM10873020	1	Substitution - coding silent
+848	c.2542G>A	p.A848T	COSM1101415	1	Substitution - Missense
+848	c.2543C>T	p.A848V	COSM3901339	1	Substitution - Missense
+849	c.2545G>A	p.E849K	COSM94805	1	Substitution - Missense
+852	c.2554C>A	p.P852T	COSM10557603	1	Substitution - Missense
+852	c.2556T>C	p.P852=	COSM8703045	1	Substitution - coding silent
+857	c.2570G>C	p.G857A	COSM5046503	1	Substitution - Missense
+859	c.2575C>T	p.Q859*	COSM9538219	1	Substitution - Nonsense
+860	c.2579A>T	p.K860I	COSM6383439	2	Substitution - Missense
+864	c.2591G>A	p.R864Q	COSM6723103	1	Substitution - Missense
+865	c.2593del	p.I865Ffs*49	COSM1101414	1	Deletion - Frameshift
+867	c.2599C>A	p.Q867K	COSM1101413	1	Substitution - Missense
+869	c.2606C>T	p.T869I	COSM9729396	1	Substitution - Missense
+872	c.2614A>G	p.N872D	COSM9899531	1	Substitution - Missense
+873	c.2617C>A	p.P873T	COSM8510921	1	Substitution - Missense
+874	c.2620C>T	p.R874*	COSM3413105	2	Substitution - Nonsense
+874	c.2621G>A	p.R874Q	COSM8191115	1	Substitution - Missense
+879	c.2636G>A	p.G879D	COSM1663014	1	Substitution - Missense
+880	c.2638A>T	p.R880W	COSM9267578	1	Substitution - Missense
+885	c.2655G>A	p.Q885=	COSM8777997	1	Substitution - coding silent
+885	c.2655G>C	p.Q885H	COSM3413104	1	Substitution - Missense
+886	c.2658T>C	p.N886=	COSM2874605	1	Substitution - coding silent
+889	c.2666T>A	p.L889H	COSM8488894	1	Substitution - Missense
+890	c.2668G>A	p.D890N	COSM3951832	1	Substitution - Missense
+891	c.2672T>C	p.I891T	COSM4972489	3	Substitution - Missense
+892	c.2676A>T	p.T892=	COSM2874603	1	Substitution - coding silent
+897	c.2689A>G	p.T897A	COSM4588185	1	Substitution - Missense
+897	c.2690C>A	p.T897N	COSM6259232	1	Substitution - Missense
+899	c.2696C>A	p.A899D	COSM8695945	1	Substitution - Missense
+901	c.2703T>C	p.P901=	COSM8245814	1	Substitution - coding silent
+902	c.2706C>T	p.F902=	COSM10743852	20	Substitution - coding silent
+904	c.2710C>T	p.P904S	COSM9681143	1	Substitution - Missense
+907	c.2720dup	p.N907Kfs*3	COSM7514774	1	Insertion - Frameshift
+910	c.2728C>T	p.P910S	COSM3650683	4	Substitution - Missense
+910	c.2729C>T	p.P910L	COSM8686739	1	Substitution - Missense
+927	c.2780G>T	p.G927V	COSM5523242	1	Substitution - Missense
+931	c.2791A>C	p.N931H	COSM257501	2	Substitution - Missense
+936	c.2808C>T	p.S936=	COSM2874597	3	Substitution - coding silent
+937	c.2810C>A	p.T937K	COSM9143470	1	Substitution - Missense
+938	c.2812G>C	p.G938R	COSM6113502	1	Substitution - Missense
+940	c.2819T>C	p.I940T	COSM8543065	1	Substitution - Missense
+944	c.2830G>A	p.A944T	COSM8567400	1	Substitution - Missense
+946	c.2836C>A	p.R946=	COSM8068051	1	Substitution - coding silent
+946	c.2837G>A	p.R946Q	COSM4445165	1	Substitution - Missense
+947	c.2839C>A	p.P947T	COSM8136429	1	Substitution - Missense
+949	c.2847G>A	p.M949I	COSM1458069	1	Substitution - Missense
+951	c.2851T>A	p.S951T	COSM10321013	1	Substitution - Missense
+952	c.?	p.G952R	COSM6845090	5	Substitution - Missense
+953	c.2859A>T	p.E953D	COSM6723113	1	Substitution - Missense
+954	c.2860T>C	p.W954R	COSM1216857	1	Substitution - Missense
+956	c.2867C>T	p.P956L	COSM1242561	3	Substitution - Missense
+956	c.2868G>A	p.P956=	COSM2874594	4	Substitution - coding silent
+957	c.2871G>C	p.Q957H	COSM7247866	1	Substitution - Missense
+958	c.2873G>A	p.S958N	COSM8700864	1	Substitution - Missense
+959	c.2876C>T	p.S959L	COSM8509438	1	Substitution - Missense
+963	c.2888T>C	p.V963A	COSM8315588	1	Substitution - Missense
+974	c.2920C>T	p.R974W	COSM4485337	1	Substitution - Missense
+974	c.2921G>A	p.R974Q	COSM8197079	1	Substitution - Missense
+976	c.2926G>A	p.V976I	COSM7193523	1	Substitution - Missense
+977	c.2929C>T	p.Q977*	COSM10182324	1	Substitution - Nonsense
+978	c.2933G>A	p.G978E	COSM3834974	1	Substitution - Missense
+979	c.2937T>C	p.G979=	COSM7288292	1	Substitution - coding silent
+982	c.2944C>T	p.R982W	COSM2874593	1	Substitution - Missense
+982	c.2945G>A	p.R982Q	COSM1569564	2	Substitution - Missense
+984	c.2952A>G	p.P984=	COSM3951831	2	Substitution - coding silent
+986	c.2956G>T	p.A986S	COSM6050382	1	Substitution - Missense
+988	c.2964C>G	p.I988M	COSM9809768	1	Substitution - Missense
+989	c.2967C>A	p.P989=	COSM7773384	1	Substitution - coding silent
+990	c.2968A>G	p.M990V	COSM8182535	1	Substitution - Missense
+991	c.2973G>A	p.R991=	COSM5469066	1	Substitution - coding silent
+993	c.2977A>T	p.S993C	COSM6239376	1	Substitution - Missense
+997	c.2990G>A	p.G997D	COSM10724669	1	Substitution - Missense
+1001	c.3002C>T	p.T1001M	COSM9088431	1	Substitution - Missense
+1001	c.3003G>A	p.T1001=	COSM2874590	4	Substitution - coding silent
+1003	c.3008A>T	p.Q1003L	COSM9348380	1	Substitution - Missense
+1013	c.3037G>C	p.E1013Q	COSM750808	1	Substitution - Missense
+1013	c.3039A>G	p.E1013=	COSM486637	1	Substitution - coding silent
+1015	c.3043G>T	p.E1015*	COSM6426391	3	Substitution - Nonsense
+1018	c.3054G>A	p.M1018I	COSM9225299	1	Substitution - Missense
+1019	c.3055G>T	p.G1019W	COSM7773214	1	Substitution - Missense
+1020	c.3059del	p.G1020Dfs*24	COSM4613766	2	Deletion - Frameshift
+1024	c.3071G>A	p.S1024N	COSM6005559	2	Substitution - Missense
+1032	c.3094C>G	p.Q1032E	COSM22019	3	Substitution - Missense
+1035	c.3103C>A	p.P1035T	COSM7409238	1	Substitution - Missense
+1035	c.3104C>A	p.P1035Q	COSM8794984	1	Substitution - Missense
+1036	c.3108G>T	p.W1036C	COSM6394441	2	Substitution - Missense
+1037	c.3110C>A	p.P1037H	COSM7910128	1	Substitution - Missense
+1042	c.3125C>A	p.P1042H	COSM8498328	1	Substitution - Missense
+1044	c.3130G>C	p.D1044H	COSM7317377	1	Substitution - Missense
+1046	c.3136G>A	p.A1046T	COSM10382143	1	Substitution - Missense
+1046	c.3137C>T	p.A1046V	COSM1216854	1	Substitution - Missense
+1046	c.3138G>A	p.A1046=	COSM8494853	1	Substitution - coding silent
+1047	c.3139T>C	p.S1047P	COSM245964	1	Substitution - Missense
+1049	c.3146C>T	p.A1049V	COSM10133217	1	Substitution - Missense
+1055	c.3164C>T	p.P1055L	COSM7379140	1	Substitution - Missense
+1057	c.3170G>A	p.G1057D	COSM3929620	1	Substitution - Missense
+1064	c.3191T>C	p.L1064P	COSM9143469	1	Substitution - Missense
+1066	c.3197C>A	p.P1066Q	COSM7860641	1	Substitution - Missense
+1067	c.3200A>G	p.H1067R	COSM2874583	3	Substitution - Missense
+1068	c.3203C>T	p.P1068L	COSM7969059	1	Substitution - Missense
+1069	c.3206C>T	p.A1069V	COSM8853663	1	Substitution - Missense
+1069	c.3207A>T	p.A1069=	COSM10873019	1	Substitution - coding silent
+1070	c.3208G>T	p.A1070S	COSM8180324	1	Substitution - Missense
+1072	c.3215C>T	p.S1072F	COSM6282760	1	Substitution - Missense
+1073	c.3218C>A	p.P1073Q	COSM6034456	1	Substitution - Missense
+1082	c.3244C>T	p.Q1082*	COSM750809	1	Substitution - Nonsense
+1084	c.3250T>C	p.Y1084H	COSM8842359	1	Substitution - Missense
+1088	c.3263G>A	p.R1088Q	COSM1101412	2	Substitution - Missense
+1088	c.3263G>C	p.R1088P	COSM6181064	1	Substitution - Missense
+1093	c.3277C>A	p.L1093M	COSM2874582	2	Substitution - Missense
+1101	c.3301G>T	p.G1101*	COSM10492050	1	Substitution - Nonsense
+1103	c.3308C>A	p.P1103H	COSM8727467	1	Substitution - Missense
+1104	c.3310G>A	p.E1104K	COSM1101411	5	Substitution - Missense
+1106	c.3317T>C	p.V1106A	COSM10894958	1	Substitution - Missense
+1109	c.3325A>G	p.S1109G	COSM1458067	1	Substitution - Missense
+1114	c.3340C>G	p.P1114A	COSM4421767	1	Substitution - Missense
+1116	c.3346C>A	p.Q1116K	COSM6296461	1	Substitution - Missense
+1116	c.3347A>G	p.Q1116R	COSM4969648	1	Substitution - Missense
+1116	c.3348G>T	p.Q1116H	COSM94804	1	Substitution - Missense
+1118	c.3353C>G	p.S1118*	COSM5498562	1	Substitution - Nonsense
+1120	c.3358C>A	p.Q1120K	COSM6269544	1	Substitution - Missense
+1120	c.3358C>T	p.Q1120*	COSM9859124	2	Substitution - Nonsense
+1121	c.3361G>A	p.D1121N	COSM3901338	1	Substitution - Missense
+1121	c.3361G>T	p.D1121Y	COSM8758001	1	Substitution - Missense
+1130	c.3389C>A	p.A1130E	COSM10724668	1	Substitution - Missense
+1130	c.3389C>T	p.A1130V	COSM5480289	2	Substitution - Missense
+1130	c.3390G>A	p.A1130=	COSM1635854	1	Substitution - coding silent
+1134	c.3400C>T	p.P1134S	COSM4488928	2	Substitution - Missense
+1139	c.3415T>A	p.S1139T	COSM5351522	1	Substitution - Missense
+1139	c.3416C>T	p.S1139F	COSM223275	1	Substitution - Missense
+1148	c.3443A>G	p.Y1148C	COSM2874579	1	Substitution - Missense
+1150	c.3448C>A	p.P1150T	COSM7122480	1	Substitution - Missense
+1150	c.3449C>T	p.P1150L	COSM10617822	1	Substitution - Missense
+1153	c.3457_3462del	p.D1153_P1154del	COSM10293422	1	Deletion - In frame
+1157	c.3471C>A	p.H1157Q	COSM8807920	1	Substitution - Missense
+1162	c.3485G>A	p.R1162Q	COSM7811872	1	Substitution - Missense
+1164	c.3491G>T	p.S1164I	COSM372322	1	Substitution - Missense
+1166	c.3496G>A	p.A1166T	COSM3901337	1	Substitution - Missense
+1168	c.3502C>T	p.L1168F	COSM387901	1	Substitution - Missense
+1169	c.3504_3505delinsTT	p.R1169C	COSM9652026	1	Substitution - Missense
+1169	c.3505C>T	p.R1169C	COSM3925538	3	Substitution - Missense
+1169	c.3506G>A	p.R1169H	COSM7081937	2	Substitution - Missense
+1174	c.3520C>A	p.P1174T	COSM6345031	1	Substitution - Missense
+1175	c.3523G>T	p.G1175C	COSM365409	1	Substitution - Missense
+1176	c.3528C>G	p.L1176=	COSM7135976	1	Substitution - coding silent
+1179	c.3536C>T	p.T1179M	COSM2874576	1	Substitution - Missense
+1179	c.3537G>A	p.T1179=	COSM6723115	2	Substitution - coding silent
+1180	c.3539G>A	p.G1180D	COSM1101410	1	Substitution - Missense
+1180	c.3540C>T	p.G1180=	COSM9640313	1	Substitution - coding silent
+1188	c.3562C>A	p.Q1188K	COSM8132829	1	Substitution - Missense
+1196	c.3586C>T	p.R1196C	COSM9133749	1	Substitution - Missense
+1198	c.3594A>G	p.Q1198=	COSM7204536	1	Substitution - coding silent
+1201	c.3603G>A	p.Q1201=	COSM8251530	1	Substitution - coding silent
+1203	c.3607C>T	p.R1203C	COSM6293718	3	Substitution - Missense
+1203	c.3608G>A	p.R1203H	COSM5358670	3	Substitution - Missense
+1204	c.3612G>A	p.Q1204=	COSM7543070	1	Substitution - coding silent
+1206	c.3617T>G	p.L1206R	COSM75575	1	Substitution - Missense
+1210	c.3628dup	p.I1210Nfs*22	COSM4421768	1	Insertion - Frameshift
+1211	c.3632G>A	p.S1211N	COSM2874573	1	Substitution - Missense
+1215	c.3644A>G	p.N1215S	COSM5560695	1	Substitution - Missense
+1218	c.3654G>T	p.L1218F	COSM7767429	1	Substitution - Missense
+1223	c.3668G>T	p.G1223V	COSM7994257	1	Substitution - Missense
+1224	c.3670G>A	p.V1224I	COSM4971049	1	Substitution - Missense
+1233	c.3699G>T	p.Q1233H	COSM1101409	1	Substitution - Missense
+1235	c.3703C>T	p.L1235=	COSM8524084	1	Substitution - coding silent
+1235	c.3704T>A	p.L1235Q	COSM3663862	2	Substitution - Missense
+1240	c.3718A>G	p.R1240G	COSM2874569	1	Substitution - Missense
+1240	c.3719G>T	p.R1240M	COSM7910887	1	Substitution - Missense
+1240	c.3720G>T	p.R1240S	COSM2874568	1	Substitution - Missense
+1243	c.3729G>A	p.L1243=	COSM3834973	1	Substitution - coding silent
+1247	c.3741T>C	p.L1247=	COSM6723111	1	Substitution - coding silent
+1248	c.3742C>T	p.R1248*	COSM1101408	4	Substitution - Nonsense
+1248	c.3743G>A	p.R1248Q	COSM3901336	1	Substitution - Missense
+1249	c.3747G>C	p.Q1249H	COSM4891152	1	Substitution - Missense
+1251	c.3752A>G	p.Q1251R	COSM7560860	1	Substitution - Missense
+1252	c.3755T>C	p.M1252T	COSM9988782	1	Substitution - Missense
+1256	c.3766C>T	p.Q1256*	COSM1458065	1	Substitution - Nonsense
+1261	c.3782G>A	p.R1261Q	COSM1101407	4	Substitution - Missense
+1262	c.3785C>A	p.T1262N	COSM7591557	1	Substitution - Missense
+1267	c.3799G>T	p.G1267*	COSM10492049	1	Substitution - Nonsense
+1269	c.3805G>T	p.G1269W	COSM6036187	1	Substitution - Missense
+1270	c.3810G>T	p.L1270F	COSM4966764	1	Substitution - Missense
+1272	c.3815T>C	p.M1272T	COSM8833695	1	Substitution - Missense
+1274	c.3820C>A	p.P1274T	COSM10724667	1	Substitution - Missense
+1274	c.3822A>C	p.P1274=	COSM486636	1	Substitution - coding silent
+1275	c.3824G>A	p.S1275N	COSM5440983	1	Substitution - Missense
+1279	c.3836C>A	p.P1279H	COSM9881517	1	Substitution - Missense
+1281	c.3841G>A	p.G1281S	COSM4940437	1	Substitution - Missense
+1281	c.3842G>A	p.G1281D	COSM7379139	2	Substitution - Missense
+1282	c.3846G>C	p.M1282I	COSM3982580	5	Substitution - Missense
+1286	c.3858G>A	p.M1286I	COSM3650682	1	Substitution - Missense
+1289	c.3866C>G	p.P1289R	COSM6578593	2	Substitution - Missense
+1290	c.3868C>G	p.R1290G	COSM7130372	1	Substitution - Missense
+1290	c.3868C>T	p.R1290W	COSM4974566	4	Substitution - Missense
+1290	c.3869G>A	p.R1290Q	COSM6181065	2	Substitution - Missense
+1293	c.3876_3877del	p.Q1293Gfs*19	COSM5446500	1	Deletion - Frameshift
+1296	c.3886G>T	p.A1296S	COSM6368343	2	Substitution - Missense
+1297	c.3891G>A	p.Q1297=	COSM1101406	1	Substitution - coding silent
+1302	c.3904C>T	p.P1302S	COSM4151565	2	Substitution - Missense
+1302	c.3905C>T	p.P1302L	COSM4367920	1	Substitution - Missense
+1305	c.3915C>T	p.Y1305=	COSM5768327	1	Substitution - coding silent
+1306	c.3916G>A	p.G1306R	COSM10090671	1	Substitution - Missense
+1306	c.3916G>T	p.G1306*	COSM8045914	1	Substitution - Nonsense
+1313	c.3937C>T	p.P1313S	COSM9747231	1	Substitution - Missense
+1313	c.3938C>T	p.P1313L	COSM9309107	1	Substitution - Missense
+1313	c.3939A>G	p.P1313=	COSM8423935	1	Substitution - coding silent
+1315	c.3941_3942insA	p.F1315Lfs*72	COSM4765836	1	Insertion - Frameshift
+1315	c.3944T>G	p.F1315C	COSM9225476	1	Substitution - Missense
+1316	c.3946A>C	p.T1316P	COSM4421186	1	Substitution - Missense
+1316	c.3947C>G	p.T1316S	COSM7791359	1	Substitution - Missense
+1316	c.3947C>T	p.T1316I	COSM7476315	1	Substitution - Missense
+1318	c.3952G>A	p.A1318T	COSM10046573	1	Substitution - Missense
+1319	c.3956C>T	p.T1319M	COSM1458064	2	Substitution - Missense
+1320	c.3958A>T	p.T1320S	COSM9264795	1	Substitution - Missense
+1326	c.3978G>A	p.M1326I	COSM8207160	1	Substitution - Missense
+1329	c.3985C>T	p.R1329*	COSM2874565	1	Substitution - Nonsense
+1329	c.3986G>A	p.R1329Q	COSM1101405	2	Substitution - Missense
+1329	c.3986G>T	p.R1329L	COSM8301660	1	Substitution - Missense
+1333	c.3997A>G	p.T1333A	COSM3669919	1	Substitution - Missense
+1339	c.4017A>G	p.Q1339=	COSM85128	1	Substitution - coding silent
+1342	c.4024C>T	p.Q1342*	COSM8638812	1	Substitution - Nonsense
+1344	c.4031A>G	p.N1344S	COSM3781469	1	Substitution - Missense
+1344	c.4032C>A	p.N1344K	COSM321964	1	Substitution - Missense
+1345	c.4035A>G	p.P1345=	COSM1101404	1	Substitution - coding silent
+1348	c.4042C>T	p.Q1348*	COSM377742	3	Substitution - Nonsense
+1349	c.4046C>A	p.A1349D	COSM9988538	1	Substitution - Missense
+1350	c.4049C>T	p.P1350L	COSM3925537	1	Substitution - Missense
+1351	c.4053C>T	p.S1351=	COSM3650681	2	Substitution - coding silent
+1352	c.4054G>A	p.D1352N	COSM1101403	1	Substitution - Missense
+1355	c.4064G>A	p.G1355E	COSM223274	1	Substitution - Missense
+1357	c.4070C>T	p.A1357V	COSM3901335	2	Substitution - Missense
+1359	c.4075G>A	p.G1359R	COSM7324521	1	Substitution - Missense
+1361	c.4083G>A	p.M1361I	COSM9885503	1	Substitution - Missense
+1363	c.4087G>A	p.G1363R	COSM1552800	4	Substitution - Missense
+1365	c.4094G>A	p.S1365N	COSM5346389	1	Substitution - Missense
+1367	c.4101_4108del	p.F1367Lfs*17	COSM10806323	1	Deletion - Frameshift
+1368	c.4104C>T	p.S1368=	COSM2874563	1	Substitution - coding silent
+1369	c.4107G>A	p.Q1369=	COSM1101402	1	Substitution - coding silent
+1376	c.4126G>T	p.G1376W	COSM4608020	1	Substitution - Missense
+1376	c.4127G>A	p.G1376E	COSM7738973	1	Substitution - Missense
+1382	c.4145G>A	p.S1382N	COSM1314178	1	Substitution - Missense
+1384	c.4150T>A	p.Y1384N	COSM4151564	1	Substitution - Missense
+1384	c.4150T>G	p.Y1384D	COSM10468723	1	Substitution - Missense
+1384	c.4151A>T	p.Y1384F	COSM2874562	1	Substitution - Missense
+1384	c.4152C>A	p.Y1384*	COSM2874561	1	Substitution - Nonsense
+1390	c.4169T>A	p.I1390N	COSM10449550	1	Substitution - Missense
+1393	c.4178C>T	p.S1393F	COSM10724666	1	Substitution - Missense
+1394	c.4180A>T	p.M1394L	COSM8347370	1	Substitution - Missense
+1394	c.4182G>T	p.M1394I	COSM335744	1	Substitution - Missense
+1395	c.4185G>A	p.A1395=	COSM4389717	1	Substitution - coding silent
+1405	c.4215C>A	p.N1405K	COSM6247267	1	Substitution - Missense
+1414	c.4240A>T	p.T1414S	COSM7610810	1	Substitution - Missense
+1416	c.4248G>T	p.V1416=	COSM7737940	1	Substitution - coding silent
+1418	c.4254C>A	p.S1418=	COSM8066414	1	Substitution - coding silent
+1418	c.4254C>T	p.S1418=	COSM6240304	1	Substitution - coding silent
+1419	c.4255G>A	p.V1419M	COSM5368779	1	Substitution - Missense
+1421	c.4262C>T	p.T1421M	COSM9264907	1	Substitution - Missense
+1421	c.4263G>A	p.T1421=	COSM6723109	1	Substitution - coding silent
+1425	c.4275C>T	p.S1425=	COSM3925536	2	Substitution - coding silent
+1427	c.4279A>T	p.M1427L	COSM7925017	1	Substitution - Missense
+1428	c.4282G>T	p.G1428C	COSM249393	1	Substitution - Missense
+1429	c.4285C>T	p.P1429S	COSM3901334	1	Substitution - Missense
+1429	c.4287C>A	p.P1429=	COSM7927672	1	Substitution - coding silent
+1429	c.4287C>T	p.P1429=	COSM4924801	1	Substitution - coding silent
+1434	c.4301A>G	p.D1434G	COSM5817867	1	Substitution - Missense
+1435	c.4304C>A	p.P1435H	COSM6321383	1	Substitution - Missense
+1435	c.4304C>T	p.P1435L	COSM10183290	1	Substitution - Missense
+1438	c.4313G>T	p.R1438M	COSM8068325	1	Substitution - Missense
+1438	c.4314G>T	p.R1438S	COSM7521133	2	Substitution - Missense
+1443	c.4329C>T	p.F1443=	COSM5639928	1	Substitution - coding silent
+1445	c.4333A>G	p.N1445D	COSM7508599	1	Substitution - Missense
+1449	c.4345G>T	p.G1449*	COSM7986172	2	Substitution - Nonsense
+1451	c.4352A>C	p.D1451A	COSM8614166	1	Substitution - Missense
+1451	c.4352A>G	p.D1451G	COSM3901333	1	Substitution - Missense
+1451	c.4352A>T	p.D1451V	COSM398388	1	Substitution - Missense
+1452	c.4354A>G	p.M1452V	COSM7379137	2	Substitution - Missense
+1452	c.4355T>G	p.M1452R	COSM3901332	1	Substitution - Missense
+1454	c.4362G>A	p.K1454=	COSM7707189	1	Substitution - coding silent
+1456	c.4368G>T	p.E1456D	COSM7990186	2	Substitution - Missense
+1461	c.4381C>T	p.R1461W	COSM1458063	3	Substitution - Missense
+1461	c.4382G>A	p.R1461Q	COSM304591	1	Substitution - Missense
+1461	c.4382G>T	p.R1461L	COSM8848927	1	Substitution - Missense
+1464	c.4391G>A	p.C1464Y	COSM8899667	1	Substitution - Missense
+	c.-13A>G	p.?	COSN31559414	1	Unknown
+	c.-19-1008T>G	p.?	COSN24744864	1	Unknown
+	c.-19-10207G>T	p.?	COSN29148441	1	Unknown
+	c.-19-10208T>C	p.?	COSN29151853	1	Unknown
+	c.-19-10464G>A	p.?	COSN14856427	1	Unknown
+	c.-19-1046T>A	p.?	COSN20624764	1	Unknown
+	c.-19-10756C>G	p.?	COSN22689606	1	Unknown
+	c.-19-10792A>C	p.?	COSN26752365	1	Unknown
+	c.-19-10941A>T	p.?	COSN6361307	1	Unknown
+	c.-19-10998G>T	p.?	COSN14744127	1	Unknown
+	c.-19-11018T>C	p.?	COSN2490964	1	Unknown
+	c.-19-11035C>G	p.?	COSN22542286	2	Unknown
+	c.-19-11109C>T	p.?	COSN6361308	1	Unknown
+	c.-19-11281G>T	p.?	COSN24849128	1	Unknown
+	c.-19-1192G>C	p.?	COSN30440416	1	Unknown
+	c.-19-11949G>T	p.?	COSN27359066	1	Unknown
+	c.-19-12186G>A	p.?	COSN24780689	1	Unknown
+	c.-19-1218A>T	p.?	COSN33230636	1	Unknown
+	c.-19-12270A>G	p.?	COSN6361309	1	Unknown
+	c.-19-12336C>A	p.?	COSN8098779	1	Unknown
+	c.-19-12686T>C	p.?	COSN33258152	1	Unknown
+	c.-19-13042A>C	p.?	COSN24671058	1	Unknown
+	c.-19-13090C>T	p.?	COSN24864695	1	Unknown
+	c.-19-13286G>T	p.?	COSN152317	1	Unknown
+	c.-19-13580A>G	p.?	COSN8098780	1	Unknown
+	c.-19-13796A>G	p.?	COSN2287446	1	Unknown
+	c.-19-14118C>T	p.?	COSN2287447	1	Unknown
+	c.-19-1416G>A	p.?	COSN22224168	1	Unknown
+	c.-19-14222A>G	p.?	COSN5687189	1	Unknown
+	c.-19-1436dup	p.?	COSN27296744	3	Unknown
+	c.-19-14689G>C	p.?	COSN21336926	1	Unknown
+	c.-19-14958T>C	p.?	COSN7676504	1	Unknown
+	c.-19-1503T>C	p.?	COSN7676503	1	Unknown
+	c.-19-15202C>G	p.?	COSN22583112	1	Unknown
+	c.-19-15461G>T	p.?	COSN1367732	1	Unknown
+	c.-19-15520C>G	p.?	COSN21596478	1	Unknown
+	c.-19-15688C>T	p.?	COSN7676505	1	Unknown
+	c.-19-16129_-19-16128insCGTGTGTGTGTGTG	p.?	COSN23355989	1	Unknown
+	c.-19-16324C>T	p.?	COSN26592167	1	Unknown
+	c.-19-16451C>T	p.?	COSN15152853	1	Unknown
+	c.-19-1654A>G	p.?	COSN8098775	1	Unknown
+	c.-19-16948C>A	p.?	COSN17010014	1	Unknown
+	c.-19-17084T>C	p.?	COSN1367733	1	Unknown
+	c.-19-17693G>C	p.?	COSN8098781	1	Unknown
+	c.-19-17800A>G	p.?	COSN33428640	1	Unknown
+	c.-19-18505A>G	p.?	COSN5114482	1	Unknown
+	c.-19-18631G>C	p.?	COSN24008094	1	Unknown
+	c.-19-18925G>C	p.?	COSN24007817	1	Unknown
+	c.-19-18944C>T	p.?	COSN20486925	1	Unknown
+	c.-19-19511G>A	p.?	COSN20864753	1	Unknown
+	c.-19-1953A>G	p.?	COSN5687188	1	Unknown
+	c.-19-19606G>A	p.?	COSN26460585	1	Unknown
+	c.-19-20299A>G	p.?	COSN24945473	1	Unknown
+	c.-19-20311C>A	p.?	COSN15564256	1	Unknown
+	c.-19-20436A>T	p.?	COSN17879304	1	Unknown
+	c.-19-20663dup	p.?	COSN27432870	1	Unknown
+	c.-19-21023C>G	p.?	COSN32207631	1	Unknown
+	c.-19-21200C>A	p.?	COSN20960113	2	Unknown
+	c.-19-21232A>C	p.?	COSN9667607	1	Unknown
+	c.-19-21306T>A	p.?	COSN20270020	1	Unknown
+	c.-19-21336G>C	p.?	COSN21662927	1	Unknown
+	c.-19-21380C>T	p.?	COSN27143999	1	Unknown
+	c.-19-21388C>T	p.?	COSN17190904	2	Unknown
+	c.-19-21399G>A	p.?	COSN17249824	1	Unknown
+	c.-19-21599C>T	p.?	COSN25422512	1	Unknown
+	c.-19-21676C>A	p.?	COSN29941424	1	Unknown
+	c.-19-21807G>A	p.?	COSN26278775	1	Unknown
+	c.-19-21869C>T	p.?	COSN9667608	1	Unknown
+	c.-19-22011C>T	p.?	COSN17680019	1	Unknown
+	c.-19-22342del	p.?	COSN2287448	1	Unknown
+	c.-19-22528A>G	p.?	COSN27191306	2	Unknown
+	c.-19-22567A>G	p.?	COSN33179638	1	Unknown
+	c.-19-22679C>A	p.?	COSN25792561	1	Unknown
+	c.-19-22885G>A	p.?	COSN4941581	2	Unknown
+	c.-19-23424G>C	p.?	COSN14918243	1	Unknown
+	c.-19-23447C>G	p.?	COSN29322699	1	Unknown
+	c.-19-23762A>C	p.?	COSN6361310	1	Unknown
+	c.-19-23844G>A	p.?	COSN29321361	1	Unknown
+	c.-19-23849A>G	p.?	COSN9268327	1	Unknown
+	c.-19-239C>T	p.?	COSN33428636	1	Unknown
+	c.-19-24062C>G	p.?	COSN20744311	1	Unknown
+	c.-19-24081G>A	p.?	COSN8098782	1	Unknown
+	c.-19-2422C>A	p.?	COSN28415014	1	Unknown
+	c.-19-24682C>T	p.?	COSN22282409	1	Unknown
+	c.-19-24880T>C	p.?	COSN32746250	1	Unknown
+	c.-19-25243G>T	p.?	COSN9667609	1	Unknown
+	c.-19-25251A>G	p.?	COSN27938263	1	Unknown
+	c.-19-25366A>G	p.?	COSN21217054	1	Unknown
+	c.-19-25375C>A	p.?	COSN15064597	1	Unknown
+	c.-19-25628A>G	p.?	COSN2287449	1	Unknown
+	c.-19-25677C>A	p.?	COSN22648280	1	Unknown
+	c.-19-25725A>T	p.?	COSN21059073	1	Unknown
+	c.-19-25816A>G	p.?	COSN1367734	1	Unknown
+	c.-19-25896A>C	p.?	COSN16553110	1	Unknown
+	c.-19-26137T>C	p.?	COSN22741208	1	Unknown
+	c.-19-26225G>C	p.?	COSN22253128	1	Unknown
+	c.-19-26418del	p.?	COSN30301357	1	Unknown
+	c.-19-26662G>A	p.?	COSN2527463	1	Unknown
+	c.-19-26724A>G	p.?	COSN32592896	1	Unknown
+	c.-19-26927C>T	p.?	COSN29700231	1	Unknown
+	c.-19-26T>C	p.?	COSN30700669	1	Unknown
+	c.-19-27029_-19-27028dup	p.?	COSN29238636	2	Unknown
+	c.-19-27125G>A	p.?	COSN8098783	1	Unknown
+	c.-19-27271A>G	p.?	COSN9667610	2	Unknown
+	c.-19-27386C>T	p.?	COSN24571911	1	Unknown
+	c.-19-27864T>G	p.?	COSN30316585	1	Unknown
+	c.-19-28305G>A	p.?	COSN26513819	1	Unknown
+	c.-19-28318A>G	p.?	COSN16445448	1	Unknown
+	c.-19-28326G>T	p.?	COSN8098784	1	Unknown
+	c.-19-28364C>A	p.?	COSN22550579	1	Unknown
+	c.-19-28607C>A	p.?	COSN9667611	1	Unknown
+	c.-19-2866C>T	p.?	COSN15213508	1	Unknown
+	c.-19-28dup	p.?	COSN30599292	1	Unknown
+	c.-19-29363_-19-29350del	p.?	COSN25652628	1	Unknown
+	c.-19-29364A>G	p.?	COSN6601263	1	Unknown
+	c.-19-29418T>A	p.?	COSN33296423	1	Unknown
+	c.-19-29548A>G	p.?	COSN6361311	1	Unknown
+	c.-19-29669C>G	p.?	COSN15116651	1	Unknown
+	c.-19-29809A>G	p.?	COSN33009309	1	Unknown
+	c.-19-29974C>T	p.?	COSN29449050	1	Unknown
+	c.-19-2A>T	p.?	COSN525660	7	Unknown
+	c.-19-30176G>A	p.?	COSN15853185	3	Unknown
+	c.-19-30366T>C	p.?	COSN6361312	1	Unknown
+	c.-19-30539T>A	p.?	COSN24326349	1	Unknown
+	c.-19-3070C>T	p.?	COSN20485781	1	Unknown
+	c.-19-3082C>T	p.?	COSN19425540	1	Unknown
+	c.-19-31051C>T	p.?	COSN21419025	1	Unknown
+	c.-19-31197A>G	p.?	COSN22742263	1	Unknown
+	c.-19-31239G>T	p.?	COSN6361313	1	Unknown
+	c.-19-31247C>A	p.?	COSN30396973	1	Unknown
+	c.-19-31475G>A	p.?	COSN5687190	1	Unknown
+	c.-19-31845C>A	p.?	COSN4924055	1	Unknown
+	c.-19-31878G>A	p.?	COSN17307970	1	Unknown
+	c.-19-32030A>C	p.?	COSN33428641	1	Unknown
+	c.-19-3217G>A	p.?	COSN22363896	1	Unknown
+	c.-19-32287A>G	p.?	COSN2287450	1	Unknown
+	c.-19-32294C>G	p.?	COSN32207632	1	Unknown
+	c.-19-32359T>C	p.?	COSN21404723	1	Unknown
+	c.-19-32380A>T	p.?	COSN6361314	1	Unknown
+	c.-19-32465G>T	p.?	COSN6601264	1	Unknown
+	c.-19-32555G>A	p.?	COSN20500372	1	Unknown
+	c.-19-32748T>C	p.?	COSN15203696	1	Unknown
+	c.-19-32923C>G	p.?	COSN30323919	1	Unknown
+	c.-19-33213T>C	p.?	COSN15586703	1	Unknown
+	c.-19-33216C>T	p.?	COSN20381941	1	Unknown
+	c.-19-33216del	p.?	COSN18751400	1	Unknown
+	c.-19-33354G>A	p.?	COSN33823347	1	Unknown
+	c.-19-33625A>T	p.?	COSN33428642	1	Unknown
+	c.-19-34000C>T	p.?	COSN22622336	2	Unknown
+	c.-19-34128G>T	p.?	COSN16679649	1	Unknown
+	c.-19-34384T>A	p.?	COSN23407070	1	Unknown
+	c.-19-3448A>G	p.?	COSN16443612	1	Unknown
+	c.-19-344G>T	p.?	COSN9667605	1	Unknown
+	c.-19-34697C>G	p.?	COSN32579541	1	Unknown
+	c.-19-34962A>G	p.?	COSN9667612	1	Unknown
+	c.-19-35169G>T	p.?	COSN21586420	2	Unknown
+	c.-19-35534C>G	p.?	COSN21626754	1	Unknown
+	c.-19-35543C>T	p.?	COSN21629314	1	Unknown
+	c.-19-35584C>G	p.?	COSN9667613	1	Unknown
+	c.-19-36411T>C	p.?	COSN16498407	1	Unknown
+	c.-19-36415C>T	p.?	COSN20488033	1	Unknown
+	c.-19-36500C>T	p.?	COSN20578901	1	Unknown
+	c.-19-36912C>G	p.?	COSN21981763	1	Unknown
+	c.-19-36919C>T	p.?	COSN21394310	1	Unknown
+	c.-19-37662A>G	p.?	COSN15839032	1	Unknown
+	c.-19-37772T>C	p.?	COSN21511449	1	Unknown
+	c.-19-38271C>T	p.?	COSN9667614	1	Unknown
+	c.-19-38613C>T	p.?	COSN20469323	1	Unknown
+	c.-19-38647A>C	p.?	COSN21706600	1	Unknown
+	c.-19-38784A>G	p.?	COSN21621909	1	Unknown
+	c.-19-39151A>G	p.?	COSN8098785	1	Unknown
+	c.-19-39170C>A	p.?	COSN28294617	1	Unknown
+	c.-19-39286G>T	p.?	COSN21956920	1	Unknown
+	c.-19-39309G>A	p.?	COSN20233406	2	Unknown
+	c.-19-39320T>A	p.?	COSN2287451	1	Unknown
+	c.-19-39505C>G	p.?	COSN9268328	1	Unknown
+	c.-19-39505C>T	p.?	COSN2287452	1	Unknown
+	c.-19-39525C>T	p.?	COSN25764210	1	Unknown
+	c.-19-39530C>T	p.?	COSN4882215	1	Unknown
+	c.-19-39778A>G	p.?	COSN19129531	2	Unknown
+	c.-19-39798T>C	p.?	COSN6361315	1	Unknown
+	c.-19-4312A>T	p.?	COSN17418334	1	Unknown
+	c.-19-4328T>G	p.?	COSN33428637	1	Unknown
+	c.-19-4334C>G	p.?	COSN21443984	1	Unknown
+	c.-19-4371A>C	p.?	COSN24163102	1	Unknown
+	c.-19-4377G>A	p.?	COSN22183811	1	Unknown
+	c.-19-4414G>T	p.?	COSN9667606	1	Unknown
+	c.-19-4712C>T	p.?	COSN16015012	1	Unknown
+	c.-19-4894T>G	p.?	COSN28067927	1	Unknown
+	c.-19-5132C>T	p.?	COSN16122468	1	Unknown
+	c.-19-5172A>G	p.?	COSN2287443	1	Unknown
+	c.-19-5319G>T	p.?	COSN17204751	1	Unknown
+	c.-19-5336A>T	p.?	COSN33428638	1	Unknown
+	c.-19-5443C>G	p.?	COSN21103624	1	Unknown
+	c.-19-5699dup	p.?	COSN22825278	1	Unknown
+	c.-19-6137G>A	p.?	COSN20284728	1	Unknown
+	c.-19-6322G>A	p.?	COSN8098776	1	Unknown
+	c.-19-6473A>T	p.?	COSN2287444	1	Unknown
+	c.-19-6510T>G	p.?	COSN25111044	1	Unknown
+	c.-19-6658G>A	p.?	COSN33428639	1	Unknown
+	c.-19-6834G>T	p.?	COSN32574708	1	Unknown
+	c.-19-7013T>G	p.?	COSN8098777	1	Unknown
+	c.-19-7085A>T	p.?	COSN23378867	1	Unknown
+	c.-19-7137C>T	p.?	COSN22632987	1	Unknown
+	c.-19-7146T>C	p.?	COSN26798274	1	Unknown
+	c.-19-7147A>G	p.?	COSN21869015	1	Unknown
+	c.-19-71G>A	p.?	COSN24311361	1	Unknown
+	c.-19-7389C>G	p.?	COSN24044668	1	Unknown
+	c.-19-7423C>T	p.?	COSN26742362	1	Unknown
+	c.-19-7987A>G	p.?	COSN2287445	1	Unknown
+	c.-19-8015T>A	p.?	COSN28506109	1	Unknown
+	c.-19-8047A>T	p.?	COSN22613911	1	Unknown
+	c.-19-8377T>C	p.?	COSN26171950	1	Unknown
+	c.-19-8475A>G	p.?	COSN6361305	1	Unknown
+	c.-19-8480T>C	p.?	COSN6361306	1	Unknown
+	c.-19-8753G>T	p.?	COSN28475695	1	Unknown
+	c.-19-9162dup	p.?	COSN28379546	1	Unknown
+	c.-19-9883T>G	p.?	COSN8098778	1	Unknown
+	c.-19-9917_-19-9916del	p.?	COSN29660975	1	Unknown
+	c.-19-9917_-19-9916dup	p.?	COSN29625829	1	Unknown
+	c.-20+10024C>T	p.?	COSN6361326	1	Unknown
+	c.-20+10341T>C	p.?	COSN27914931	1	Unknown
+	c.-20+10475C>G	p.?	COSN33428644	1	Unknown
+	c.-20+10495dup	p.?	COSN19611836	1	Unknown
+	c.-20+10511G>A	p.?	COSN9677385	1	Unknown
+	c.-20+1076C>T	p.?	COSN22717344	1	Unknown
+	c.-20+10911G>T	p.?	COSN17241318	1	Unknown
+	c.-20+11030G>C	p.?	COSN21902581	1	Unknown
+	c.-20+11185T>A	p.?	COSN23385506	1	Unknown
+	c.-20+11695A>G	p.?	COSN29490772	2	Unknown
+	c.-20+11823A>G	p.?	COSN2287471	2	Unknown
+	c.-20+1190A>G	p.?	COSN5687198	1	Unknown
+	c.-20+11980T>C	p.?	COSN6361325	1	Unknown
+	c.-20+12110C>G	p.?	COSN9677384	2	Unknown
+	c.-20+12169G>A	p.?	COSN8098792	1	Unknown
+	c.-20+12399A>G	p.?	COSN33009311	1	Unknown
+	c.-20+12474A>C	p.?	COSN16672540	1	Unknown
+	c.-20+12535A>G	p.?	COSN29223429	1	Unknown
+	c.-20+12561A>T	p.?	COSN54909	1	Unknown
+	c.-20+12661G>T	p.?	COSN23823993	1	Unknown
+	c.-20+1268_-20+1316del	p.?	COSN33428646	1	Unknown
+	c.-20+12846C>G	p.?	COSN5687194	1	Unknown
+	c.-20+12962G>A	p.?	COSN24828502	1	Unknown
+	c.-20+13177C>G	p.?	COSN25504378	1	Unknown
+	c.-20+13186T>G	p.?	COSN15004182	1	Unknown
+	c.-20+13431C>T	p.?	COSN9667619	1	Unknown
+	c.-20+13537T>G	p.?	COSN16144956	1	Unknown
+	c.-20+13627G>T	p.?	COSN8354416	2	Unknown
+	c.-20+13788G>A	p.?	COSN33009310	1	Unknown
+	c.-20+13879G>A	p.?	COSN22964484	1	Unknown
+	c.-20+13946G>A	p.?	COSN29370613	1	Unknown
+	c.-20+14411C>T	p.?	COSN2841933	1	Unknown
+	c.-20+14437G>T	p.?	COSN31654004	1	Unknown
+	c.-20+14585T>C	p.?	COSN16935655	1	Unknown
+	c.-20+14677C>T	p.?	COSN29508853	1	Unknown
+	c.-20+15238T>G	p.?	COSN26030164	1	Unknown
+	c.-20+15263T>C	p.?	COSN20949968	1	Unknown
+	c.-20+16181A>G	p.?	COSN2287470	2	Unknown
+	c.-20+16426A>G	p.?	COSN2287469	1	Unknown
+	c.-20+16624G>T	p.?	COSN19492637	1	Unknown
+	c.-20+16970A>G	p.?	COSN8860355	1	Unknown
+	c.-20+1749C>G	p.?	COSN25190894	1	Unknown
+	c.-20+17513G>A	p.?	COSN6361324	1	Unknown
+	c.-20+17598T>C	p.?	COSN24618069	1	Unknown
+	c.-20+18008C>T	p.?	COSN18955273	3	Unknown
+	c.-20+18109A>T	p.?	COSN29175296	1	Unknown
+	c.-20+181A>C	p.?	COSN9677387	2	Unknown
+	c.-20+18542G>C	p.?	COSN24955494	1	Unknown
+	c.-20+18866A>G	p.?	COSN29861759	1	Unknown
+	c.-20+18935G>T	p.?	COSN24880288	1	Unknown
+	c.-20+18983G>A	p.?	COSN21229943	1	Unknown
+	c.-20+19601del	p.?	COSN29779988	1	Unknown
+	c.-20+19805T>A	p.?	COSN24898386	1	Unknown
+	c.-20+20097T>C	p.?	COSN8098791	1	Unknown
+	c.-20+20246T>A	p.?	COSN2287468	1	Unknown
+	c.-20+20329T>G	p.?	COSN16827886	1	Unknown
+	c.-20+2073T>C	p.?	COSN7676507	1	Unknown
+	c.-20+20770A>G	p.?	COSN24142841	1	Unknown
+	c.-20+20945A>G	p.?	COSN2287467	2	Unknown
+	c.-20+2100A>G	p.?	COSN31631690	1	Unknown
+	c.-20+21043C>G	p.?	COSN19119174	1	Unknown
+	c.-20+21198A>G	p.?	COSN2287466	1	Unknown
+	c.-20+21262C>T	p.?	COSN22259520	1	Unknown
+	c.-20+21623A>G	p.?	COSN6361323	1	Unknown
+	c.-20+2174C>T	p.?	COSN32207638	1	Unknown
+	c.-20+21962C>T	p.?	COSN25818321	1	Unknown
+	c.-20+22287G>T	p.?	COSN26379202	1	Unknown
+	c.-20+22538del	p.?	COSN27403022	2	Unknown
+	c.-20+22538dup	p.?	COSN27552071	1	Unknown
+	c.-20+22567G>T	p.?	COSN6519062	1	Unknown
+	c.-20+22617A>G	p.?	COSN6361322	1	Unknown
+	c.-20+22829A>G	p.?	COSN32433792	1	Unknown
+	c.-20+22838A>G	p.?	COSN8519333	2	Unknown
+	c.-20+22863T>G	p.?	COSN8098790	1	Unknown
+	c.-20+22982dup	p.?	COSN29691833	1	Unknown
+	c.-20+23152G>A	p.?	COSN8810752	2	Unknown
+	c.-20+23233_-20+23236del	p.?	COSN1084678	1	Unknown
+	c.-20+23234T>C	p.?	COSN8810751	1	Unknown
+	c.-20+23250G>A	p.?	COSN1084679	2	Unknown
+	c.-20+23337C>T	p.?	COSN21981764	1	Unknown
+	c.-20+23398G>T	p.?	COSN8519332	2	Unknown
+	c.-20+23462G>A	p.?	COSN29157418	1	Unknown
+	c.-20+23719C>G	p.?	COSN9667618	1	Unknown
+	c.-20+23804T>G	p.?	COSN16848505	1	Unknown
+	c.-20+24308A>G	p.?	COSN5687192	1	Unknown
+	c.-20+24314A>T	p.?	COSN2287465	2	Unknown
+	c.-20+24389G>A	p.?	COSN9667617	1	Unknown
+	c.-20+25024C>G	p.?	COSN26714138	1	Unknown
+	c.-20+25074C>T	p.?	COSN23729874	1	Unknown
+	c.-20+25677del	p.?	COSN2287464	1	Unknown
+	c.-20+25945G>A	p.?	COSN25320174	1	Unknown
+	c.-20+26171A>C	p.?	COSN27605565	1	Unknown
+	c.-20+26488C>G	p.?	COSN22038331	1	Unknown
+	c.-20+26541T>C	p.?	COSN9268331	1	Unknown
+	c.-20+26687G>A	p.?	COSN29790098	1	Unknown
+	c.-20+2694A>G	p.?	COSN2287476	1	Unknown
+	c.-20+27268A>T	p.?	COSN20152104	1	Unknown
+	c.-20+27279A>T	p.?	COSN17308779	2	Unknown
+	c.-20+27392G>T	p.?	COSN1367736	1	Unknown
+	c.-20+27511A>G	p.?	COSN2287463	1	Unknown
+	c.-20+27621T>A	p.?	COSN8098789	1	Unknown
+	c.-20+27955C>T	p.?	COSN7676506	1	Unknown
+	c.-20+2833A>C	p.?	COSN26537174	1	Unknown
+	c.-20+28344A>C	p.?	COSN29753763	1	Unknown
+	c.-20+28416A>G	p.?	COSN2287462	1	Unknown
+	c.-20+28749A>G	p.?	COSN8578246	1	Unknown
+	c.-20+28750A>G	p.?	COSN8098788	1	Unknown
+	c.-20+2886A>T	p.?	COSN20643311	1	Unknown
+	c.-20+29327A>G	p.?	COSN155086	1	Unknown
+	c.-20+29351del	p.?	COSN18752410	1	Unknown
+	c.-20+29352_-20+29353del	p.?	COSN27610023	1	Unknown
+	c.-20+29385G>T	p.?	COSN22631851	1	Unknown
+	c.-20+29915C>T	p.?	COSN17689741	1	Unknown
+	c.-20+29916G>A	p.?	COSN16907403	1	Unknown
+	c.-20+3078A>C	p.?	COSN21105547	1	Unknown
+	c.-20+30906C>A	p.?	COSN6519061	1	Unknown
+	c.-20+30917C>A	p.?	COSN1367735	1	Unknown
+	c.-20+30952G>A	p.?	COSN2287461	1	Unknown
+	c.-20+30971A>G	p.?	COSN6361320	1	Unknown
+	c.-20+31188T>A	p.?	COSN9268330	1	Unknown
+	c.-20+31245C>T	p.?	COSN2287460	1	Unknown
+	c.-20+31381C>T	p.?	COSN16945963	1	Unknown
+	c.-20+31638T>G	p.?	COSN26299318	1	Unknown
+	c.-20+31643T>A	p.?	COSN21748828	1	Unknown
+	c.-20+31673G>T	p.?	COSN23534750	1	Unknown
+	c.-20+31784G>A	p.?	COSN32047956	1	Unknown
+	c.-20+31828G>T	p.?	COSN28350020	1	Unknown
+	c.-20+31910del	p.?	COSN29602443	1	Unknown
+	c.-20+32387A>G	p.?	COSN25094263	1	Unknown
+	c.-20+32396T>A	p.?	COSN2287459	1	Unknown
+	c.-20+32481T>G	p.?	COSN6361319	1	Unknown
+	c.-20+32517T>C	p.?	COSN17817644	1	Unknown
+	c.-20+32713C>T	p.?	COSN9667616	1	Unknown
+	c.-20+32818G>T	p.?	COSN8098787	1	Unknown
+	c.-20+32952A>T	p.?	COSN6361318	1	Unknown
+	c.-20+33035C>T	p.?	COSN4924057	1	Unknown
+	c.-20+33037G>A	p.?	COSN32456654	1	Unknown
+	c.-20+33205G>C	p.?	COSN22617617	1	Unknown
+	c.-20+3330G>C	p.?	COSN24863012	1	Unknown
+	c.-20+33443G>A	p.?	COSN32207635	1	Unknown
+	c.-20+33705G>A	p.?	COSN32207634	1	Unknown
+	c.-20+33762G>C	p.?	COSN32207633	1	Unknown
+	c.-20+33950G>C	p.?	COSN16997759	1	Unknown
+	c.-20+33969C>A	p.?	COSN2287458	1	Unknown
+	c.-20+34010G>T	p.?	COSN2287457	2	Unknown
+	c.-20+34614G>C	p.?	COSN2287456	1	Unknown
+	c.-20+34726T>A	p.?	COSN17490316	1	Unknown
+	c.-20+3515A>G	p.?	COSN14756913	1	Unknown
+	c.-20+35198C>G	p.?	COSN4924056	1	Unknown
+	c.-20+35288G>C	p.?	COSN9667615	1	Unknown
+	c.-20+35326T>A	p.?	COSN19523003	1	Unknown
+	c.-20+35983A>C	p.?	COSN16160945	1	Unknown
+	c.-20+36096A>G	p.?	COSN15953185	1	Unknown
+	c.-20+3631A>C	p.?	COSN32568959	1	Unknown
+	c.-20+36341C>A	p.?	COSN21938160	1	Unknown
+	c.-20+36341C>G	p.?	COSN16855660	1	Unknown
+	c.-20+36494A>C	p.?	COSN22005006	2	Unknown
+	c.-20+36535C>T	p.?	COSN21782151	1	Unknown
+	c.-20+3697dup	p.?	COSN29519716	2	Unknown
+	c.-20+37074T>C	p.?	COSN6361317	1	Unknown
+	c.-20+37149A>G	p.?	COSN6361316	1	Unknown
+	c.-20+37189T>A	p.?	COSN24836512	1	Unknown
+	c.-20+37381G>T	p.?	COSN26692134	1	Unknown
+	c.-20+37917A>G	p.?	COSN2287455	1	Unknown
+	c.-20+38226A>G	p.?	COSN2287454	1	Unknown
+	c.-20+38279dup	p.?	COSN29249050	1	Unknown
+	c.-20+38437G>C	p.?	COSN8098786	1	Unknown
+	c.-20+38489A>T	p.?	COSN29044604	1	Unknown
+	c.-20+38544T>G	p.?	COSN9268329	1	Unknown
+	c.-20+38863del	p.?	COSN27279251	3	Unknown
+	c.-20+39505G>T	p.?	COSN21303533	1	Unknown
+	c.-20+39726A>G	p.?	COSN2287453	1	Unknown
+	c.-20+4085A>G	p.?	COSN21681754	1	Unknown
+	c.-20+4174A>T	p.?	COSN33306933	1	Unknown
+	c.-20+4206G>T	p.?	COSN9268332	1	Unknown
+	c.-20+4358G>A	p.?	COSN6361329	1	Unknown
+	c.-20+4399C>A	p.?	COSN5687197	1	Unknown
+	c.-20+4487T>C	p.?	COSN17130706	1	Unknown
+	c.-20+4965C>T	p.?	COSN22765065	2	Unknown
+	c.-20+5246G>C	p.?	COSN9677386	2	Unknown
+	c.-20+5708C>T	p.?	COSN22350173	1	Unknown
+	c.-20+5740G>T	p.?	COSN6601265	1	Unknown
+	c.-20+5933T>A	p.?	COSN26297685	1	Unknown
+	c.-20+5933dup	p.?	COSN29057019	1	Unknown
+	c.-20+5945C>G	p.?	COSN5687196	1	Unknown
+	c.-20+5977T>C	p.?	COSN16814013	1	Unknown
+	c.-20+6128A>G	p.?	COSN16107670	1	Unknown
+	c.-20+6395G>A	p.?	COSN21490054	1	Unknown
+	c.-20+6406C>T	p.?	COSN24905172	1	Unknown
+	c.-20+6411G>T	p.?	COSN33428645	1	Unknown
+	c.-20+6502T>A	p.?	COSN5114484	1	Unknown
+	c.-20+6524A>G	p.?	COSN6361328	1	Unknown
+	c.-20+6584T>C	p.?	COSN17566782	1	Unknown
+	c.-20+6751A>T	p.?	COSN29694423	1	Unknown
+	c.-20+6880C>T	p.?	COSN21418001	1	Unknown
+	c.-20+6993A>T	p.?	COSN21345387	1	Unknown
+	c.-20+7024G>T	p.?	COSN27574217	1	Unknown
+	c.-20+706A>C	p.?	COSN22633503	1	Unknown
+	c.-20+7201A>G	p.?	COSN25284564	1	Unknown
+	c.-20+7202T>A	p.?	COSN25137959	1	Unknown
+	c.-20+7203C>T	p.?	COSN25140673	1	Unknown
+	c.-20+7833C>G	p.?	COSN32207637	1	Unknown
+	c.-20+8159G>T	p.?	COSN33230637	1	Unknown
+	c.-20+8164G>T	p.?	COSN24691176	1	Unknown
+	c.-20+8634T>A	p.?	COSN6361327	1	Unknown
+	c.-20+8638A>G	p.?	COSN2287475	1	Unknown
+	c.-20+8665G>T	p.?	COSN2287474	1	Unknown
+	c.-20+8677G>C	p.?	COSN32207636	1	Unknown
+	c.-20+867C>T	p.?	COSN33054271	2	Unknown
+	c.-20+8748C>A	p.?	COSN26770613	1	Unknown
+	c.-20+8851T>C	p.?	COSN23810390	1	Unknown
+	c.-20+8891T>G	p.?	COSN25618529	1	Unknown
+	c.-20+8977G>C	p.?	COSN28110644	1	Unknown
+	c.-20+9107A>T	p.?	COSN29491578	2	Unknown
+	c.-20+9373T>C	p.?	COSN20334201	1	Unknown
+	c.-20+9401T>A	p.?	COSN17795959	1	Unknown
+	c.-20+9404A>T	p.?	COSN4882217	1	Unknown
+	c.-20+9567C>T	p.?	COSN25789704	1	Unknown
+	c.-20+9568G>T	p.?	COSN5114483	1	Unknown
+	c.-20+956dup	p.?	COSN22841138	1	Unknown
+	c.-20+9806G>C	p.?	COSN2287473	1	Unknown
+	c.-20+9954A>G	p.?	COSN2287472	1	Unknown
+	c.-4C>T	p.?	COSN30449379	1	Unknown
+	c.-76-10043G>T	p.?	COSN8098800	1	Unknown
+	c.-76-10489T>C	p.?	COSN31856228	1	Unknown
+	c.-76-10640T>A	p.?	COSN26076281	1	Unknown
+	c.-76-10750G>A	p.?	COSN32680347	1	Unknown
+	c.-76-10769T>C	p.?	COSN30432165	1	Unknown
+	c.-76-10854G>T	p.?	COSN15916156	1	Unknown
+	c.-76-1098G>A	p.?	COSN23194103	1	Unknown
+	c.-76-1102T>C	p.?	COSN15080910	1	Unknown
+	c.-76-11276_-76-11272del	p.?	COSN22791829	1	Unknown
+	c.-76-11425C>G	p.?	COSN30212179	1	Unknown
+	c.-76-11472A>G	p.?	COSN20622968	1	Unknown
+	c.-76-11636_-76-11635del	p.?	COSN29766998	1	Unknown
+	c.-76-11666A>G	p.?	COSN15840435	1	Unknown
+	c.-76-11689C>T	p.?	COSN9677390	1	Unknown
+	c.-76-11691C>T	p.?	COSN9677391	1	Unknown
+	c.-76-11759G>A	p.?	COSN4882218	1	Unknown
+	c.-76-11870A>T	p.?	COSN22233295	1	Unknown
+	c.-76-11985_-76-11984dup	p.?	COSN28038421	1	Unknown
+	c.-76-12358C>T	p.?	COSN25820600	1	Unknown
+	c.-76-12429G>C	p.?	COSN16098001	1	Unknown
+	c.-76-12569del	p.?	COSN27447419	1	Unknown
+	c.-76-12698T>C	p.?	COSN6361332	1	Unknown
+	c.-76-12714G>T	p.?	COSN7676510	1	Unknown
+	c.-76-12766A>G	p.?	COSN4882219	1	Unknown
+	c.-76-12806A>G	p.?	COSN26496810	1	Unknown
+	c.-76-12876G>T	p.?	COSN16320136	1	Unknown
+	c.-76-12953G>A	p.?	COSN25017590	1	Unknown
+	c.-76-13021C>G	p.?	COSN31856057	1	Unknown
+	c.-76-13278G>A	p.?	COSN23520231	1	Unknown
+	c.-76-13296G>T	p.?	COSN14986484	1	Unknown
+	c.-76-13445C>T	p.?	COSN32207642	1	Unknown
+	c.-76-13469T>G	p.?	COSN25445314	1	Unknown
+	c.-76-14001G>A	p.?	COSN30068138	1	Unknown
+	c.-76-14116T>A	p.?	COSN29297577	1	Unknown
+	c.-76-14785C>G	p.?	COSN2287480	1	Unknown
+	c.-76-14825A>C	p.?	COSN29342812	1	Unknown
+	c.-76-15092A>G	p.?	COSN20733506	1	Unknown
+	c.-76-15121G>C	p.?	COSN32618392	1	Unknown
+	c.-76-15165A>T	p.?	COSN26623444	1	Unknown
+	c.-76-15259C>A	p.?	COSN8098801	1	Unknown
+	c.-76-15338G>A	p.?	COSN21608235	1	Unknown
+	c.-76-15397T>C	p.?	COSN20490271	1	Unknown
+	c.-76-15403C>A	p.?	COSN27946040	1	Unknown
+	c.-76-15475G>A	p.?	COSN16641007	1	Unknown
+	c.-76-15726A>T	p.?	COSN6361333	1	Unknown
+	c.-76-16071A>G	p.?	COSN2287481	2	Unknown
+	c.-76-16525T>G	p.?	COSN2287482	1	Unknown
+	c.-76-16534C>A	p.?	COSN4941583	2	Unknown
+	c.-76-16638A>G	p.?	COSN7676511	1	Unknown
+	c.-76-16788A>G	p.?	COSN25035227	1	Unknown
+	c.-76-16890G>C	p.?	COSN21531867	1	Unknown
+	c.-76-17060T>C	p.?	COSN8860357	1	Unknown
+	c.-76-17086C>A	p.?	COSN8098802	1	Unknown
+	c.-76-17199G>A	p.?	COSN17381007	1	Unknown
+	c.-76-17508T>C	p.?	COSN17328907	1	Unknown
+	c.-76-17540T>C	p.?	COSN8098803	1	Unknown
+	c.-76-17598T>C	p.?	COSN24570089	1	Unknown
+	c.-76-17972C>T	p.?	COSN20727896	1	Unknown
+	c.-76-18025T>C	p.?	COSN1367739	1	Unknown
+	c.-76-18316A>C	p.?	COSN24655596	1	Unknown
+	c.-76-18359C>T	p.?	COSN21860260	1	Unknown
+	c.-76-18578T>A	p.?	COSN29715082	1	Unknown
+	c.-76-1859A>G	p.?	COSN5687199	1	Unknown
+	c.-76-19266G>C	p.?	COSN6361334	1	Unknown
+	c.-76-19281C>T	p.?	COSN27784075	2	Unknown
+	c.-76-19310T>G	p.?	COSN27586469	1	Unknown
+	c.-76-19341C>T	p.?	COSN26270388	1	Unknown
+	c.-76-19341_-76-19302del	p.?	COSN26269445	1	Unknown
+	c.-76-19456A>G	p.?	COSN5114486	1	Unknown
+	c.-76-20507T>A	p.?	COSN9268334	1	Unknown
+	c.-76-20738T>A	p.?	COSN5114487	1	Unknown
+	c.-76-21071C>G	p.?	COSN2287483	1	Unknown
+	c.-76-21445C>T	p.?	COSN21312443	1	Unknown
+	c.-76-21629T>G	p.?	COSN6361335	1	Unknown
+	c.-76-22192G>T	p.?	COSN19027663	2	Unknown
+	c.-76-2222A>T	p.?	COSN15842270	1	Unknown
+	c.-76-2223T>C	p.?	COSN32400246	1	Unknown
+	c.-76-22336C>A	p.?	COSN6361336	1	Unknown
+	c.-76-22381A>T	p.?	COSN9268335	1	Unknown
+	c.-76-22444A>G	p.?	COSN2287484	1	Unknown
+	c.-76-22671G>T	p.?	COSN8098804	1	Unknown
+	c.-76-22838A>G	p.?	COSN2287485	1	Unknown
+	c.-76-23222C>G	p.?	COSN20954639	1	Unknown
+	c.-76-23345A>T	p.?	COSN9677392	1	Unknown
+	c.-76-23676T>C	p.?	COSN30294525	1	Unknown
+	c.-76-23718C>T	p.?	COSN5238047	1	Unknown
+	c.-76-23739G>A	p.?	COSN22683256	1	Unknown
+	c.-76-23755C>T	p.?	COSN32207643	1	Unknown
+	c.-76-23881C>G	p.?	COSN32207644	1	Unknown
+	c.-76-23916C>A	p.?	COSN9677393	1	Unknown
+	c.-76-24044C>T	p.?	COSN19500088	1	Unknown
+	c.-76-24088T>G	p.?	COSN25779824	1	Unknown
+	c.-76-24148C>G	p.?	COSN32207645	1	Unknown
+	c.-76-24188A>T	p.?	COSN29840304	1	Unknown
+	c.-76-24408A>G	p.?	COSN6361337	1	Unknown
+	c.-76-24452C>G	p.?	COSN23438223	1	Unknown
+	c.-76-24486A>G	p.?	COSN2287486	1	Unknown
+	c.-76-24541C>A	p.?	COSN33306934	1	Unknown
+	c.-76-24700T>A	p.?	COSN2287487	1	Unknown
+	c.-76-24992del	p.?	COSN27207545	3	Unknown
+	c.-76-25050G>C	p.?	COSN26431358	1	Unknown
+	c.-76-25118G>C	p.?	COSN17876762	1	Unknown
+	c.-76-25174G>T	p.?	COSN33085847	1	Unknown
+	c.-76-25242C>T	p.?	COSN25802448	1	Unknown
+	c.-76-26055T>C	p.?	COSN8098805	1	Unknown
+	c.-76-26496del	p.?	COSN27761323	1	Unknown
+	c.-76-26521A>T	p.?	COSN2287488	2	Unknown
+	c.-76-26522C>T	p.?	COSN8098806	1	Unknown
+	c.-76-26579_-76-26574del	p.?	COSN22837844	1	Unknown
+	c.-76-26707G>A	p.?	COSN26654155	1	Unknown
+	c.-76-26859C>T	p.?	COSN26838653	1	Unknown
+	c.-76-27034T>A	p.?	COSN2464922	1	Unknown
+	c.-76-27283C>T	p.?	COSN23397743	1	Unknown
+	c.-76-27322T>C	p.?	COSN8098807	1	Unknown
+	c.-76-27688G>A	p.?	COSN6361338	1	Unknown
+	c.-76-27831T>G	p.?	COSN20458511	1	Unknown
+	c.-76-27831del	p.?	COSN27224732	3	Unknown
+	c.-76-27956T>G	p.?	COSN2287489	1	Unknown
+	c.-76-28287A>T	p.?	COSN16330455	1	Unknown
+	c.-76-29029del	p.?	COSN2287490	1	Unknown
+	c.-76-29189C>G	p.?	COSN17912338	1	Unknown
+	c.-76-2921A>G	p.?	COSN2287477	1	Unknown
+	c.-76-29240del	p.?	COSN22802362	1	Unknown
+	c.-76-29412C>G	p.?	COSN21083384	1	Unknown
+	c.-76-29521T>C	p.?	COSN9677394	1	Unknown
+	c.-76-2959T>G	p.?	COSN22750015	1	Unknown
+	c.-76-29651C>T	p.?	COSN23856110	1	Unknown
+	c.-76-29928C>G	p.?	COSN8098808	1	Unknown
+	c.-76-3004C>A	p.?	COSN21063970	1	Unknown
+	c.-76-3059G>T	p.?	COSN7676508	1	Unknown
+	c.-76-30654G>A	p.?	COSN21100934	1	Unknown
+	c.-76-30970A>T	p.?	COSN8098809	3	Unknown
+	c.-76-31111_-76-31097del	p.?	COSN22896482	1	Unknown
+	c.-76-31156_-76-31147del	p.?	COSN33428647	1	Unknown
+	c.-76-32053T>C	p.?	COSN8098810	1	Unknown
+	c.-76-32154T>C	p.?	COSN17855454	1	Unknown
+	c.-76-32380C>G	p.?	COSN6361339	1	Unknown
+	c.-76-3264C>G	p.?	COSN32207639	1	Unknown
+	c.-76-32666G>T	p.?	COSN23704434	1	Unknown
+	c.-76-33227G>A	p.?	COSN22101103	1	Unknown
+	c.-76-33413C>T	p.?	COSN8098811	1	Unknown
+	c.-76-33768G>T	p.?	COSN23921780	1	Unknown
+	c.-76-33786G>T	p.?	COSN26022291	1	Unknown
+	c.-76-33924A>T	p.?	COSN27144568	1	Unknown
+	c.-76-33930T>G	p.?	COSN8098812	1	Unknown
+	c.-76-3398C>T	p.?	COSN8098794	1	Unknown
+	c.-76-34014A>G	p.?	COSN25037591	1	Unknown
+	c.-76-34077C>A	p.?	COSN29168258	1	Unknown
+	c.-76-34095A>G	p.?	COSN15461254	1	Unknown
+	c.-76-34509T>G	p.?	COSN19541427	1	Unknown
+	c.-76-34745A>G	p.?	COSN16951006	1	Unknown
+	c.-76-34876G>C	p.?	COSN30396945	1	Unknown
+	c.-76-3493C>A	p.?	COSN8860356	1	Unknown
+	c.-76-34963A>G	p.?	COSN2287491	2	Unknown
+	c.-76-34994C>A	p.?	COSN6519063	1	Unknown
+	c.-76-35028T>C	p.?	COSN22186231	1	Unknown
+	c.-76-35038C>T	p.?	COSN15886765	1	Unknown
+	c.-76-35189T>C	p.?	COSN8098813	1	Unknown
+	c.-76-35473C>T	p.?	COSN22050875	2	Unknown
+	c.-76-35827A>C	p.?	COSN19379384	1	Unknown
+	c.-76-36045C>G	p.?	COSN21973901	1	Unknown
+	c.-76-36705C>G	p.?	COSN16363450	1	Unknown
+	c.-76-37249T>A	p.?	COSN22772191	1	Unknown
+	c.-76-37289A>T	p.?	COSN15996326	1	Unknown
+	c.-76-37419T>C	p.?	COSN32207646	1	Unknown
+	c.-76-37437A>G	p.?	COSN15674455	1	Unknown
+	c.-76-37536A>G	p.?	COSN25526165	1	Unknown
+	c.-76-37762G>T	p.?	COSN21176399	1	Unknown
+	c.-76-38150G>A	p.?	COSN8098814	1	Unknown
+	c.-76-38155G>A	p.?	COSN25601203	1	Unknown
+	c.-76-3815C>G	p.?	COSN32207640	1	Unknown
+	c.-76-38226C>T	p.?	COSN9268336	1	Unknown
+	c.-76-38286_-76-38282dup	p.?	COSN27948781	2	Unknown
+	c.-76-38354C>T	p.?	COSN27462218	1	Unknown
+	c.-76-38355T>A	p.?	COSN27478185	2	Unknown
+	c.-76-38356dup	p.?	COSN27216268	2	Unknown
+	c.-76-38681A>T	p.?	COSN22448459	1	Unknown
+	c.-76-3868A>C	p.?	COSN20673763	1	Unknown
+	c.-76-3878C>T	p.?	COSN32207641	1	Unknown
+	c.-76-3891T>G	p.?	COSN6361330	1	Unknown
+	c.-76-38996C>T	p.?	COSN22142621	1	Unknown
+	c.-76-39019C>T	p.?	COSN4882220	1	Unknown
+	c.-76-39168G>A	p.?	COSN32115663	2	Unknown
+	c.-76-39176del	p.?	COSN22881894	1	Unknown
+	c.-76-39334A>G	p.?	COSN2287492	2	Unknown
+	c.-76-3935A>G	p.?	COSN2287478	1	Unknown
+	c.-76-39369T>C	p.?	COSN8098815	1	Unknown
+	c.-76-39423A>T	p.?	COSN15910510	1	Unknown
+	c.-76-39512A>T	p.?	COSN17230405	1	Unknown
+	c.-76-39776G>T	p.?	COSN22555121	1	Unknown
+	c.-76-39827T>A	p.?	COSN5114488	1	Unknown
+	c.-76-3999C>T	p.?	COSN8098795	1	Unknown
+	c.-76-40138C>G	p.?	COSN22106382	1	Unknown
+	c.-76-40145C>G	p.?	COSN20638450	1	Unknown
+	c.-76-40291A>G	p.?	COSN9268337	1	Unknown
+	c.-76-40402_-76-40401del	p.?	COSN23352601	1	Unknown
+	c.-76-40402_-76-40401dup	p.?	COSN29055101	1	Unknown
+	c.-76-40402_-76-40401insAC	p.?	COSN23250280	1	Unknown
+	c.-76-4054C>T	p.?	COSN5687200	1	Unknown
+	c.-76-40797A>G	p.?	COSN2485406	1	Unknown
+	c.-76-41151T>C	p.?	COSN26322838	1	Unknown
+	c.-76-41153T>C	p.?	COSN8098816	1	Unknown
+	c.-76-41324G>T	p.?	COSN14655474	1	Unknown
+	c.-76-41329del	p.?	COSN29580571	1	Unknown
+	c.-76-41414T>C	p.?	COSN6361340	1	Unknown
+	c.-76-41516A>T	p.?	COSN1367740	1	Unknown
+	c.-76-41713T>G	p.?	COSN19475164	1	Unknown
+	c.-76-41765C>T	p.?	COSN5114489	1	Unknown
+	c.-76-41788G>A	p.?	COSN4924058	1	Unknown
+	c.-76-41797G>A	p.?	COSN17755670	1	Unknown
+	c.-76-41914T>G	p.?	COSN4924059	1	Unknown
+	c.-76-41948C>A	p.?	COSN20696887	1	Unknown
+	c.-76-41956del	p.?	COSN23458532	1	Unknown
+	c.-76-4195T>A	p.?	COSN1367737	1	Unknown
+	c.-76-42017A>G	p.?	COSN5687206	1	Unknown
+	c.-76-42236G>A	p.?	COSN32340477	1	Unknown
+	c.-76-42437A>T	p.?	COSN31642713	1	Unknown
+	c.-76-42452T>C	p.?	COSN29391250	1	Unknown
+	c.-76-42728T>A	p.?	COSN17833550	1	Unknown
+	c.-76-42822A>G	p.?	COSN15383284	1	Unknown
+	c.-76-42874G>A	p.?	COSN4924060	2	Unknown
+	c.-76-42883C>T	p.?	COSN4924062	1	Unknown
+	c.-76-42955del	p.?	COSN29588665	1	Unknown
+	c.-76-43122G>C	p.?	COSN22264321	1	Unknown
+	c.-76-43289A>G	p.?	COSN22422695	1	Unknown
+	c.-76-43532T>C	p.?	COSN2287493	1	Unknown
+	c.-76-43694A>G	p.?	COSN2287494	1	Unknown
+	c.-76-43920A>G	p.?	COSN19289490	1	Unknown
+	c.-76-44161T>C	p.?	COSN8860358	1	Unknown
+	c.-76-44244_-76-44243dup	p.?	COSN29476139	1	Unknown
+	c.-76-44351C>G	p.?	COSN22402609	1	Unknown
+	c.-76-44455A>G	p.?	COSN1367741	1	Unknown
+	c.-76-45607T>G	p.?	COSN26814279	1	Unknown
+	c.-76-45922A>T	p.?	COSN7676512	7	Unknown
+	c.-76-45976_-76-45975dup	p.?	COSN27333265	2	Unknown
+	c.-76-46002G>A	p.?	COSN23752336	1	Unknown
+	c.-76-46022A>G	p.?	COSN18878067	1	Unknown
+	c.-76-46236C>G	p.?	COSN20786583	1	Unknown
+	c.-76-46289G>C	p.?	COSN8860359	1	Unknown
+	c.-76-46299T>C	p.?	COSN26328658	1	Unknown
+	c.-76-46382A>G	p.?	COSN33009312	1	Unknown
+	c.-76-46965G>A	p.?	COSN4882221	1	Unknown
+	c.-76-47666G>A	p.?	COSN8098817	1	Unknown
+	c.-76-47757G>A	p.?	COSN4941584	2	Unknown
+	c.-76-48018C>A	p.?	COSN8098818	1	Unknown
+	c.-76-4820G>T	p.?	COSN2287479	2	Unknown
+	c.-76-48303T>A	p.?	COSN8098819	1	Unknown
+	c.-76-48487G>T	p.?	COSN22927793	1	Unknown
+	c.-76-48575T>G	p.?	COSN20233407	1	Unknown
+	c.-76-48704A>C	p.?	COSN20572932	1	Unknown
+	c.-76-48771A>T	p.?	COSN29327858	1	Unknown
+	c.-76-4881C>T	p.?	COSN1367738	1	Unknown
+	c.-76-4885C>T	p.?	COSN33230638	1	Unknown
+	c.-76-48901C>G	p.?	COSN33278774	1	Unknown
+	c.-76-49549T>G	p.?	COSN25003135	1	Unknown
+	c.-76-49623A>T	p.?	COSN29447947	1	Unknown
+	c.-76-50182C>A	p.?	COSN20708475	1	Unknown
+	c.-76-5018G>A	p.?	COSN14785312	1	Unknown
+	c.-76-5030T>A	p.?	COSN4941582	1	Unknown
+	c.-76-50452T>A	p.?	COSN21488123	1	Unknown
+	c.-76-50625G>C	p.?	COSN29841781	1	Unknown
+	c.-76-50685dup	p.?	COSN33428648	1	Unknown
+	c.-76-50894C>T	p.?	COSN9460460	1	Unknown
+	c.-76-5103del	p.?	COSN22903749	1	Unknown
+	c.-76-51450C>T	p.?	COSN9268338	1	Unknown
+	c.-76-51537T>G	p.?	COSN32727980	1	Unknown
+	c.-76-51711A>G	p.?	COSN6361341	1	Unknown
+	c.-76-5203A>G	p.?	COSN19471520	1	Unknown
+	c.-76-52320T>G	p.?	COSN16598329	1	Unknown
+	c.-76-5249dup	p.?	COSN23028594	1	Unknown
+	c.-76-53059A>G	p.?	COSN2287495	1	Unknown
+	c.-76-53271A>G	p.?	COSN8098820	1	Unknown
+	c.-76-538A>G	p.?	COSN9268333	1	Unknown
+	c.-76-5752G>A	p.?	COSN21719822	1	Unknown
+	c.-76-6049C>G	p.?	COSN8098796	1	Unknown
+	c.-76-6058dup	p.?	COSN29283230	1	Unknown
+	c.-76-6395T>A	p.?	COSN32549074	1	Unknown
+	c.-76-6598C>T	p.?	COSN39104	1	Unknown
+	c.-76-6748C>T	p.?	COSN32047957	1	Unknown
+	c.-76-6773T>C	p.?	COSN7676509	2	Unknown
+	c.-76-7164G>T	p.?	COSN21978677	1	Unknown
+	c.-76-7168T>C	p.?	COSN6361331	1	Unknown
+	c.-76-7720C>T	p.?	COSN9677388	1	Unknown
+	c.-76-7983G>T	p.?	COSN8098797	1	Unknown
+	c.-76-8060A>G	p.?	COSN32456655	1	Unknown
+	c.-76-8210G>A	p.?	COSN23172179	1	Unknown
+	c.-76-8960T>C	p.?	COSN19475163	1	Unknown
+	c.-76-8970T>A	p.?	COSN9677389	1	Unknown
+	c.-76-9724T>G	p.?	COSN5114485	1	Unknown
+	c.-76-9856C>T	p.?	COSN8098798	1	Unknown
+	c.-76-9879C>A	p.?	COSN8098799	1	Unknown
+	c.-76-9885G>T	p.?	COSN16859770	1	Unknown
+	c.-77+10031del	p.?	COSN29664809	1	Unknown
+	c.-77+10266C>A	p.?	COSN27475083	1	Unknown
+	c.-77+10389A>C	p.?	COSN21428823	1	Unknown
+	c.-77+10395A>T	p.?	COSN6519066	1	Unknown
+	c.-77+10431G>T	p.?	COSN19377451	1	Unknown
+	c.-77+10488C>A	p.?	COSN9677410	1	Unknown
+	c.-77+10563G>T	p.?	COSN2287515	1	Unknown
+	c.-77+10734C>G	p.?	COSN19416563	1	Unknown
+	c.-77+10879C>T	p.?	COSN20809248	1	Unknown
+	c.-77+10999A>C	p.?	COSN173727	2	Unknown
+	c.-77+11041A>G	p.?	COSN21469220	1	Unknown
+	c.-77+11331T>C	p.?	COSN9677409	1	Unknown
+	c.-77+11677C>G	p.?	COSN6361353	1	Unknown
+	c.-77+11827G>T	p.?	COSN6601268	1	Unknown
+	c.-77+12160A>T	p.?	COSN16591877	1	Unknown
+	c.-77+12175A>G	p.?	COSN2287514	1	Unknown
+	c.-77+12337C>T	p.?	COSN33428650	1	Unknown
+	c.-77+12398T>G	p.?	COSN23630502	1	Unknown
+	c.-77+12601C>G	p.?	COSN16148906	1	Unknown
+	c.-77+12683G>C	p.?	COSN9677408	1	Unknown
+	c.-77+1288G>A	p.?	COSN8098841	1	Unknown
+	c.-77+12890G>A	p.?	COSN8098838	1	Unknown
+	c.-77+13782C>T	p.?	COSN23889173	1	Unknown
+	c.-77+14031C>T	p.?	COSN9268345	1	Unknown
+	c.-77+1424A>C	p.?	COSN9677413	1	Unknown
+	c.-77+14416del	p.?	COSN29864392	1	Unknown
+	c.-77+14417T>A	p.?	COSN22090755	1	Unknown
+	c.-77+14433G>A	p.?	COSN24329486	1	Unknown
+	c.-77+14649C>G	p.?	COSN2287513	1	Unknown
+	c.-77+14886A>G	p.?	COSN6361352	1	Unknown
+	c.-77+14929_-77+14930del	p.?	COSN28011580	1	Unknown
+	c.-77+149G>A	p.?	COSN33428651	1	Unknown
+	c.-77+15012A>G	p.?	COSN21099502	1	Unknown
+	c.-77+1519G>A	p.?	COSN27641727	1	Unknown
+	c.-77+15243C>T	p.?	COSN6361351	1	Unknown
+	c.-77+15345A>G	p.?	COSN9460461	1	Unknown
+	c.-77+15557C>G	p.?	COSN18955276	3	Unknown
+	c.-77+15671C>G	p.?	COSN26305433	1	Unknown
+	c.-77+16246C>T	p.?	COSN20529421	1	Unknown
+	c.-77+1624T>C	p.?	COSN8098840	1	Unknown
+	c.-77+16307C>T	p.?	COSN2287512	1	Unknown
+	c.-77+16783dup	p.?	COSN32645723	1	Unknown
+	c.-77+16846T>G	p.?	COSN2287511	1	Unknown
+	c.-77+17156A>T	p.?	COSN225982	1	Unknown
+	c.-77+17213T>G	p.?	COSN27071189	1	Unknown
+	c.-77+17527T>G	p.?	COSN23843093	1	Unknown
+	c.-77+17565A>G	p.?	COSN20571522	1	Unknown
+	c.-77+17870dup	p.?	COSN29086494	1	Unknown
+	c.-77+1792G>C	p.?	COSN21655833	1	Unknown
+	c.-77+18151G>C	p.?	COSN19551158	1	Unknown
+	c.-77+18180A>G	p.?	COSN2287510	1	Unknown
+	c.-77+19135G>A	p.?	COSN24041864	1	Unknown
+	c.-77+19142C>G	p.?	COSN28231864	1	Unknown
+	c.-77+19305A>G	p.?	COSN5114492	1	Unknown
+	c.-77+19440del	p.?	COSN27412462	2	Unknown
+	c.-77+19440dup	p.?	COSN28942557	4	Unknown
+	c.-77+19915C>T	p.?	COSN29620701	1	Unknown
+	c.-77+20307C>T	p.?	COSN23773056	1	Unknown
+	c.-77+20401G>T	p.?	COSN21132966	1	Unknown
+	c.-77+20545del	p.?	COSN25442697	1	Unknown
+	c.-77+20600C>T	p.?	COSN28142628	1	Unknown
+	c.-77+20738A>G	p.?	COSN2287509	1	Unknown
+	c.-77+20861C>T	p.?	COSN9677407	1	Unknown
+	c.-77+2104A>G	p.?	COSN20646178	1	Unknown
+	c.-77+21065A>G	p.?	COSN2287508	2	Unknown
+	c.-77+21327T>A	p.?	COSN20797167	1	Unknown
+	c.-77+2150dup	p.?	COSN27308429	2	Unknown
+	c.-77+21589A>G	p.?	COSN22743142	1	Unknown
+	c.-77+21798C>T	p.?	COSN2287507	1	Unknown
+	c.-77+2179dup	p.?	COSN29585172	1	Unknown
+	c.-77+21959A>G	p.?	COSN2287506	1	Unknown
+	c.-77+22068A>G	p.?	COSN8098837	1	Unknown
+	c.-77+22163A>T	p.?	COSN1367746	1	Unknown
+	c.-77+22249T>G	p.?	COSN22232740	1	Unknown
+	c.-77+22399G>A	p.?	COSN8098836	1	Unknown
+	c.-77+22726C>G	p.?	COSN8098835	1	Unknown
+	c.-77+22923dup	p.?	COSN28991503	1	Unknown
+	c.-77+23173T>G	p.?	COSN16349565	1	Unknown
+	c.-77+23326G>A	p.?	COSN23489468	1	Unknown
+	c.-77+23352G>C	p.?	COSN32207650	1	Unknown
+	c.-77+2374G>T	p.?	COSN9677412	1	Unknown
+	c.-77+23780A>C	p.?	COSN25329409	1	Unknown
+	c.-77+23871G>A	p.?	COSN145712	1	Unknown
+	c.-77+23960T>C	p.?	COSN25330845	1	Unknown
+	c.-77+24029A>T	p.?	COSN25333813	1	Unknown
+	c.-77+24163A>C	p.?	COSN25335254	1	Unknown
+	c.-77+24172A>G	p.?	COSN25329408	1	Unknown
+	c.-77+24228C>T	p.?	COSN17362637	1	Unknown
+	c.-77+2438T>C	p.?	COSN16529033	1	Unknown
+	c.-77+24768A>G	p.?	COSN2287505	1	Unknown
+	c.-77+24929A>T	p.?	COSN23943355	1	Unknown
+	c.-77+24934A>T	p.?	COSN6519065	1	Unknown
+	c.-77+24936G>T	p.?	COSN6519064	1	Unknown
+	c.-77+25035C>T	p.?	COSN30208690	1	Unknown
+	c.-77+25101A>T	p.?	COSN8098834	1	Unknown
+	c.-77+25184G>T	p.?	COSN8098833	1	Unknown
+	c.-77+25281T>A	p.?	COSN9677406	4	Unknown
+	c.-77+25371A>G	p.?	COSN8098832	1	Unknown
+	c.-77+25660T>A	p.?	COSN15040077	1	Unknown
+	c.-77+25790A>G	p.?	COSN6361350	1	Unknown
+	c.-77+25828A>G	p.?	COSN1367745	1	Unknown
+	c.-77+25831A>T	p.?	COSN24774168	1	Unknown
+	c.-77+25856A>T	p.?	COSN8098831	1	Unknown
+	c.-77+25895C>T	p.?	COSN21253060	1	Unknown
+	c.-77+25948G>T	p.?	COSN29958452	1	Unknown
+	c.-77+2596_-77+2597del	p.?	COSN24861222	1	Unknown
+	c.-77+26033T>G	p.?	COSN25252718	1	Unknown
+	c.-77+26143T>C	p.?	COSN1367744	1	Unknown
+	c.-77+26160dup	p.?	COSN32640300	1	Unknown
+	c.-77+26383dup	p.?	COSN27502638	1	Unknown
+	c.-77+26433dup	p.?	COSN27897316	1	Unknown
+	c.-77+26434A>T	p.?	COSN16588151	1	Unknown
+	c.-77+26692T>G	p.?	COSN22022681	1	Unknown
+	c.-77+26758G>A	p.?	COSN29759549	1	Unknown
+	c.-77+27095A>T	p.?	COSN6361349	1	Unknown
+	c.-77+27329_-77+27330del	p.?	COSN18924696	2	Unknown
+	c.-77+27600A>G	p.?	COSN23855875	1	Unknown
+	c.-77+28056C>T	p.?	COSN6361348	1	Unknown
+	c.-77+2817C>A	p.?	COSN25676735	1	Unknown
+	c.-77+28234G>C	p.?	COSN9677405	1	Unknown
+	c.-77+28302G>A	p.?	COSN9677404	1	Unknown
+	c.-77+2865G>T	p.?	COSN5114493	1	Unknown
+	c.-77+28761G>A	p.?	COSN9268344	1	Unknown
+	c.-77+2890A>G	p.?	COSN6361355	1	Unknown
+	c.-77+29060C>T	p.?	COSN24002503	1	Unknown
+	c.-77+29120T>A	p.?	COSN1367743	1	Unknown
+	c.-77+29164G>A	p.?	COSN16601455	1	Unknown
+	c.-77+29213C>T	p.?	COSN33234569	1	Unknown
+	c.-77+29284C>A	p.?	COSN9268343	1	Unknown
+	c.-77+29583C>T	p.?	COSN23072066	1	Unknown
+	c.-77+29598G>A	p.?	COSN26520814	1	Unknown
+	c.-77+29678C>T	p.?	COSN20909976	1	Unknown
+	c.-77+29733T>A	p.?	COSN29138991	1	Unknown
+	c.-77+30093A>T	p.?	COSN16563586	1	Unknown
+	c.-77+30245C>A	p.?	COSN17205536	1	Unknown
+	c.-77+30259A>T	p.?	COSN6361347	1	Unknown
+	c.-77+30524T>A	p.?	COSN22713440	1	Unknown
+	c.-77+30768C>T	p.?	COSN24722766	1	Unknown
+	c.-77+30781G>A	p.?	COSN9677402	1	Unknown
+	c.-77+30798T>C	p.?	COSN16975461	1	Unknown
+	c.-77+30953T>C	p.?	COSN14538055	1	Unknown
+	c.-77+31012T>C	p.?	COSN27627895	1	Unknown
+	c.-77+31333T>C	p.?	COSN9677401	1	Unknown
+	c.-77+31414A>G	p.?	COSN5114491	1	Unknown
+	c.-77+31520T>C	p.?	COSN19517896	1	Unknown
+	c.-77+31588C>T	p.?	COSN27786345	2	Unknown
+	c.-77+31600G>A	p.?	COSN26734264	1	Unknown
+	c.-77+31609C>T	p.?	COSN32207649	1	Unknown
+	c.-77+31825A>C	p.?	COSN14890848	1	Unknown
+	c.-77+32064A>T	p.?	COSN27869860	2	Unknown
+	c.-77+32124A>G	p.?	COSN1367742	1	Unknown
+	c.-77+32240A>G	p.?	COSN17387651	1	Unknown
+	c.-77+32297T>C	p.?	COSN15308237	1	Unknown
+	c.-77+32353C>G	p.?	COSN32115667	1	Unknown
+	c.-77+32554C>T	p.?	COSN5687209	1	Unknown
+	c.-77+32674C>T	p.?	COSN8098830	2	Unknown
+	c.-77+32953del	p.?	COSN29600048	1	Unknown
+	c.-77+32989del	p.?	COSN27455068	1	Unknown
+	c.-77+33451A>T	p.?	COSN9268342	1	Unknown
+	c.-77+33518C>T	p.?	COSN17020065	1	Unknown
+	c.-77+33720C>G	p.?	COSN25496743	1	Unknown
+	c.-77+33822dup	p.?	COSN29014273	1	Unknown
+	c.-77+33984A>T	p.?	COSN2287504	1	Unknown
+	c.-77+33987T>C	p.?	COSN30400526	1	Unknown
+	c.-77+34051C>T	p.?	COSN32115666	1	Unknown
+	c.-77+34074T>C	p.?	COSN29275922	1	Unknown
+	c.-77+34262C>T	p.?	COSN32115665	1	Unknown
+	c.-77+34689C>T	p.?	COSN33261740	1	Unknown
+	c.-77+34698dup	p.?	COSN23109811	1	Unknown
+	c.-77+35218C>G	p.?	COSN32207648	1	Unknown
+	c.-77+35218C>T	p.?	COSN32115664	1	Unknown
+	c.-77+35330C>T	p.?	COSN24915534	1	Unknown
+	c.-77+35331C>T	p.?	COSN21655246	1	Unknown
+	c.-77+35434T>A	p.?	COSN17656500	1	Unknown
+	c.-77+3544T>C	p.?	COSN21688716	1	Unknown
+	c.-77+35472C>T	p.?	COSN8098829	1	Unknown
+	c.-77+35510T>C	p.?	COSN25588288	1	Unknown
+	c.-77+35526T>A	p.?	COSN25529676	1	Unknown
+	c.-77+35846G>C	p.?	COSN16140952	1	Unknown
+	c.-77+35862A>G	p.?	COSN2287503	1	Unknown
+	c.-77+35897C>T	p.?	COSN9268341	1	Unknown
+	c.-77+36340A>C	p.?	COSN15204652	1	Unknown
+	c.-77+36403C>G	p.?	COSN9677400	1	Unknown
+	c.-77+36435C>G	p.?	COSN4941586	2	Unknown
+	c.-77+3651del	p.?	COSN23640502	1	Unknown
+	c.-77+36734C>G	p.?	COSN14535034	1	Unknown
+	c.-77+36806C>G	p.?	COSN6361346	1	Unknown
+	c.-77+36955T>A	p.?	COSN20471687	1	Unknown
+	c.-77+36957dup	p.?	COSN27509538	1	Unknown
+	c.-77+37195C>T	p.?	COSN22463510	1	Unknown
+	c.-77+37310T>G	p.?	COSN2287502	2	Unknown
+	c.-77+37380C>T	p.?	COSN5114490	1	Unknown
+	c.-77+37444A>T	p.?	COSN28281399	2	Unknown
+	c.-77+37802C>T	p.?	COSN15985310	1	Unknown
+	c.-77+38010_-77+38013dup	p.?	COSN2287501	1	Unknown
+	c.-77+38180A>G	p.?	COSN6361345	1	Unknown
+	c.-77+38350T>G	p.?	COSN6601267	1	Unknown
+	c.-77+38393T>C	p.?	COSN4924063	1	Unknown
+	c.-77+38412G>A	p.?	COSN9677399	1	Unknown
+	c.-77+38493G>A	p.?	COSN19482051	1	Unknown
+	c.-77+38770A>T	p.?	COSN23131237	1	Unknown
+	c.-77+38792G>A	p.?	COSN8098828	1	Unknown
+	c.-77+38834G>T	p.?	COSN151320	1	Unknown
+	c.-77+38856A>G	p.?	COSN19234208	1	Unknown
+	c.-77+38866A>C	p.?	COSN9677398	1	Unknown
+	c.-77+38867A>C	p.?	COSN20549687	1	Unknown
+	c.-77+38958del	p.?	COSN27217786	3	Unknown
+	c.-77+38958dup	p.?	COSN27245985	3	Unknown
+	c.-77+38971A>G	p.?	COSN29936072	1	Unknown
+	c.-77+39077G>A	p.?	COSN24612989	1	Unknown
+	c.-77+39079T>C	p.?	COSN22540939	1	Unknown
+	c.-77+392T>G	p.?	COSN8098842	1	Unknown
+	c.-77+39343T>A	p.?	COSN8098827	1	Unknown
+	c.-77+3940C>T	p.?	COSN1367747	1	Unknown
+	c.-77+39452del	p.?	COSN27400610	1	Unknown
+	c.-77+39548C>T	p.?	COSN22907904	1	Unknown
+	c.-77+39562C>T	p.?	COSN4941585	2	Unknown
+	c.-77+39790A>T	p.?	COSN20980171	1	Unknown
+	c.-77+39796G>C	p.?	COSN20845378	1	Unknown
+	c.-77+39835del	p.?	COSN29752182	1	Unknown
+	c.-77+39840T>C	p.?	COSN25095814	1	Unknown
+	c.-77+40159_-77+40160del	p.?	COSN28324077	1	Unknown
+	c.-77+40302A>T	p.?	COSN33286361	1	Unknown
+	c.-77+40435G>T	p.?	COSN28059012	1	Unknown
+	c.-77+40451C>T	p.?	COSN15142618	1	Unknown
+	c.-77+40700G>T	p.?	COSN25788399	1	Unknown
+	c.-77+41019C>T	p.?	COSN5687207	1	Unknown
+	c.-77+41174A>G	p.?	COSN6361344	1	Unknown
+	c.-77+41445G>C	p.?	COSN23741989	1	Unknown
+	c.-77+41552_-77+41556del	p.?	COSN2287500	1	Unknown
+	c.-77+41558C>G	p.?	COSN16519258	1	Unknown
+	c.-77+4166A>G	p.?	COSN2287516	1	Unknown
+	c.-77+42317C>G	p.?	COSN9677397	1	Unknown
+	c.-77+42845A>C	p.?	COSN2287499	1	Unknown
+	c.-77+42965T>C	p.?	COSN33428649	1	Unknown
+	c.-77+43111G>T	p.?	COSN19229914	1	Unknown
+	c.-77+43313G>A	p.?	COSN16981731	1	Unknown
+	c.-77+43659T>C	p.?	COSN8098826	3	Unknown
+	c.-77+43879T>G	p.?	COSN2506681	1	Unknown
+	c.-77+43964_-77+43965insG	p.?	COSN29214323	1	Unknown
+	c.-77+44154G>T	p.?	COSN8098825	1	Unknown
+	c.-77+44155C>T	p.?	COSN8098824	1	Unknown
+	c.-77+44318A>G	p.?	COSN6361343	1	Unknown
+	c.-77+44383G>T	p.?	COSN21226871	2	Unknown
+	c.-77+44446A>G	p.?	COSN16390423	1	Unknown
+	c.-77+45273G>A	p.?	COSN21532817	1	Unknown
+	c.-77+4527A>G	p.?	COSN19119135	1	Unknown
+	c.-77+45700C>T	p.?	COSN33291927	1	Unknown
+	c.-77+45764T>A	p.?	COSN24224798	1	Unknown
+	c.-77+45765G>C	p.?	COSN24225577	1	Unknown
+	c.-77+45769T>A	p.?	COSN24226367	1	Unknown
+	c.-77+45800T>G	p.?	COSN9677396	1	Unknown
+	c.-77+45818G>T	p.?	COSN2287498	1	Unknown
+	c.-77+45891C>G	p.?	COSN6601266	1	Unknown
+	c.-77+45957dup	p.?	COSN22859339	1	Unknown
+	c.-77+46626del	p.?	COSN22814516	1	Unknown
+	c.-77+46803C>A	p.?	COSN23879050	1	Unknown
+	c.-77+46998C>T	p.?	COSN20375049	1	Unknown
+	c.-77+47070G>C	p.?	COSN22321989	1	Unknown
+	c.-77+47116T>A	p.?	COSN24981407	1	Unknown
+	c.-77+47305A>G	p.?	COSN2287497	1	Unknown
+	c.-77+47440G>T	p.?	COSN20612938	1	Unknown
+	c.-77+47843T>A	p.?	COSN26163951	1	Unknown
+	c.-77+48234C>T	p.?	COSN23753739	1	Unknown
+	c.-77+48295A>G	p.?	COSN24452836	1	Unknown
+	c.-77+48384C>G	p.?	COSN26398305	1	Unknown
+	c.-77+4842C>A	p.?	COSN14949829	1	Unknown
+	c.-77+48547C>T	p.?	COSN21213196	1	Unknown
+	c.-77+48679A>C	p.?	COSN2287496	1	Unknown
+	c.-77+49094C>A	p.?	COSN9268340	1	Unknown
+	c.-77+49264A>T	p.?	COSN25569260	1	Unknown
+	c.-77+49353A>T	p.?	COSN22527529	1	Unknown
+	c.-77+49399G>T	p.?	COSN25719054	1	Unknown
+	c.-77+49540A>G	p.?	COSN9677395	1	Unknown
+	c.-77+49790A>G	p.?	COSN21961627	1	Unknown
+	c.-77+49796A>G	p.?	COSN24916560	1	Unknown
+	c.-77+49936C>G	p.?	COSN20864101	1	Unknown
+	c.-77+50069C>A	p.?	COSN19538376	1	Unknown
+	c.-77+50250T>G	p.?	COSN9268339	1	Unknown
+	c.-77+50630C>T	p.?	COSN29278891	1	Unknown
+	c.-77+50663del	p.?	COSN29378897	1	Unknown
+	c.-77+50677dup	p.?	COSN26276325	1	Unknown
+	c.-77+50690A>G	p.?	COSN30025165	1	Unknown
+	c.-77+51016T>C	p.?	COSN8098823	1	Unknown
+	c.-77+51017_-77+51019del	p.?	COSN22904023	1	Unknown
+	c.-77+51445G>A	p.?	COSN2490965	1	Unknown
+	c.-77+51459T>A	p.?	COSN22746030	1	Unknown
+	c.-77+51715T>A	p.?	COSN17415546	1	Unknown
+	c.-77+51716A>T	p.?	COSN8098821	4	Unknown
+	c.-77+51716_-77+51717insT	p.?	COSN23874464	2	Unknown
+	c.-77+51959T>G	p.?	COSN33251246	1	Unknown
+	c.-77+52056T>A	p.?	COSN19459154	1	Unknown
+	c.-77+52107G>A	p.?	COSN33264979	1	Unknown
+	c.-77+52229A>T	p.?	COSN16057582	1	Unknown
+	c.-77+5223A>G	p.?	COSN7676515	1	Unknown
+	c.-77+52649A>G	p.?	COSN24921797	1	Unknown
+	c.-77+52677T>G	p.?	COSN6361342	1	Unknown
+	c.-77+52934A>T	p.?	COSN30435942	1	Unknown
+	c.-77+53094A>T	p.?	COSN8578247	1	Unknown
+	c.-77+53253G>A	p.?	COSN20590513	1	Unknown
+	c.-77+53391G>T	p.?	COSN26733434	1	Unknown
+	c.-77+53401del	p.?	COSN23177524	2	Unknown
+	c.-77+5836G>C	p.?	COSN17735574	1	Unknown
+	c.-77+6107T>G	p.?	COSN20847754	1	Unknown
+	c.-77+6524C>T	p.?	COSN29952371	1	Unknown
+	c.-77+6628T>A	p.?	COSN30204650	1	Unknown
+	c.-77+6778G>T	p.?	COSN25016082	1	Unknown
+	c.-77+684T>G	p.?	COSN9677414	1	Unknown
+	c.-77+6881C>T	p.?	COSN26039897	1	Unknown
+	c.-77+7078T>C	p.?	COSN22399078	1	Unknown
+	c.-77+7088C>A	p.?	COSN8098839	1	Unknown
+	c.-77+7831C>G	p.?	COSN22754507	1	Unknown
+	c.-77+7953G>A	p.?	COSN7676514	1	Unknown
+	c.-77+8184C>A	p.?	COSN25821113	1	Unknown
+	c.-77+9114A>G	p.?	COSN24726195	1	Unknown
+	c.-77+9149del	p.?	COSN32272646	1	Unknown
+	c.-77+9803T>G	p.?	COSN9677411	1	Unknown
+	c.-77+9853G>C	p.?	COSN6361354	1	Unknown
+	c.-77G>A	p.?	COSN32598985	1	Unknown
+	c.86+103G>T	p.?	COSN5687187	1	Unknown
+	c.86+1057A>G	p.?	COSN32532918	1	Unknown
+	c.86+1179A>G	p.?	COSN19361249	1	Unknown
+	c.86+1218A>C	p.?	COSN2287439	1	Unknown
+	c.86+1222T>G	p.?	COSN6361304	1	Unknown
+	c.86+1268G>A	p.?	COSN5114481	1	Unknown
+	c.86+143C>T	p.?	COSN28744998	1	Unknown
+	c.86+152A>G	p.?	COSN2287442	1	Unknown
+	c.86+222_86+232del	p.?	COSN28455738	1	Unknown
+	c.86+382T>G	p.?	COSN2287441	2	Unknown
+	c.86+425C>A	p.?	COSN33251245	1	Unknown
+	c.86+561G>A	p.?	COSN24766475	1	Unknown
+	c.86+789T>C	p.?	COSN29988457	1	Unknown
+	c.86+833T>A	p.?	COSN2287440	2	Unknown
+	c.86+888G>A	p.?	COSN8098774	1	Unknown
+	c.86+93C>G	p.?	COSN32078125	2	Unknown
+	c.87-1205A>G	p.?	COSN14946003	1	Unknown
+	c.87-199T>C	p.?	COSN5687184	1	Unknown
+	c.87-292A>G	p.?	COSN30226752	1	Unknown
+	c.87-52del	p.?	COSN26986109	1	Unknown
+	c.87-52dup	p.?	COSN30653752	1	Unknown
+	c.259+10324dup	p.?	COSN25166386	1	Unknown
+	c.259+10529A>G	p.?	COSN30197803	1	Unknown
+	c.259+10530_259+10541del	p.?	COSN30199562	1	Unknown
+	c.259+10630C>T	p.?	COSN17443459	1	Unknown
+	c.259+10828G>C	p.?	COSN2287435	1	Unknown
+	c.259+10838G>C	p.?	COSN21665269	1	Unknown
+	c.259+10840C>G	p.?	COSN6361298	1	Unknown
+	c.259+10887C>T	p.?	COSN7676502	1	Unknown
+	c.259+1098C>G	p.?	COSN8098773	1	Unknown
+	c.259+11542T>C	p.?	COSN6361297	1	Unknown
+	c.259+11699T>C	p.?	COSN22642759	1	Unknown
+	c.259+1183A>T	p.?	COSN20974047	1	Unknown
+	c.259+11912C>T	p.?	COSN32207629	1	Unknown
+	c.259+1199A>G	p.?	COSN19252006	1	Unknown
+	c.259+12288C>T	p.?	COSN16942734	1	Unknown
+	c.259+12511T>C	p.?	COSN7676501	1	Unknown
+	c.259+12597T>G	p.?	COSN2287434	1	Unknown
+	c.259+12772A>G	p.?	COSN5687183	1	Unknown
+	c.259+12829_259+12830del	p.?	COSN18768983	1	Unknown
+	c.259+12831T>C	p.?	COSN16685120	1	Unknown
+	c.259+13277C>T	p.?	COSN25323441	1	Unknown
+	c.259+13782C>T	p.?	COSN24116166	1	Unknown
+	c.259+13845A>G	p.?	COSN20642643	1	Unknown
+	c.259+13895A>G	p.?	COSN32371177	1	Unknown
+	c.259+14231_259+14233del	p.?	COSN2287433	1	Unknown
+	c.259+14310G>A	p.?	COSN20708680	1	Unknown
+	c.259+14317T>G	p.?	COSN26693812	1	Unknown
+	c.259+14689C>T	p.?	COSN24032256	1	Unknown
+	c.259+14690A>T	p.?	COSN23694862	1	Unknown
+	c.259+14783T>C	p.?	COSN30372020	1	Unknown
+	c.259+14A>G	p.?	COSN20067300	1	Unknown
+	c.259+15272dup	p.?	COSN27255694	1	Unknown
+	c.259+15698C>T	p.?	COSN32456652	1	Unknown
+	c.259+15900C>T	p.?	COSN6361295	1	Unknown
+	c.259+15946G>A	p.?	COSN19276625	1	Unknown
+	c.259+16006G>T	p.?	COSN21929752	1	Unknown
+	c.259+16066dup	p.?	COSN27484886	1	Unknown
+	c.259+16077A>G	p.?	COSN2287432	1	Unknown
+	c.259+16162T>G	p.?	COSN8098768	1	Unknown
+	c.259+16618_259+16621dup	p.?	COSN28950978	1	Unknown
+	c.259+16839A>G	p.?	COSN23058184	1	Unknown
+	c.259+16988G>A	p.?	COSN5687182	1	Unknown
+	c.259+17056T>C	p.?	COSN9268322	1	Unknown
+	c.259+17144G>A	p.?	COSN14855438	1	Unknown
+	c.259+17479T>C	p.?	COSN8098767	1	Unknown
+	c.259+17759T>A	p.?	COSN15976146	1	Unknown
+	c.259+18047G>A	p.?	COSN8098766	1	Unknown
+	c.259+18192T>G	p.?	COSN33009308	1	Unknown
+	c.259+18289A>C	p.?	COSN16600056	1	Unknown
+	c.259+18346A>G	p.?	COSN2287431	1	Unknown
+	c.259+18370T>C	p.?	COSN20533703	1	Unknown
+	c.259+18394G>T	p.?	COSN29864788	1	Unknown
+	c.259+18570C>T	p.?	COSN20882703	1	Unknown
+	c.259+18696T>A	p.?	COSN7676500	1	Unknown
+	c.259+19226del	p.?	COSN18762659	1	Unknown
+	c.259+19363T>G	p.?	COSN23122814	1	Unknown
+	c.259+19499A>G	p.?	COSN9667601	1	Unknown
+	c.259+2238G>T	p.?	COSN6361302	1	Unknown
+	c.259+2439T>C	p.?	COSN8098772	1	Unknown
+	c.259+2457T>C	p.?	COSN23630501	1	Unknown
+	c.259+271A>C	p.?	COSN24706728	1	Unknown
+	c.259+2753_259+2833del	p.?	COSN28451640	1	Unknown
+	c.259+2825C>T	p.?	COSN21145761	1	Unknown
+	c.259+3022C>G	p.?	COSN23026843	1	Unknown
+	c.259+3178C>T	p.?	COSN23671834	1	Unknown
+	c.259+3261G>T	p.?	COSN23446676	1	Unknown
+	c.259+3262A>C	p.?	COSN23449047	1	Unknown
+	c.259+3430C>A	p.?	COSN21854823	2	Unknown
+	c.259+3502G>T	p.?	COSN24758661	1	Unknown
+	c.259+3510del	p.?	COSN1367731	1	Unknown
+	c.259+3510dup	p.?	COSN28451857	1	Unknown
+	c.259+4007A>C	p.?	COSN23537656	1	Unknown
+	c.259+403C>T	p.?	COSN6361303	1	Unknown
+	c.259+4055T>C	p.?	COSN27998092	1	Unknown
+	c.259+4198A>T	p.?	COSN9460459	1	Unknown
+	c.259+4953G>T	p.?	COSN9460458	1	Unknown
+	c.259+5163A>G	p.?	COSN2287438	2	Unknown
+	c.259+5398C>A	p.?	COSN8098771	1	Unknown
+	c.259+53C>A	p.?	COSN30644689	1	Unknown
+	c.259+5569A>T	p.?	COSN9268326	1	Unknown
+	c.259+5570C>T	p.?	COSN9268325	1	Unknown
+	c.259+6019T>C	p.?	COSN15612219	2	Unknown
+	c.259+6022T>C	p.?	COSN20390988	1	Unknown
+	c.259+6241C>T	p.?	COSN16106710	1	Unknown
+	c.259+6509A>G	p.?	COSN9667604	1	Unknown
+	c.259+6635T>C	p.?	COSN2287437	1	Unknown
+	c.259+6656A>G	p.?	COSN9667603	1	Unknown
+	c.259+6660C>G	p.?	COSN21112184	1	Unknown
+	c.259+678C>T	p.?	COSN23445081	1	Unknown
+	c.259+6885C>G	p.?	COSN8354415	2	Unknown
+	c.259+7000C>A	p.?	COSN17340004	1	Unknown
+	c.259+7446G>T	p.?	COSN2287436	1	Unknown
+	c.259+8181C>T	p.?	COSN6361300	1	Unknown
+	c.259+8297C>T	p.?	COSN8098770	1	Unknown
+	c.259+8353C>T	p.?	COSN23606277	1	Unknown
+	c.259+8511G>C	p.?	COSN9667602	1	Unknown
+	c.259+8579G>T	p.?	COSN6361299	1	Unknown
+	c.259+88A>G	p.?	COSN8519330	2	Unknown
+	c.259+8927G>C	p.?	COSN15719598	1	Unknown
+	c.259+9038C>A	p.?	COSN20680824	1	Unknown
+	c.259+9124G>C	p.?	COSN9268324	1	Unknown
+	c.259+9582T>G	p.?	COSN5114480	1	Unknown
+	c.259+9868C>A	p.?	COSN8098769	2	Unknown
+	c.260-10200G>A	p.?	COSN6361293	1	Unknown
+	c.260-1023C>A	p.?	COSN24653149	1	Unknown
+	c.260-10395C>T	p.?	COSN27242953	1	Unknown
+	c.260-10451T>A	p.?	COSN26747232	1	Unknown
+	c.260-10624C>G	p.?	COSN28668423	1	Unknown
+	c.260-10685A>G	p.?	COSN5687179	1	Unknown
+	c.260-11003A>G	p.?	COSN32313291	1	Unknown
+	c.260-11222_260-11221del	p.?	COSN23091601	1	Unknown
+	c.260-11251T>C	p.?	COSN16750231	1	Unknown
+	c.260-11252A>G	p.?	COSN8098762	1	Unknown
+	c.260-11357T>C	p.?	COSN2287426	1	Unknown
+	c.260-11423A>G	p.?	COSN29837810	1	Unknown
+	c.260-11470A>C	p.?	COSN22154467	1	Unknown
+	c.260-11474T>C	p.?	COSN8860354	1	Unknown
+	c.260-1158T>G	p.?	COSN16100193	1	Unknown
+	c.260-11968C>G	p.?	COSN33104892	1	Unknown
+	c.260-12012T>G	p.?	COSN8098763	1	Unknown
+	c.260-12240A>T	p.?	COSN5687180	1	Unknown
+	c.260-12352_260-12347del	p.?	COSN23590399	1	Unknown
+	c.260-12353A>G	p.?	COSN23587977	1	Unknown
+	c.260-12398G>A	p.?	COSN22265091	1	Unknown
+	c.260-12503C>T	p.?	COSN20799835	1	Unknown
+	c.260-12801C>A	p.?	COSN9667598	1	Unknown
+	c.260-12829A>G	p.?	COSN15752126	2	Unknown
+	c.260-1284G>A	p.?	COSN9667597	1	Unknown
+	c.260-13377C>T	p.?	COSN6361294	1	Unknown
+	c.260-1360A>T	p.?	COSN2287422	1	Unknown
+	c.260-13687A>C	p.?	COSN2287427	1	Unknown
+	c.260-13814_260-13813del	p.?	COSN2287428	1	Unknown
+	c.260-13970A>G	p.?	COSN2287429	1	Unknown
+	c.260-14501G>C	p.?	COSN14470011	1	Unknown
+	c.260-14576A>G	p.?	COSN26682761	1	Unknown
+	c.260-14916T>C	p.?	COSN30069840	1	Unknown
+	c.260-15759C>T	p.?	COSN25793956	1	Unknown
+	c.260-15847A>T	p.?	COSN26751578	1	Unknown
+	c.260-16086A>G	p.?	COSN2287430	1	Unknown
+	c.260-16092C>T	p.?	COSN27255733	1	Unknown
+	c.260-16316A>G	p.?	COSN27168143	1	Unknown
+	c.260-16323T>G	p.?	COSN8098764	1	Unknown
+	c.260-16603C>T	p.?	COSN9667599	1	Unknown
+	c.260-16656C>T	p.?	COSN8098765	2	Unknown
+	c.260-16773C>G	p.?	COSN23762241	1	Unknown
+	c.260-17470del	p.?	COSN31854893	1	Unknown
+	c.260-17480T>C	p.?	COSN25042267	1	Unknown
+	c.260-17647G>C	p.?	COSN17260080	1	Unknown
+	c.260-18001T>C	p.?	COSN26832775	1	Unknown
+	c.260-18167G>C	p.?	COSN31856227	1	Unknown
+	c.260-18248T>A	p.?	COSN19294586	1	Unknown
+	c.260-18336G>T	p.?	COSN2514433	1	Unknown
+	c.260-18409T>G	p.?	COSN9667600	2	Unknown
+	c.260-18563dup	p.?	COSN29745358	1	Unknown
+	c.260-18622G>A	p.?	COSN26186494	1	Unknown
+	c.260-18898G>A	p.?	COSN5687181	1	Unknown
+	c.260-19293G>A	p.?	COSN20369609	1	Unknown
+	c.260-2443C>T	p.?	COSN24598068	1	Unknown
+	c.260-2475del	p.?	COSN22779521	1	Unknown
+	c.260-2536C>T	p.?	COSN25792560	1	Unknown
+	c.260-3116G>T	p.?	COSN7676498	2	Unknown
+	c.260-3137T>G	p.?	COSN32540073	1	Unknown
+	c.260-3320T>C	p.?	COSN29507880	1	Unknown
+	c.260-3506A>G	p.?	COSN29451728	1	Unknown
+	c.260-3625G>T	p.?	COSN29232145	1	Unknown
+	c.260-3745A>T	p.?	COSN6361285	1	Unknown
+	c.260-3842T>C	p.?	COSN32618391	1	Unknown
+	c.260-3965G>A	p.?	COSN8098759	1	Unknown
+	c.260-39A>G	p.?	COSN28660899	1	Unknown
+	c.260-4033A>G	p.?	COSN6361286	1	Unknown
+	c.260-4378T>G	p.?	COSN8098760	1	Unknown
+	c.260-4629C>T	p.?	COSN20746574	1	Unknown
+	c.260-4715A>T	p.?	COSN6519060	1	Unknown
+	c.260-4937A>C	p.?	COSN27071999	1	Unknown
+	c.260-517A>T	p.?	COSN8098758	1	Unknown
+	c.260-5220A>T	p.?	COSN7676499	1	Unknown
+	c.260-522C>T	p.?	COSN2287420	2	Unknown
+	c.260-5367A>G	p.?	COSN2287423	1	Unknown
+	c.260-5388G>A	p.?	COSN28356406	1	Unknown
+	c.260-54C>G	p.?	COSN8519329	2	Unknown
+	c.260-5731T>C	p.?	COSN16654779	1	Unknown
+	c.260-5737C>T	p.?	COSN32207626	1	Unknown
+	c.260-5748C>T	p.?	COSN32207627	1	Unknown
+	c.260-6053C>G	p.?	COSN32207628	1	Unknown
+	c.260-6243T>G	p.?	COSN5687177	1	Unknown
+	c.260-6371G>C	p.?	COSN2287424	1	Unknown
+	c.260-65del	p.?	COSN25261307	1	Unknown
+	c.260-666_260-647del	p.?	COSN22887297	1	Unknown
+	c.260-6783A>G	p.?	COSN16450619	1	Unknown
+	c.260-6899G>T	p.?	COSN6361287	1	Unknown
+	c.260-7144T>C	p.?	COSN6361288	1	Unknown
+	c.260-7249C>G	p.?	COSN16724603	2	Unknown
+	c.260-7398G>C	p.?	COSN8098761	1	Unknown
+	c.260-7442C>G	p.?	COSN29102936	1	Unknown
+	c.260-7585G>T	p.?	COSN19142302	1	Unknown
+	c.260-7737G>A	p.?	COSN18009925	1	Unknown
+	c.260-7888T>C	p.?	COSN21006884	1	Unknown
+	c.260-8006T>C	p.?	COSN6361289	1	Unknown
+	c.260-8193C>T	p.?	COSN25129657	1	Unknown
+	c.260-8356T>C	p.?	COSN15856571	3	Unknown
+	c.260-8435T>G	p.?	COSN5687178	1	Unknown
+	c.260-846G>A	p.?	COSN2287421	1	Unknown
+	c.260-8530T>A	p.?	COSN6361290	1	Unknown
+	c.260-8563T>A	p.?	COSN5114479	1	Unknown
+	c.260-8671G>A	p.?	COSN21362524	1	Unknown
+	c.260-8818A>G	p.?	COSN6361291	1	Unknown
+	c.260-8893G>T	p.?	COSN22189852	1	Unknown
+	c.260-9027T>C	p.?	COSN20905608	2	Unknown
+	c.260-923G>T	p.?	COSN30242365	1	Unknown
+	c.260-9331C>T	p.?	COSN25952405	1	Unknown
+	c.260-9453C>G	p.?	COSN9268321	1	Unknown
+	c.260-9489A>G	p.?	COSN2287425	1	Unknown
+	c.260-9605G>T	p.?	COSN6361292	1	Unknown
+	c.363+104A>G	p.?	COSN8519328	2	Unknown
+	c.363+1159C>T	p.?	COSN33210437	1	Unknown
+	c.363+1285T>G	p.?	COSN21011026	1	Unknown
+	c.363+146G>T	p.?	COSN30302062	2	Unknown
+	c.363+150_363+151del	p.?	COSN30304189	1	Unknown
+	c.363+162del	p.?	COSN20070356	1	Unknown
+	c.363+163G>C	p.?	COSN17067178	1	Unknown
+	c.363+2070A>T	p.?	COSN21612996	1	Unknown
+	c.363+28T>G	p.?	COSN20768542	2	Unknown
+	c.363+367A>T	p.?	COSN32020188	1	Unknown
+	c.363+407A>G	p.?	COSN20289136	1	Unknown
+	c.363+456A>G	p.?	COSN2287419	1	Unknown
+	c.363+467A>G	p.?	COSN2287418	1	Unknown
+	c.363+582T>G	p.?	COSN9667596	1	Unknown
+	c.363+902_363+903del	p.?	COSN22826196	1	Unknown
+	c.364-104T>C	p.?	COSN19695917	2	Unknown
+	c.364-1162C>T	p.?	COSN26291824	1	Unknown
+	c.364-1608C>T	p.?	COSN9268320	1	Unknown
+	c.364-171A>G	p.?	COSN6361282	1	Unknown
+	c.364-1813T>G	p.?	COSN5114478	1	Unknown
+	c.364-1824G>T	p.?	COSN5687176	1	Unknown
+	c.364-2008A>C	p.?	COSN21296552	1	Unknown
+	c.364-2167A>G	p.?	COSN6361283	1	Unknown
+	c.364-434T>C	p.?	COSN30039486	1	Unknown
+	c.364-631G>A	p.?	COSN22730226	1	Unknown
+	c.364-6C>T	p.?	COSM5893304	2	Unknown
+	c.364-830C>G	p.?	COSN26721386	1	Unknown
+	c.541+1055A>T	p.?	COSN15383130	1	Unknown
+	c.541+1526T>C	p.?	COSN29699716	1	Unknown
+	c.541+1631A>T	p.?	COSN9667595	1	Unknown
+	c.541+1712A>G	p.?	COSN20508152	1	Unknown
+	c.541+1del	p.?	COSM4777698	3	Unknown
+	c.541+306_541+311dup	p.?	COSN27562381	1	Unknown
+	c.541+418T>C	p.?	COSN29419399	1	Unknown
+	c.541+687G>C	p.?	COSN5687175	1	Unknown
+	c.541+77T>C	p.?	COSN30696066	1	Unknown
+	c.541+856G>A	p.?	COSN14997601	1	Unknown
+	c.542-1120A>C	p.?	COSN2287417	1	Unknown
+	c.542-1130G>T	p.?	COSN21248965	1	Unknown
+	c.542-1148A>G	p.?	COSN8313457	1	Unknown
+	c.542-124C>T	p.?	COSN4882214	1	Unknown
+	c.542-1421A>T	p.?	COSN9268319	1	Unknown
+	c.542-1476C>T	p.?	COSN32115662	2	Unknown
+	c.542-629C>T	p.?	COSN32115661	2	Unknown
+	c.542-809A>G	p.?	COSN25321814	1	Unknown
+	c.542-80C>G	p.?	COSN8810749	1	Unknown
+	c.542-80C>T	p.?	COSN28577512	1	Unknown
+	c.730+1025T>C	p.?	COSN21411908	2	Unknown
+	c.730+1036G>A	p.?	COSN23759452	1	Unknown
+	c.730+1141G>A	p.?	COSN9268318	1	Unknown
+	c.730+1142G>T	p.?	COSN9268317	1	Unknown
+	c.730+1222T>A	p.?	COSN26149477	1	Unknown
+	c.730+130G>A	p.?	COSN28019347	3	Unknown
+	c.730+131T>C	p.?	COSN1367730	1	Unknown
+	c.730+13C>A	p.?	COSN6361281	1	Unknown
+	c.730+1452G>A	p.?	COSN24427935	1	Unknown
+	c.730+1486T>C	p.?	COSN16584486	1	Unknown
+	c.730+15C>T	p.?	COSN9667594	1	Unknown
+	c.730+207C>T	p.?	COSN32618390	1	Unknown
+	c.730+49G>A	p.?	COSN32713985	1	Unknown
+	c.730+78G>A	p.?	COSN24401759	1	Unknown
+	c.731-1349G>A	p.?	COSN19511297	1	Unknown
+	c.731-1474G>C	p.?	COSN25875763	1	Unknown
+	c.731-189C>T	p.?	COSN15263650	1	Unknown
+	c.731-283C>T	p.?	COSN20905607	2	Unknown
+	c.731-406T>A	p.?	COSN22977681	1	Unknown
+	c.731-690C>T	p.?	COSN32407365	1	Unknown
+	c.731-75G>T	p.?	COSN1367729	2	Unknown
+	c.731-7G>C	p.?	COSM7270744	1	Unknown
+	c.731-874A>G	p.?	COSN20584030	1	Unknown
+	c.731-888T>C	p.?	COSN5687174	1	Unknown
+	c.832+105C>A	p.?	COSN24559009	1	Unknown
+	c.832+119G>T	p.?	COSN15324481	1	Unknown
+	c.832+145C>T	p.?	COSN9667593	1	Unknown
+	c.832+249C>G	p.?	COSN25821112	1	Unknown
+	c.832+261G>A	p.?	COSN25872767	1	Unknown
+	c.832+265G>T	p.?	COSN6361280	1	Unknown
+	c.832+40A>G	p.?	COSN25076776	1	Unknown
+	c.832+69A>G	p.?	COSN30680020	1	Unknown
+	c.833-125T>A	p.?	COSN22766881	1	Unknown
+	c.833-1G>T	p.?	COSM4705945	2	Unknown
+	c.833-24A>G	p.?	COSN28792528	1	Unknown
+	c.833-281C>G	p.?	COSN20581463	1	Unknown
+	c.833-44G>A	p.?	COSN20442070	1	Unknown
+	c.833-57T>A	p.?	COSN19689138	3	Unknown
+	c.833-57_833-56insAA	p.?	COSN18760328	1	Unknown
+	c.833-77A>C	p.?	COSN5114475	2	Unknown
+	c.976+1349T>G	p.?	COSN9268316	1	Unknown
+	c.976+142A>G	p.?	COSN28816552	1	Unknown
+	c.976+479C>G	p.?	COSN25776382	1	Unknown
+	c.976+551T>C	p.?	COSN15070379	1	Unknown
+	c.976+607C>A	p.?	COSN8098757	1	Unknown
+	c.976+827del	p.?	COSN1367728	7	Unknown
+	c.977-1000A>T	p.?	COSN15584801	2	Unknown
+	c.977-1007G>C	p.?	COSN24803529	1	Unknown
+	c.977-1028T>C	p.?	COSN16156442	1	Unknown
+	c.977-1030C>T	p.?	COSN16268125	7	Unknown
+	c.977-111G>A	p.?	COSN32711785	1	Unknown
+	c.977-233C>T	p.?	COSN18856154	1	Unknown
+	c.977-36del	p.?	COSN5853658	6	Unknown
+	c.977-36dup	p.?	COSN30565947	1	Unknown
+	c.977-55C>T	p.?	COSN26436866	1	Unknown
+	c.977-680A>G	p.?	COSN9268315	1	Unknown
+	c.1124+150G>A	p.?	COSN28706323	1	Unknown
+	c.1124+187C>T	p.?	COSN9667592	1	Unknown
+	c.1124+259A>T	p.?	COSN29118813	1	Unknown
+	c.1124+269T>C	p.?	COSN14715579	2	Unknown
+	c.1124+273T>C	p.?	COSN14721522	1	Unknown
+	c.1124+315A>G	p.?	COSN6361279	1	Unknown
+	c.1124+31T>C	p.?	COSN30562820	1	Unknown
+	c.1124+347C>A	p.?	COSN8098756	1	Unknown
+	c.1124+45G>A	p.?	COSN19692950	3	Unknown
+	c.1124+46G>T	p.?	COSN5687173	1	Unknown
+	c.1124+794G>C	p.?	COSN25876272	1	Unknown
+	c.1124+907A>T	p.?	COSN30039501	1	Unknown
+	c.1125-1115A>C	p.?	COSN24976456	1	Unknown
+	c.1125-416T>A	p.?	COSN15572570	1	Unknown
+	c.1125-417G>T	p.?	COSN15572375	1	Unknown
+	c.1125-445_1125-444insTA	p.?	COSN22819438	1	Unknown
+	c.1125-987C>G	p.?	COSN9667591	1	Unknown
+	c.2394+1108A>G	p.?	COSN20792692	1	Unknown
+	c.2394+1149A>G	p.?	COSN29392555	1	Unknown
+	c.2394+1253T>A	p.?	COSN33278773	1	Unknown
+	c.2394+126T>G	p.?	COSN19079364	2	Unknown
+	c.2394+1505C>T	p.?	COSN15679323	1	Unknown
+	c.2394+1555C>T	p.?	COSN14949451	1	Unknown
+	c.2394+1880C>G	p.?	COSN20720595	1	Unknown
+	c.2394+2225T>A	p.?	COSN30059223	1	Unknown
+	c.2394+22C>T	p.?	COSN26351420	1	Unknown
+	c.2394+2331T>C	p.?	COSN9667590	1	Unknown
+	c.2394+23G>A	p.?	COSN15304152	5	Unknown
+	c.2394+2458G>T	p.?	COSN16524544	1	Unknown
+	c.2394+2578T>G	p.?	COSN29754776	1	Unknown
+	c.2394+2657T>A	p.?	COSN2287416	2	Unknown
+	c.2394+2691T>A	p.?	COSN22077880	1	Unknown
+	c.2394+2756A>T	p.?	COSN14587424	1	Unknown
+	c.2394+2868A>G	p.?	COSN14548935	1	Unknown
+	c.2394+3190G>T	p.?	COSN25781553	1	Unknown
+	c.2394+3288C>A	p.?	COSN30427482	1	Unknown
+	c.2394+41A>T	p.?	COSN24603476	1	Unknown
+	c.2394+63A>G	p.?	COSN6361278	1	Unknown
+	c.2394+746G>C	p.?	COSN22302964	1	Unknown
+	c.2394+839A>G	p.?	COSN19213831	2	Unknown
+	c.2394+861T>C	p.?	COSN7053614	1	Unknown
+	c.2395-1268A>T	p.?	COSN26516496	1	Unknown
+	c.2395-1382G>A	p.?	COSN2287415	1	Unknown
+	c.2395-1411T>C	p.?	COSN15673324	1	Unknown
+	c.2395-1532T>G	p.?	COSN6361276	1	Unknown
+	c.2395-2414G>A	p.?	COSN14539938	1	Unknown
+	c.2395-2587C>T	p.?	COSN6361277	1	Unknown
+	c.2395-29G>A	p.?	COSN33647671	1	Unknown
+	c.2395-3211A>G	p.?	COSN23732529	1	Unknown
+	c.2395-3409del	p.?	COSN27488489	1	Unknown
+	c.2395-366A>G	p.?	COSN6361275	1	Unknown
+	c.2395-492del	p.?	COSN27192674	7	Unknown
+	c.2395-793G>T	p.?	COSN32115660	1	Unknown
+	c.2395-825G>A	p.?	COSN23593044	1	Unknown
+	c.2395-920C>T	p.?	COSN15455747	1	Unknown
+	c.2395-997C>T	p.?	COSN26536611	1	Unknown
+	c.2605+108del	p.?	COSN30664971	1	Unknown
+	c.2605+1144A>G	p.?	COSN9667589	1	Unknown
+	c.2605+1146G>A	p.?	COSN16235739	1	Unknown
+	c.2605+1147_2605+1148insACAC	p.?	COSN27495233	1	Unknown
+	c.2605+1152G>A	p.?	COSN25858709	1	Unknown
+	c.2605+1159_2605+1162del	p.?	COSN27453306	2	Unknown
+	c.2605+1352G>A	p.?	COSN20911730	1	Unknown
+	c.2605+1571dup	p.?	COSN27460846	2	Unknown
+	c.2605+1620A>G	p.?	COSN25277617	1	Unknown
+	c.2605+1641T>G	p.?	COSN5687170	1	Unknown
+	c.2605+1697A>T	p.?	COSN21296092	1	Unknown
+	c.2605+337A>G	p.?	COSN23273400	1	Unknown
+	c.2605+412A>G	p.?	COSN33428635	1	Unknown
+	c.2605+435T>C	p.?	COSN8098754	1	Unknown
+	c.2605+461A>T	p.?	COSN17570169	1	Unknown
+	c.2605+466A>G	p.?	COSN21412222	2	Unknown
+	c.2605+615A>T	p.?	COSN5687171	1	Unknown
+	c.2605+62G>T	p.?	COSN8519327	2	Unknown
+	c.2605+884G>T	p.?	COSN15986054	1	Unknown
+	c.2605+899A>T	p.?	COSN29426978	1	Unknown
+	c.2606-1034A>C	p.?	COSN25741398	1	Unknown
+	c.2606-1039G>A	p.?	COSN25724458	1	Unknown
+	c.2606-127A>G	p.?	COSN28677739	1	Unknown
+	c.2606-1445T>C	p.?	COSN5238046	1	Unknown
+	c.2606-1G>C	p.?	COSM4421769	1	Unknown
+	c.2606-208A>G	p.?	COSN23709083	1	Unknown
+	c.2606-392G>A	p.?	COSN22158838	1	Unknown
+	c.2606-476_2606-475insAGAAAGAAAAAA	p.?	COSN18773551	1	Unknown
+	c.2606-487A>G	p.?	COSN14723356	2	Unknown
+	c.2606-954T>A	p.?	COSN25876405	1	Unknown
+	c.2812+101T>A	p.?	COSN17647033	1	Unknown
+	c.2812+136A>T	p.?	COSN29256392	1	Unknown
+	c.2812+1453G>T	p.?	COSN24945472	1	Unknown
+	c.2812+1606C>T	p.?	COSN32400245	1	Unknown
+	c.2812+1G>A	p.?	COSM6196994	1	Unknown
+	c.2812+424C>G	p.?	COSN9667588	1	Unknown
+	c.2812+660G>T	p.?	COSN16790089	1	Unknown
+	c.2812+662T>C	p.?	COSN15916330	1	Unknown
+	c.2812+667A>G	p.?	COSN2287414	1	Unknown
+	c.2812+972A>C	p.?	COSN28062908	1	Unknown
+	c.2813-101_2816del	p.?	COSM10295376	1	Unknown
+	c.2813-11C>A	p.?	COSN29468019	1	Unknown
+	c.2813-1307T>G	p.?	COSN9268314	1	Unknown
+	c.2813-1319T>A	p.?	COSN27169809	1	Unknown
+	c.2813-1352T>A	p.?	COSN27051708	1	Unknown
+	c.2813-1420T>A	p.?	COSN17826493	1	Unknown
+	c.2813-201T>G	p.?	COSN31659415	1	Unknown
+	c.2813-25T>C	p.?	COSN15329969	1	Unknown
+	c.2813-40C>A	p.?	COSN26566988	1	Unknown
+	c.2813-72C>A	p.?	COSN30700517	1	Unknown
+	c.2813-765G>T	p.?	COSN28207500	1	Unknown
+	c.2813-776A>G	p.?	COSN2287413	1	Unknown
+	c.3028+368G>A	p.?	COSN27092387	1	Unknown
+	c.3028+36T>A	p.?	COSN25820088	1	Unknown
+	c.3028+373C>G	p.?	COSN20765521	1	Unknown
+	c.3028+56A>T	p.?	COSN25821111	1	Unknown
+	c.3028+590dup	p.?	COSN27203037	1	Unknown
+	c.3028+786A>G	p.?	COSN7676497	1	Unknown
+	c.3028+855T>A	p.?	COSN9268313	1	Unknown
+	c.3029-1164A>G	p.?	COSN23233842	1	Unknown
+	c.3029-1283G>T	p.?	COSN20393579	1	Unknown
+	c.3029-373dup	p.?	COSN29741581	1	Unknown
+	c.3029-420T>C	p.?	COSN20858978	1	Unknown
+	c.3029-527A>G	p.?	COSN16994510	1	Unknown
+	c.3029-772G>A	p.?	COSN17254926	1	Unknown
+	c.3029-96C>T	p.?	COSN8098753	1	Unknown
+	c.3158+1061G>A	p.?	COSN27646535	1	Unknown
+	c.3158+1193A>C	p.?	COSN9667587	1	Unknown
+	c.3158+1251G>T	p.?	COSN8098751	1	Unknown
+	c.3158+137G>C	p.?	COSN1367727	2	Unknown
+	c.3158+1466T>C	p.?	COSN21449032	1	Unknown
+	c.3158+1900T>A	p.?	COSN9667586	1	Unknown
+	c.3158+1G>T	p.?	COSM7319139	1	Unknown
+	c.3158+2168T>G	p.?	COSN20163146	1	Unknown
+	c.3158+2282G>A	p.?	COSN24199348	1	Unknown
+	c.3158+2525A>G	p.?	COSN16324643	1	Unknown
+	c.3158+2960G>A	p.?	COSN22519985	2	Unknown
+	c.3158+311A>C	p.?	COSN9268312	1	Unknown
+	c.3158+3G>A	p.?	COSM7703440	1	Unknown
+	c.3158+66G>T	p.?	COSN6601262	5	Unknown
+	c.3158+732T>C	p.?	COSN22352079	1	Unknown
+	c.3158+902G>C	p.?	COSN8098752	1	Unknown
+	c.3158+90T>G	p.?	COSN14352075	1	Unknown
+	c.3159-1069C>A	p.?	COSN16843121	1	Unknown
+	c.3159-1073_3159-1070dup	p.?	COSN27506022	1	Unknown
+	c.3159-1075_3159-1070dup	p.?	COSN27491101	1	Unknown
+	c.3159-1092T>C	p.?	COSN14655813	2	Unknown
+	c.3159-115A>C	p.?	COSN17017908	1	Unknown
+	c.3159-117G>T	p.?	COSN32869319	1	Unknown
+	c.3159-1219C>A	p.?	COSN1367726	1	Unknown
+	c.3159-133G>C	p.?	COSN8519326	1	Unknown
+	c.3159-1426A>G	p.?	COSN22578571	1	Unknown
+	c.3159-1704T>A	p.?	COSN2287412	2	Unknown
+	c.3159-1794A>C	p.?	COSN5238045	1	Unknown
+	c.3159-184A>G	p.?	COSN25758030	1	Unknown
+	c.3159-2341T>A	p.?	COSN5114473	1	Unknown
+	c.3159-2599C>T	p.?	COSN6361274	1	Unknown
+	c.3159-2691A>G	p.?	COSN15699090	1	Unknown
+	c.3159-45A>G	p.?	COSN20055029	1	Unknown
+	c.3159-8C>G	p.?	COSM4968462	1	Unknown
+	c.3159-922G>T	p.?	COSN29811601	1	Unknown
+	c.3159-941G>A	p.?	COSN19041422	1	Unknown
+	c.3324+1017T>C	p.?	COSN2287411	1	Unknown
+	c.3324+1054C>T	p.?	COSN29353924	1	Unknown
+	c.3324+1237A>G	p.?	COSN32958275	1	Unknown
+	c.3324+1245G>A	p.?	COSN33300330	1	Unknown
+	c.3324+1245G>C	p.?	COSN24267777	1	Unknown
+	c.3324+1278T>C	p.?	COSN4941580	2	Unknown
+	c.3324+1320G>C	p.?	COSN26183069	1	Unknown
+	c.3324+14G>A	p.?	COSN1367725	2	Unknown
+	c.3324+520C>T	p.?	COSN32400244	1	Unknown
+	c.3325-1221G>C	p.?	COSN33278772	1	Unknown
+	c.3325-1226G>C	p.?	COSN27876459	1	Unknown
+	c.3325-20del	p.?	COSN32765868	1	Unknown
+	c.3325-403G>T	p.?	COSN21757216	1	Unknown
+	c.3325-698dup	p.?	COSN29049798	1	Unknown
+	c.3325-894A>G	p.?	COSN9667585	1	Unknown
+	c.3325-930A>G	p.?	COSN2287410	1	Unknown
+	c.3325-936G>C	p.?	COSN9268310	1	Unknown
+	c.3325-988G>A	p.?	COSN24697961	1	Unknown
+	c.3325-991G>A	p.?	COSN8098750	1	Unknown
+	c.3603+1G>A	p.?	COSM1258837	2	Unknown
+	c.3603+45A>G	p.?	COSN8810748	2	Unknown
+	c.3603+93C>G	p.?	COSN32713897	1	Unknown
+	c.3681+131A>C	p.?	COSN32714162	1	Unknown
+	c.3681+304G>A	p.?	COSN16334445	1	Unknown
+	c.3681+336C>G	p.?	COSN28433186	1	Unknown
+	c.3681+396G>T	p.?	COSN2287409	1	Unknown
+	c.3681+563A>T	p.?	COSN21087195	1	Unknown
+	c.3682-197A>G	p.?	COSN6361272	1	Unknown
+	c.3682-286T>C	p.?	COSN21259882	1	Unknown
+	c.3682-388A>G	p.?	COSN26765942	1	Unknown
+	c.3682-47T>A	p.?	COSN31660143	2	Unknown
+	c.3682-52del	p.?	COSN30700015	1	Unknown
+	c.3682-548T>C	p.?	COSN33656695	1	Unknown
+	c.3682-561G>T	p.?	COSN33656696	1	Unknown
+	c.3682-648T>C	p.?	COSN20737614	1	Unknown
+	c.3682-71T>C	p.?	COSN32916077	1	Unknown
+	c.3916+1G>A	p.?	COSM5904320	1	Unknown
+	c.3916+29C>T	p.?	COSN20578900	1	Unknown
+	c.3916+325C>A	p.?	COSN20496871	1	Unknown
+	c.3916+37C>G	p.?	COSN22328357	1	Unknown
+	c.3916+384A>G	p.?	COSN27340201	1	Unknown
+	c.3916+423A>G	p.?	COSN6361271	1	Unknown
+	c.3917-31T>C	p.?	COSN8810747	3	Unknown
+	c.3917-335_3917-334del	p.?	COSN2287408	3	Unknown
+	c.3917-43T>G	p.?	COSN30557110	1	Unknown
+	c.3917-494C>T	p.?	COSN6361270	1	Unknown
+	c.3917-4del	p.?	COSM5943403	3	Unknown
+	c.3917-4dup	p.?	COSM7306306	3	Unknown
+	c.3917-505A>G	p.?	COSN16853018	1	Unknown
+	c.3917-520G>A	p.?	COSN32333730	1	Unknown
+	c.3917-589C>T	p.?	COSN9667584	1	Unknown
+	c.3917-644C>G	p.?	COSN25735479	1	Unknown
+	c.3917-64del	p.?	COSN20057705	4	Unknown
+	c.3917-64dup	p.?	COSN28838086	3	Unknown
+	c.3917-867A>G	p.?	COSN33428634	1	Unknown
+	c.3917-98del	p.?	COSN30634571	1	Unknown
+	c.4094+30C>T	p.?	COSN8098749	2	Unknown
+	c.4094+84C>A	p.?	COSN22669403	1	Unknown
+	c.4094+94G>A	p.?	COSN17693477	1	Unknown
+	c.4095-279del	p.?	COSN2287407	3	Unknown
+	c.4095-279dup	p.?	COSN27509778	4	Unknown
+	c.4095-292T>A	p.?	COSN15985769	1	Unknown
+	c.4095-7A>C	p.?	COSM9112513	1	Unknown
+	c.4293+1188T>C	p.?	COSN21996526	2	Unknown
+	c.4293+134C>T	p.?	COSN8519323	2	Unknown
+	c.4293+136T>C	p.?	COSN24427934	1	Unknown
+	c.4293+374G>C	p.?	COSN16858865	1	Unknown
+	c.4293+395G>A	p.?	COSN5114471	1	Unknown
+	c.4293+628G>C	p.?	COSN9268309	1	Unknown
+	c.4293+747G>C	p.?	COSN15689705	1	Unknown
+	c.4293+790C>A	p.?	COSN9268308	1	Unknown
+	c.4293+817C>T	p.?	COSN32207623	1	Unknown
+	c.4293+83A>G	p.?	COSN33428633	1	Unknown
+	c.4294-107C>T	p.?	COSN8098748	1	Unknown
+	c.4294-140G>A	p.?	COSN15877211	1	Unknown
+	c.4294-73C>T	p.?	COSN2287406	1	Unknown
+	c.4294-88del	p.?	COSN30661199	1	Unknown
+	c.4383+108C>T	p.?	COSN30759355	1	Unknown
+	c.4383+1121A>G	p.?	COSN15038873	1	Unknown
+	c.4383+134G>A	p.?	COSN9667583	1	Unknown
+	c.4383+135C>T	p.?	COSN9667582	1	Unknown
+	c.4383+14G>A	p.?	COSN8098747	1	Unknown
+	c.4383+1603C>T	p.?	COSN32456651	1	Unknown
+	c.4383+1778T>C	p.?	COSN6361269	1	Unknown
+	c.4383+184C>T	p.?	COSN21615261	1	Unknown
+	c.4383+2142G>A	p.?	COSN6601261	1	Unknown
+	c.4383+2142_4383+2143insAAG	p.?	COSN23836223	1	Unknown
+	c.4383+219T>A	p.?	COSN21294552	1	Unknown
+	c.4383+2228G>C	p.?	COSN26761913	1	Unknown
+	c.4383+2388A>G	p.?	COSN8860352	1	Unknown
+	c.4383+2439A>G	p.?	COSN28896294	1	Unknown
+	c.4383+2723A>G	p.?	COSN20969435	1	Unknown
+	c.4383+2814G>T	p.?	COSN5687169	1	Unknown
+	c.4383+2986G>A	p.?	COSN24517757	1	Unknown
+	c.4383+29A>G	p.?	COSN30552508	1	Unknown
+	c.4383+35G>A	p.?	COSN26640858	1	Unknown
+	c.4383+3781T>C	p.?	COSN15920532	1	Unknown
+	c.4383+56G>A	p.?	COSN26641441	1	Unknown
+	c.4383+68G>C	p.?	COSN28814097	4	Unknown
+	c.4383+8_4383+11del	p.?	COSM5801956	1	Unknown
+	c.4384-114G>C	p.?	COSN21528838	1	Unknown
+	c.4384-1672T>G	p.?	COSN8860351	1	Unknown
+	c.4384-1736C>A	p.?	COSN9667581	1	Unknown
+	c.4384-1777T>A	p.?	COSN9268306	1	Unknown
+	c.4384-2153T>C	p.?	COSN8098746	1	Unknown
+	c.4384-2282T>C	p.?	COSN26053111	1	Unknown
+	c.4384-2358T>C	p.?	COSN22690057	1	Unknown
+	c.4384-23A>T	p.?	COSN28852983	1	Unknown
+	c.4384-2513G>A	p.?	COSN23934569	1	Unknown
+	c.4384-2660C>T	p.?	COSN33009307	1	Unknown
+	c.4384-2A>G	p.?	COSM5719080	5	Unknown
+	c.4384-3108C>T	p.?	COSN27303615	1	Unknown
+	c.4384-3578G>A	p.?	COSN6361268	1	Unknown
+	c.4384-3805A>G	p.?	COSN30545607	1	Unknown
+	c.4384-63C>G	p.?	COSN6361267	1	Unknown
+	c.4384-696A>G	p.?	COSN27059235	1	Unknown
+	c.4384-768C>T	p.?	COSN2287405	1	Unknown
+	c.*103C>T	p.?	COSN30104519	1	Unknown
+	c.*1138A>G	p.?	COSN2287404	1	Unknown
+	c.*11G>A	p.?	COSN30162047	1	Unknown
+	c.*1250T>C	p.?	COSN17825860	1	Unknown
+	c.*1269A>T	p.?	COSN9268305	1	Unknown
+	c.*1270T>G	p.?	COSN9268304	1	Unknown
+	c.*133G>T	p.?	COSN30131271	1	Unknown
+	c.*1425C>A	p.?	COSN31529828	1	Unknown
+	c.*152C>T	p.?	COSN30648612	1	Unknown
+	c.*182C>A	p.?	COSN26440182	1	Unknown
+	c.*2192C>T	p.?	COSN42885	1	Unknown
+	c.*2212G>A	p.?	COSN20326876	1	Unknown
+	c.*2401G>A	p.?	COSN8098745	1	Unknown
+	c.*2489G>C	p.?	COSN22576703	1	Unknown
+	c.*2820A>G	p.?	COSN5687168	1	Unknown
+	c.*28C>A	p.?	COSN1367724	1	Unknown
+	c.*2968A>G	p.?	COSN16426215	1	Unknown
+	c.*3003G>A	p.?	COSN25793955	1	Unknown
+	c.*3206A>G	p.?	COSN9667580	2	Unknown
+	c.*328G>T	p.?	COSN31528227	1	Unknown
+	c.*3408G>A	p.?	COSN15051663	1	Unknown
+	c.*3517G>A	p.?	COSN26839634	1	Unknown
+	c.*3577C>T	p.?	COSN8860350	1	Unknown
+	c.*3838C>T	p.?	COSN26129038	1	Unknown
+	c.*3842C>T	p.?	COSN26697429	1	Unknown
+	c.*421G>T	p.?	COSN30164396	1	Unknown
+	c.*427G>T	p.?	COSN31548269	1	Unknown
+	c.*440T>C	p.?	COSN31548290	1	Unknown
+	c.*44G>A	p.?	COSN24388430	1	Unknown
+	c.*491G>C	p.?	COSN28740462	1	Unknown
+	c.*818C>T	p.?	COSN29550059	1	Unknown
+	c.*99C>A	p.?	COSN30721671	1	Unknown
+	c.*99C>T	p.?	COSN30104522	1	Unknown

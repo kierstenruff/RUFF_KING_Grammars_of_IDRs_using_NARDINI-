@@ -1,0 +1,1433 @@
+Position	CDS Mutation	AA Mutation	Legacy Mutation ID	Count	Type
+6	c.17C>T	p.P6L	COSM8522457	1	Substitution - Missense
+6	c.18G>A	p.P6=	COSM9285031	1	Substitution - coding silent
+8	c.22T>A	p.Y8N	COSM5688957	1	Substitution - Missense
+9	c.27C>T	p.S9=	COSM9506367	3	Substitution - coding silent
+10	c.29G>A	p.G10D	COSM6283271	1	Substitution - Missense
+11	c.31G>A	p.V11M	COSM10312885	1	Substitution - Missense
+11	c.33G>A	p.V11=	COSM1114942	1	Substitution - coding silent
+14	c.41G>T	p.W14L	COSM755396	1	Substitution - Missense
+18	c.?	p.D18H	COSM7412634	1	Substitution - Missense
+19	c.55C>T	p.R19W	COSM7582184	1	Substitution - Missense
+19	c.56G>A	p.R19Q	COSM6611097	2	Substitution - Missense
+21	c.61C>T	p.R21C	COSM1114943	5	Substitution - Missense
+21	c.62G>A	p.R21H	COSM2725617	4	Substitution - Missense
+30	c.90A>T	p.R30S	COSM9991984	1	Substitution - Missense
+33	c.97C>T	p.L33F	COSM3557733	1	Substitution - Missense
+37	c.109G>C	p.E37Q	COSM3673324	1	Substitution - Missense
+37	c.109_111del	p.E37del	COSM1745119	1	Deletion - In frame
+38	c.113C>G	p.S38*	COSM3843535	1	Substitution - Nonsense
+38	c.113C>T	p.S38L	COSM4768532	1	Substitution - Missense
+39	c.116C>T	p.T39M	COSM7606068	1	Substitution - Missense
+41	c.123C>T	p.G41=	COSM7546250	1	Substitution - coding silent
+42	c.124G>A	p.D42N	COSM5513867	1	Substitution - Missense
+44	c.130C>A	p.Q44K	COSM376332	1	Substitution - Missense
+44	c.132G>T	p.Q44H	COSM8871552	1	Substitution - Missense
+47	c.140G>T	p.G47V	COSM6386147	2	Substitution - Missense
+50	c.149A>G	p.E50G	COSM6610999	1	Substitution - Missense
+56	c.166A>G	p.S56G	COSM6565657	1	Substitution - Missense
+59	c.177G>T	p.K59N	COSM9128659	1	Substitution - Missense
+61	c.183G>A	p.E61=	COSM6611043	1	Substitution - coding silent
+68	c.203G>A	p.G68D	COSM10297273	1	Substitution - Missense
+68	c.203G>C	p.G68A	COSM487934	1	Substitution - Missense
+68	c.204C>T	p.G68=	COSM6611057	1	Substitution - coding silent
+69	c.206G>T	p.S69I	COSM6184886	1	Substitution - Missense
+69	c.206dup	p.S69Rfs*25	COSM1465561	1	Insertion - Frameshift
+71	c.213C>T	p.A71=	COSM4477273	1	Substitution - coding silent
+72	c.214C>T	p.R72W	COSM8587264	1	Substitution - Missense
+72	c.215G>A	p.R72Q	COSM10001161	1	Substitution - Missense
+72	c.?	p.R72fs*?	COSM7335547	1	Frameshift
+74	c.220del	p.A74Qfs*42	COSM2725621	4	Deletion - Frameshift
+74	c.220dup	p.A74Gfs*20	COSM2725622	3	Insertion - Frameshift
+75	c.223G>T	p.D75Y	COSM9991879	1	Substitution - Missense
+79	c.236G>A	p.S79N	COSM6993065	1	Substitution - Missense
+84	c.251T>G	p.L84R	COSM1114944	1	Substitution - Missense
+90	c.268G>T	p.D90Y	COSM388340	1	Substitution - Missense
+90	c.269A>G	p.D90G	COSM7533067	1	Substitution - Missense
+94	c.280G>A	p.D94N	COSM9961692	1	Substitution - Missense
+94	c.?	p.D94N	COSM10069584	1	Substitution - Missense
+95	c.283C>T	p.P95S	COSM6117071	2	Substitution - Missense
+96	c.286C>A	p.Q96K	COSM7856926	1	Substitution - Missense
+96	c.286C>T	p.Q96*	COSM7745018	2	Substitution - Nonsense
+96	c.287A>G	p.Q96R	COSM7631498	1	Substitution - Missense
+100	c.300C>G	p.D100E	COSM1331257	1	Substitution - Missense
+101	c.303C>T	p.Y101=	COSM611013	2	Substitution - coding silent
+102	c.304G>A	p.A102T	COSM8991131	1	Substitution - Missense
+103	c.309G>A	p.G103=	COSM9775610	1	Substitution - coding silent
+105	c.313G>A	p.V105M	COSM5463838	1	Substitution - Missense
+111	c.?	p.F111L	COSM10510657	3	Substitution - Missense
+114	c.341C>T	p.P114L	COSM5885982	2	Substitution - Missense
+114	c.342C>G	p.P114=	COSM6539897	1	Substitution - coding silent
+120	c.358G>A	p.D120N	COSM10322855	1	Substitution - Missense
+120	c.358G>T	p.D120Y	COSM487935	1	Substitution - Missense
+120	c.360C>T	p.D120=	COSM10601811	1	Substitution - coding silent
+122	c.366C>T	p.L122=	COSM10175764	2	Substitution - coding silent
+125	c.375C>A	p.P125=	COSM8153369	1	Substitution - coding silent
+126	c.377C>A	p.A126E	COSM5815600	1	Substitution - Missense
+127	c.380C>T	p.S127F	COSM6023043	1	Substitution - Missense
+130	c.388G>C	p.A130P	COSM10175762	2	Substitution - Missense
+130	c.390C>T	p.A130=	COSM1465562	1	Substitution - coding silent
+134	c.400A>T	p.N134Y	COSM73826	1	Substitution - Missense
+135	c.403A>T	p.S135C	COSM10001077	1	Substitution - Missense
+138	c.412G>A	p.D138N	COSM6324011	1	Substitution - Missense
+138	c.413A>C	p.D138A	COSM9846394	1	Substitution - Missense
+142	c.426T>A	p.T142=	COSM9491749	1	Substitution - coding silent
+145	c.434A>G	p.N145S	COSM1243103	1	Substitution - Missense
+147	c.439del	p.Q147Kfs*2	COSM4612515	1	Deletion - Frameshift
+148	c.443T>C	p.M148T	COSM10128209	1	Substitution - Missense
+148	c.444G>T	p.M148I	COSM9076982	1	Substitution - Missense
+149	c.444_445insGG	p.S149Gfs*12	COSM6022391	1	Insertion - Frameshift
+149	c.446G>A	p.S149N	COSM9690913	1	Substitution - Missense
+149	c.447C>T	p.S149=	COSM6611049	1	Substitution - coding silent
+153	c.458_461del	p.D153Afs*6	COSM4450125	1	Deletion - Frameshift
+157	c.465_468del	p.A157Efs*2	COSM6903414	1	Deletion - Frameshift
+157	c.469G>A	p.A157T	COSM1114945	3	Substitution - Missense
+157	c.469G>C	p.A157P	COSM7728731	1	Substitution - Missense
+157	c.471C>T	p.A157=	COSM9515457	1	Substitution - coding silent
+158	c.?	p.G158*	COSM7335445	1	Substitution - Nonsense
+165	c.491_492insCC	p.R165Lfs*89	COSM6908277	1	Insertion - Frameshift
+165	c.494G>A	p.R165Q	COSM3747305	2	Substitution - Missense
+167	c.499G>A	p.G167S	COSM4377473	1	Substitution - Missense
+171	c.513_515del	p.K171del	COSM1490480	1	Deletion - In frame
+174	c.520_521insGG	p.F174Wfs*80	COSM5880026	1	Insertion - Frameshift
+174	c.522C>T	p.F174=	COSM3557735	1	Substitution - coding silent
+176	c.528G>T	p.L176F	COSM309462	2	Substitution - Missense
+180	c.540A>G	p.G180=	COSM7138536	1	Substitution - coding silent
+183	c.549C>A	p.V183=	COSM8286617	1	Substitution - coding silent
+184	c.550C>T	p.P184S	COSM2725628	4	Substitution - Missense
+184	c.552T>C	p.P184=	COSM6611016	1	Substitution - coding silent
+185	c.554T>G	p.V185G	COSM6473566	2	Substitution - Missense
+188	c.561dup	p.T188Dfs*8	COSM6191328	2	Insertion - Frameshift
+189	c.565del	p.L189Cfs*64	COSM7340717	1	Deletion - Frameshift
+190	c.568C>A	p.P190T	COSM10178148	1	Substitution - Missense
+194	c.582T>C	p.T194=	COSM4106581	1	Substitution - coding silent
+195	c.585C>G	p.N195K	COSM4904255	1	Substitution - Missense
+196	c.586T>C	p.F196L	COSM9128663	1	Substitution - Missense
+198	c.593C>A	p.P198H	COSM7776386	1	Substitution - Missense
+199	c.597G>A	p.L199=	COSM6611069	1	Substitution - coding silent
+201	c.601G>T	p.A201S	COSM3557737	1	Substitution - Missense
+202	c.605del	p.P202Lfs*51	COSM1465563	1	Deletion - Frameshift
+203	c.609C>T	p.I203=	COSM6611023	1	Substitution - coding silent
+205	c.613C>G	p.P205A	COSM5048192	1	Substitution - Missense
+206	c.617del	p.P206Lfs*47	COSM6611018	2	Deletion - Frameshift
+207	c.617dup	p.A207Cfs*65	COSM4765418	2	Insertion - Frameshift
+207	c.620C>T	p.A207V	COSM10502434	1	Substitution - Missense
+208	c.624C>T	p.P208=	COSM7208182	2	Substitution - coding silent
+209	c.625G>A	p.G209S	COSM5019165	7	Substitution - Missense
+210	c.629C>A	p.S210*	COSM7634085	1	Substitution - Nonsense
+210	c.629C>T	p.S210L	COSM1114946	3	Substitution - Missense
+212	c.635C>T	p.S212F	COSM4503257	1	Substitution - Missense
+213	c.638del	p.V213Gfs*40	COSM9993698	1	Deletion - Frameshift
+216	c.646T>G	p.S216A	COSM4994219	1	Substitution - Missense
+216	c.647_648del	p.S216Cfs*55	COSM5430499	1	Deletion - Frameshift
+216	c.648T>C	p.S216=	COSM6357939	1	Substitution - coding silent
+218	c.652C>T	p.P218S	COSM8043419	1	Substitution - Missense
+219	c.655G>A	p.D219N	COSM5794469	1	Substitution - Missense
+221	c.663C>G	p.F221L	COSM1114947	1	Substitution - Missense
+221	c.663C>T	p.F221=	COSM10357472	1	Substitution - coding silent
+222	c.664C>T	p.Q222*	COSM10357470	1	Substitution - Nonsense
+223	c.667G>A	p.V223I	COSM2725629	1	Substitution - Missense
+223	c.668T>G	p.V223G	COSM7339356	1	Substitution - Missense
+226	c.676_677del	p.S226Rfs*45	COSM7335538	2	Deletion - Frameshift
+227	c.679G>A	p.V227I	COSM9028043	2	Substitution - Missense
+229	c.685G>A	p.A229T	COSM10157421	1	Substitution - Missense
+230	c.690A>G	p.P230=	COSM118395	1	Substitution - coding silent
+231	c.692T>C	p.V231A	COSM3379499	2	Substitution - Missense
+231	c.693C>T	p.V231=	COSM10737223	11	Substitution - coding silent
+232	c.695C>T	p.P232L	COSM9994235	1	Substitution - Missense
+232	c.696C>T	p.P232=	COSM8738279	1	Substitution - coding silent
+233	c.696_697del	p.H233Ffs*38	COSM7340910	2	Deletion - Frameshift
+234	c.701C>A	p.S234*	COSM1190632	1	Substitution - Nonsense
+236	c.708T>C	p.L236=	COSM6571819	1	Substitution - coding silent
+238	c.714A>G	p.P238=	COSM1114948	1	Substitution - coding silent
+239	c.714dup	p.V239Sfs*33	COSM7335427	2	Insertion - Frameshift
+239	c.715G>A	p.V239I	COSM3973233	2	Substitution - Missense
+241	c.723T>C	p.V241=	COSM7173012	1	Substitution - coding silent
+242	c.724G>C	p.A242P	COSM3783586	1	Substitution - Missense
+244	c.731C>T	p.S244L	COSM9988632	1	Substitution - Missense
+244	c.732G>A	p.S244=	COSM10454557	1	Substitution - coding silent
+246	c.736C>T	p.P246S	COSM3557740	1	Substitution - Missense
+247	c.741T>A	p.A247=	COSM10360814	1	Substitution - coding silent
+248	c.742C>G	p.P248A	COSM7171045	1	Substitution - Missense
+250	c.749del	p.P250Lfs*3	COSM10182331	1	Deletion - Frameshift
+250	c.750T>C	p.P250=	COSM3843537	1	Substitution - coding silent
+256	c.766C>T	p.P256S	COSM9699638	1	Substitution - Missense
+256	c.767C>T	p.P256L	COSM6611091	1	Substitution - Missense
+256	c.768G>A	p.P256=	COSM4106583	2	Substitution - coding silent
+257	c.769G>T	p.A257S	COSM1114949	1	Substitution - Missense
+258	c.772C>T	p.L258=	COSM10394197	1	Substitution - coding silent
+260	c.778C>T	p.P260S	COSM7630372	1	Substitution - Missense
+261	c.782C>T	p.A261V	COSM2725631	1	Substitution - Missense
+263	c.788C>T	p.P263L	COSM8354548	3	Substitution - Missense
+264	c.791C>T	p.S264L	COSM10200003	1	Substitution - Missense
+265	c.793G>A	p.V265M	COSM6023283	1	Substitution - Missense
+265	c.794T>C	p.V265A	COSM9187615	1	Substitution - Missense
+267	c.801G>C	p.T267=	COSM8578660	1	Substitution - coding silent
+268	c.804C>T	p.L268=	COSM755395	1	Substitution - coding silent
+269	c.807C>G	p.I269M	COSM3713856	2	Substitution - Missense
+272	c.815C>T	p.S272L	COSM6611071	2	Substitution - Missense
+272	c.816G>A	p.S272=	COSM5467817	2	Substitution - coding silent
+274	c.820C>T	p.P274S	COSM9411061	1	Substitution - Missense
+274	c.821C>T	p.P274L	COSM9056693	1	Substitution - Missense
+278	c.833C>T	p.S278L	COSM9067647	1	Substitution - Missense
+278	c.834G>T	p.S278=	COSM7845317	1	Substitution - coding silent
+279	c.835G>T	p.A279S	COSM6184884	1	Substitution - Missense
+280	c.839C>T	p.S280L	COSM7711859	1	Substitution - Missense
+289	c.866C>A	p.A289D	COSM7265194	1	Substitution - Missense
+290	c.870C>A	p.P290=	COSM5472817	1	Substitution - coding silent
+291	c.872del	p.P291Lfs*127	COSM9846216	1	Deletion - Frameshift
+294	c.882G>A	p.P294=	COSM1114950	1	Substitution - coding silent
+294	c.882G>T	p.P294=	COSM309463	2	Substitution - coding silent
+295	c.880_883dup	p.V295Afs*126	COSM10895771	1	Insertion - Frameshift
+296	c.886_887insGGTT	p.P296Rfs*125	COSM10192918	1	Insertion - Frameshift
+296	c.887C>A	p.P296H	COSM4154831	1	Substitution - Missense
+296	c.887C>T	p.P296L	COSM9491323	1	Substitution - Missense
+304	c.911C>A	p.P304Q	COSM8770998	1	Substitution - Missense
+304	c.911C>T	p.P304L	COSM4665540	2	Substitution - Missense
+304	c.912G>A	p.P304=	COSM9187617	2	Substitution - coding silent
+306	c.917C>T	p.S306L	COSM9492622	1	Substitution - Missense
+310	c.929C>G	p.S310*	COSM7339999	1	Substitution - Nonsense
+312	c.934C>T	p.P312S	COSM10180680	1	Substitution - Missense
+312	c.935C>A	p.P312H	COSM9054502	1	Substitution - Missense
+313	c.937C>A	p.P313T	COSM8344414	1	Substitution - Missense
+313	c.938C>T	p.P313L	COSM4513429	2	Substitution - Missense
+316	c.946C>G	p.L316V	COSM5559270	1	Substitution - Missense
+323	c.967C>T	p.P323S	COSM3557742	3	Substitution - Missense
+324	c.968dup	p.S324Ffs*96	COSM1465564	1	Insertion - Frameshift
+324	c.971C>G	p.S324*	COSM5880028	1	Substitution - Nonsense
+325	c.973G>T	p.A325S	COSM1331256	1	Substitution - Missense
+326	c.976C>T	p.P326S	COSM10341448	1	Substitution - Missense
+326	c.978G>A	p.P326=	COSM9020617	1	Substitution - coding silent
+327	c.979A>G	p.T327A	COSM5803226	1	Substitution - Missense
+327	c.981C>T	p.T327=	COSM9390901	1	Substitution - coding silent
+330	c.988C>T	p.L330F	COSM10183135	1	Substitution - Missense
+332	c.995_996delinsTT	p.P332L	COSM4519140	1	Substitution - Missense
+333	c.997G>C	p.V333L	COSM7339549	1	Substitution - Missense
+336	c.1007C>T	p.P336L	COSM456735	1	Substitution - Missense
+336	c.?	p.P336L	COSM9936164	1	Substitution - Missense
+340	c.1019C>T	p.P340L	COSM9785895	1	Substitution - Missense
+341	c.1023G>A	p.M341I	COSM456736	1	Substitution - Missense
+344	c.1031C>A	p.S344Y	COSM10803049	1	Substitution - Missense
+345	c.1034C>T	p.T345M	COSM456737	2	Substitution - Missense
+345	c.1035G>A	p.T345=	COSM9616296	1	Substitution - coding silent
+353	c.1057C>T	p.P353S	COSM4457731	3	Substitution - Missense
+353	c.1058C>T	p.P353L	COSM9177276	3	Substitution - Missense
+354	c.1061C>T	p.S354F	COSM9730648	1	Substitution - Missense
+359	c.1075A>C	p.T359P	COSM487936	2	Substitution - Missense
+360	c.1077_1099del	p.P360Ffs*52	COSM10766909	1	Deletion - Frameshift
+362	c.1084C>A	p.P362T	COSM9992544	1	Substitution - Missense
+363	c.1088C>T	p.S363F	COSM4439317	2	Substitution - Missense
+369	c.1105A>G	p.T369A	COSM4942693	1	Substitution - Missense
+371	c.1111A>C	p.T371P	COSM4156576	4	Substitution - Missense
+371	c.1112C>T	p.T371I	COSM9992186	1	Substitution - Missense
+372	c.1115T>C	p.L372P	COSM10201008	1	Substitution - Missense
+373	c.1117A>C	p.I373L	COSM9846951	1	Substitution - Missense
+375	c.1123G>A	p.A375T	COSM10895250	1	Substitution - Missense
+375	c.1123G>C	p.A375P	COSM9846258	1	Substitution - Missense
+375	c.1123G>T	p.A375S	COSM4521660	1	Substitution - Missense
+375	c.1124C>T	p.A375V	COSM10837502	1	Substitution - Missense
+376	c.1126T>C	p.F376L	COSM9846638	1	Substitution - Missense
+377	c.1129G>T	p.A377S	COSM9846616	2	Substitution - Missense
+378	c.1133C>T	p.P378L	COSM10210792	1	Substitution - Missense
+380	c.1139C>T	p.P380L	COSM1114951	1	Substitution - Missense
+382	c.1145C>A	p.P382H	COSM5498482	1	Substitution - Missense
+385	c.1155C>T	p.T385=	COSM3913343	1	Substitution - coding silent
+387	c.1158_1159delinsCC	p.A387P	COSM9848754	1	Substitution - Missense
+387	c.1159G>C	p.A387P	COSM9852160	1	Substitution - Missense
+389	c.1164del	p.I389Sfs*29	COSM7339024	1	Deletion - Frameshift
+389	c.1165A>C	p.I389L	COSM5880030	3	Substitution - Missense
+391	c.1171A>T	p.T391S	COSM9846837	1	Substitution - Missense
+397	c.1191G>A	p.M397I	COSM6907866	1	Substitution - Missense
+399	c.1195G>A	p.A399T	COSM7340902	1	Substitution - Missense
+401	c.1203G>A	p.T401=	COSM4106585	2	Substitution - coding silent
+402	c.1205C>T	p.P402L	COSM9999456	1	Substitution - Missense
+404	c.1210G>A	p.A404T	COSM4618894	1	Substitution - Missense
+407	c.1219A>C	p.T407P	COSM9847796	1	Substitution - Missense
+407	c.1221C>A	p.T407=	COSM6907510	1	Substitution - coding silent
+411	c.1231A>C	p.I411L	COSM9848037	1	Substitution - Missense
+412	c.1235C>T	p.P412L	COSM4106587	1	Substitution - Missense
+423	c.1269T>G	p.P423=	COSM8773203	1	Substitution - coding silent
+427	c.1279G>T	p.A427S	COSM6331614	1	Substitution - Missense
+429	c.1285G>A	p.A429T	COSM9990894	2	Substitution - Missense
+430	c.1288A>G	p.M430V	COSM5683362	2	Substitution - Missense
+432	c.1296A>T	p.K432N	COSM7780250	1	Substitution - Missense
+433	c.1299C>T	p.V433=	COSM8043082	1	Substitution - coding silent
+434	c.1300C>A	p.P434T	COSM10200004	1	Substitution - Missense
+434	c.1301C>A	p.P434H	COSM9099224	1	Substitution - Missense
+434	c.1302C>A	p.P434=	COSM8229942	1	Substitution - coding silent
+434	c.1302C>T	p.P434=	COSM9515328	1	Substitution - coding silent
+437	c.?	p.F437L*99	COSM7335679	1	Frameshift
+440	c.1318G>T	p.G440W	COSM7913163	1	Substitution - Missense
+440	c.1319G>A	p.G440E	COSM5783783	1	Substitution - Missense
+440	c.1320G>A	p.G440=	COSM6907632	1	Substitution - coding silent
+442	c.1326G>T	p.V442=	COSM6560115	1	Substitution - coding silent
+445	c.1335G>A	p.P445=	COSM5791661	1	Substitution - coding silent
+447	c.1339C>T	p.Q447*	COSM5885983	2	Substitution - Nonsense
+449	c.1346T>G	p.L449R	COSM5779571	1	Substitution - Missense
+450	c.1350A>G	p.V450=	COSM9013701	1	Substitution - coding silent
+452	c.1355_1373del	p.I452Sfs*13	COSM6022390	1	Deletion - Frameshift
+453	c.1357C>A	p.P453T	COSM10275987	1	Substitution - Missense
+453	c.1359G>A	p.P453=	COSM456738	1	Substitution - coding silent
+455	c.1363C>A	p.P455T	COSM10564576	1	Substitution - Missense
+455	c.1363C>T	p.P455S	COSM7357429	1	Substitution - Missense
+462	c.1385G>A	p.S462N	COSM2725633	1	Substitution - Missense
+471	c.1411G>T	p.G471W	COSM7937730	1	Substitution - Missense
+471	c.1413G>A	p.G471=	COSM3424453	2	Substitution - coding silent
+472	c.1414dup	p.V472Gfs*63	COSM9613129	1	Insertion - Frameshift
+474	c.1421C>A	p.S474Y	COSM4788727	1	Substitution - Missense
+474	c.1421C>T	p.S474F	COSM10173255	1	Substitution - Missense
+477	c.1429dup	p.T477Nfs*58	COSM10895947	1	Insertion - Frameshift
+477	c.1430C>T	p.T477M	COSM9514960	1	Substitution - Missense
+477	c.?	p.T477fs*58	COSM7335680	1	Frameshift
+478	c.1431_1432insTCGCCTCCCT	p.L478Sfs*60	COSM10183565	1	Insertion - Frameshift
+478	c.1433_1434delinsGT	p.L478R	COSM4573200	1	Substitution - Missense
+478	c.1434C>A	p.L478=	COSM1114952	1	Substitution - coding silent
+478	c.1434C>T	p.L478=	COSM2725635	2	Substitution - coding silent
+479	c.1435C>T	p.P479S	COSM5909945	1	Substitution - Missense
+479	c.1436C>A	p.P479H	COSM9514151	1	Substitution - Missense
+482	c.1445C>T	p.P482L	COSM6611025	3	Substitution - Missense
+484	c.1452C>A	p.Y484*	COSM10127988	1	Substitution - Nonsense
+487	c.1460A>C	p.D487A	COSM755393	1	Substitution - Missense
+488	c.1463G>T	p.R488M	COSM9991434	1	Substitution - Missense
+490	c.1468C>T	p.L490F	COSM10572164	1	Substitution - Missense
+490	c.1470C>T	p.L490=	COSM3557744	1	Substitution - coding silent
+492	c.1476C>T	p.G492=	COSM6611037	2	Substitution - coding silent
+493	c.1477G>T	p.V493L	COSM6251502	1	Substitution - Missense
+495	c.1484C>G	p.A495G	COSM9960031	1	Substitution - Missense
+496	c.1488C>T	p.S496=	COSM6184882	1	Substitution - coding silent
+497	c.1491C>T	p.P497=	COSM6611029	2	Substitution - coding silent
+498	c.1491del	p.E498Sfs*15	COSM6611093	1	Deletion - Frameshift
+498	c.1494G>T	p.E498D	COSM1465565	1	Substitution - Missense
+500	c.1499G>A	p.R500H	COSM5345894	2	Substitution - Missense
+501	c.1502C>A	p.S501Y	COSM9017483	1	Substitution - Missense
+503	c.1507C>T	p.P503S	COSM5415151	2	Substitution - Missense
+503	c.1509G>T	p.P503=	COSM6275490	1	Substitution - coding silent
+503	c.?	p.P503Q	COSM7002450	1	Substitution - Missense
+505	c.1513G>A	p.A505T	COSM4844095	1	Substitution - Missense
+507	c.1520C>T	p.S507F	COSM9930502	1	Substitution - Missense
+509	c.1527C>T	p.A509=	COSM5607301	2	Substitution - coding silent
+510	c.1529G>A	p.R510Q	COSM9128665	1	Substitution - Missense
+514	c.1542G>A	p.S514=	COSM1756386	2	Substitution - coding silent
+515	c.1543G>A	p.D515N	COSM7339547	1	Substitution - Missense
+515	c.1545T>A	p.D515E	COSM1715519	1	Substitution - Missense
+516	c.1548C>A	p.S516=	COSM8674011	1	Substitution - coding silent
+519	c.1555G>C	p.V519L	COSM10000941	1	Substitution - Missense
+521	c.1562T>A	p.L521Q	COSM10183136	1	Substitution - Missense
+521	c.1562T>G	p.L521R	COSM9962601	1	Substitution - Missense
+521	c.1562_1563del	p.L521Rfs*13	COSM5880032	1	Deletion - Frameshift
+526	c.1576C>T	p.L526F	COSM10201017	1	Substitution - Missense
+528	c.1581del	p.C528Afs*120	COSM5509590	1	Deletion - Frameshift
+528	c.1582T>C	p.C528R	COSM10500151	1	Substitution - Missense
+530	c.1590C>A	p.S530=	COSM9514153	1	Substitution - coding silent
+532	c.1592dup	p.S532Ifs*3	COSM7339026	1	Insertion - Frameshift
+532	c.1595C>G	p.S532C	COSM7161187	1	Substitution - Missense
+532	c.1596C>T	p.S532=	COSM7161189	1	Substitution - coding silent
+533	c.1596del	p.G533Vfs*115	COSM7001306	1	Deletion - Frameshift
+533	c.1597G>A	p.G533S	COSM1556014	2	Substitution - Missense
+533	c.1597G>C	p.G533R	COSM9973404	1	Substitution - Missense
+534	c.1602C>T	p.S534=	COSM4829316	1	Substitution - coding silent
+535	c.1605C>A	p.T535=	COSM4773327	1	Substitution - coding silent
+536	c.1604_1605insA	p.T536Hfs*67	COSM405220	1	Insertion - Frameshift
+538	c.1612C>T	p.Q538*	COSM6191330	2	Substitution - Nonsense
+538	c.1614G>A	p.Q538=	COSM2725640	1	Substitution - coding silent
+539	c.1616C>T	p.P539L	COSM5411972	1	Substitution - Missense
+542	c.1624G>A	p.D542N	COSM1114953	2	Substitution - Missense
+542	c.1624G>C	p.D542H	COSM7717788	1	Substitution - Missense
+543	c.1627G>A	p.G543R	COSM6853331	1	Substitution - Missense
+543	c.1628G>A	p.G543E	COSM10200011	1	Substitution - Missense
+545	c.1633C>T	p.P545S	COSM10040711	1	Substitution - Missense
+546	c.1636G>A	p.G546R	COSM5411974	2	Substitution - Missense
+547	c.1639C>T	p.P547S	COSM9676491	1	Substitution - Missense
+547	c.1640C>A	p.P547H	COSM9012307	1	Substitution - Missense
+547	c.1640C>T	p.P547L	COSM10622795	1	Substitution - Missense
+552	c.1654T>A	p.S552T	COSM9351374	1	Substitution - Missense
+552	c.1655C>T	p.S552F	COSM6885242	1	Substitution - Missense
+553	c.1657dup	p.L553Pfs*50	COSM6023042	1	Insertion - Frameshift
+553	c.1659T>C	p.L553=	COSM5019971	2	Substitution - coding silent
+559	c.1677G>A	p.K559=	COSM7507154	2	Substitution - coding silent
+559	c.1677G>C	p.K559N	COSM6023046	1	Substitution - Missense
+560	c.1678G>A	p.V560M	COSM10650509	1	Substitution - Missense
+562	c.1684C>T	p.P562S	COSM5723355	4	Substitution - Missense
+564	c.1691C>T	p.P564L	COSM3913345	1	Substitution - Missense
+565	c.1693C>T	p.Q565*	COSM10506436	1	Substitution - Nonsense
+566	c.1696C>A	p.P566T	COSM1138074	1	Substitution - Missense
+568	c.1703T>A	p.L568Q	COSM7339354	1	Substitution - Missense
+570	c.1710C>A	p.A570=	COSM8273449	1	Substitution - coding silent
+573	c.1718G>A	p.G573E	COSM8762872	1	Substitution - Missense
+573	c.1719G>C	p.G573=	COSM7711004	1	Substitution - coding silent
+575	c.1724C>T	p.S575L	COSM7161191	1	Substitution - Missense
+577	c.1729C>T	p.P577S	COSM4471595	1	Substitution - Missense
+577	c.1730C>T	p.P577L	COSM10183148	1	Substitution - Missense
+578	c.1733C>T	p.P578L	COSM9989264	1	Substitution - Missense
+578	c.1734G>A	p.P578=	COSM6611039	1	Substitution - coding silent
+580	c.1740C>A	p.P580=	COSM8155758	1	Substitution - coding silent
+580	c.1740C>T	p.P580=	COSM1465566	2	Substitution - coding silent
+581	c.1741G>A	p.A581T	COSM9985098	1	Substitution - Missense
+587	c.1760C>A	p.T587N	COSM213012	3	Substitution - Missense
+587	c.1760C>T	p.T587I	COSM9493528	1	Substitution - Missense
+588	c.1762G>A	p.E588K	COSM3783588	2	Substitution - Missense
+590	c.?	p.Q590*	COSM7335681	1	Substitution - Nonsense
+595	c.1784C>G	p.S595C	COSM7339997	1	Substitution - Missense
+596	c.?	p.V596L*52	COSM7335682	1	Frameshift
+598	c.1794C>A	p.F598L	COSM1114954	1	Substitution - Missense
+599	c.1796C>T	p.S599F	COSM9789675	1	Substitution - Missense
+600	c.1798C>T	p.P600S	COSM9989887	2	Substitution - Missense
+602	c.1804A>T	p.K602*	COSM9102914	1	Substitution - Nonsense
+604	c.1811C>T	p.P604L	COSM4886378	2	Substitution - Missense
+604	c.1812G>A	p.P604=	COSM367543	3	Substitution - coding silent
+606	c.1816C>T	p.Q606*	COSM10896153	1	Substitution - Nonsense
+606	c.1818G>C	p.Q606H	COSM6117069	1	Substitution - Missense
+607	c.1819C>A	p.L607M	COSM367952	1	Substitution - Missense
+609	c.1825C>T	p.R609*	COSM4970099	4	Substitution - Nonsense
+609	c.1826G>A	p.R609Q	COSM5411976	1	Substitution - Missense
+612	c.1834G>A	p.A612T	COSM6586349	1	Substitution - Missense
+613	c.1837T>C	p.S613P	COSM5985495	2	Substitution - Missense
+614	c.1839_1840del	p.P614Tfs*2	COSM5985567	2	Deletion - Frameshift
+615	c.1843C>T	p.P615S	COSM10200005	1	Substitution - Missense
+616	c.1847A>T	p.E616V	COSM10050101	1	Substitution - Missense
+616	c.?	p.E616*	COSM7335683	1	Substitution - Nonsense
+618	c.1853G>A	p.S618N	COSM8808521	1	Substitution - Missense
+625	c.1875C>A	p.S625=	COSM7904769	1	Substitution - coding silent
+625	c.1875C>T	p.S625=	COSM5411978	1	Substitution - coding silent
+627	c.1881G>A	p.K627=	COSM1114955	1	Substitution - coding silent
+630	c.1888C>T	p.R630C	COSM1331255	1	Substitution - Missense
+630	c.1889G>A	p.R630H	COSM3390408	2	Substitution - Missense
+630	c.1890C>A	p.R630=	COSM1465567	1	Substitution - coding silent
+634	c.1900C>T	p.P634S	COSM8011415	1	Substitution - Missense
+636	c.1908G>A	p.P636=	COSM7123086	1	Substitution - coding silent
+638	c.1912C>T	p.Q638*	COSM3735345	3	Substitution - Nonsense
+638	c.1914G>A	p.Q638=	COSM1315203	1	Substitution - coding silent
+639	c.1915C>A	p.R639S	COSM6117067	1	Substitution - Missense
+639	c.1915C>T	p.R639C	COSM3390410	3	Substitution - Missense
+639	c.1916G>A	p.R639H	COSM2725644	1	Substitution - Missense
+643	c.1929C>A	p.P643=	COSM7951294	1	Substitution - coding silent
+644	c.1929del	p.M644Cfs*4	COSM2725645	9	Deletion - Frameshift
+644	c.1929dup	p.M644Hfs*21	COSM6191332	2	Insertion - Frameshift
+645	c.1933C>T	p.P645S	COSM4631425	1	Substitution - Missense
+645	c.1934C>A	p.P645H	COSM2725647	1	Substitution - Missense
+649	c.1946C>A	p.P649H	COSM8086601	1	Substitution - Missense
+649	c.1947C>A	p.P649=	COSM8298632	1	Substitution - coding silent
+651	c.1951C>G	p.H651D	COSM7570877	1	Substitution - Missense
+656	c.1966G>A	p.A656T	COSM10746430	1	Substitution - Missense
+657	c.1969C>T	p.L657F	COSM6023047	1	Substitution - Missense
+659	c.1976C>A	p.S659Y	COSM4844138	1	Substitution - Missense
+663	c.1988C>G	p.S663C	COSM6117065	1	Substitution - Missense
+666	c.1996C>T	p.Q666*	COSM10056927	1	Substitution - Nonsense
+669	c.2007C>T	p.T669=	COSM3557746	1	Substitution - coding silent
+671	c.2012C>A	p.A671D	COSM9514155	1	Substitution - Missense
+673	c.2018G>T	p.G673V	COSM9153522	1	Substitution - Missense
+678	c.2034C>T	p.S678=	COSM8459106	1	Substitution - coding silent
+679	c.2036G>T	p.C679F	COSM6610991	1	Substitution - Missense
+681	c.2043C>T	p.G681=	COSM1114956	1	Substitution - coding silent
+682	c.2045C>G	p.S682C	COSM755392	1	Substitution - Missense
+683	c.2046dup	p.T683Hfs*59	COSM6611012	1	Insertion - Frameshift
+685	c.2054C>A	p.S685*	COSM5967129	1	Substitution - Nonsense
+685	c.2055G>A	p.S685=	COSM6611027	2	Substitution - coding silent
+688	c.2064C>T	p.V688=	COSM5019268	2	Substitution - coding silent
+689	c.2065A>G	p.I689V	COSM4954291	1	Substitution - Missense
+689	c.2067C>A	p.I689=	COSM1114957	2	Substitution - coding silent
+691	c.2072C>T	p.P691L	COSM3557748	1	Substitution - Missense
+692	c.2074G>A	p.E692K	COSM69810	1	Substitution - Missense
+692	c.2074G>T	p.E692*	COSM1556013	2	Substitution - Nonsense
+692	c.?	p.E692D	COSM7002451	1	Substitution - Missense
+693	c.2079C>T	p.I693=	COSM1114958	2	Substitution - coding silent
+696	c.2088T>C	p.N696=	COSM7273872	1	Substitution - coding silent
+697	c.2091G>A	p.G697=	COSM3372057	2	Substitution - coding silent
+698	c.2092G>T	p.D698Y	COSM456739	1	Substitution - Missense
+699	c.2096C>A	p.P699Q	COSM8717702	1	Substitution - Missense
+700	c.2099G>T	p.S700I	COSM7339545	1	Substitution - Missense
+702	c.2105G>T	p.W702L	COSM324810	1	Substitution - Missense
+702	c.2105_2106delinsTT	p.W702F	COSM388066	1	Substitution - Missense
+702	c.2106G>A	p.W702*	COSM5880034	1	Substitution - Nonsense
+703	c.2107G>A	p.V703M	COSM6023048	1	Substitution - Missense
+704	c.2112G>T	p.K704N	COSM9990235	1	Substitution - Missense
+706	c.2117C>G	p.S706*	COSM10507242	1	Substitution - Nonsense
+708	c.2122G>A	p.A708T	COSM4761252	1	Substitution - Missense
+709	c.2127G>A	p.L709=	COSM9288090	1	Substitution - coding silent
+710	c.2130C>A	p.I710=	COSM4890071	1	Substitution - coding silent
+710	c.2130C>G	p.I710M	COSM7634132	1	Substitution - Missense
+712	c.2134A>T	p.T712S	COSM6117063	1	Substitution - Missense
+713	c.2137A>T	p.I713F	COSM5812891	1	Substitution - Missense
+714	c.2140C>A	p.P714T	COSM1114959	1	Substitution - Missense
+717	c.2151C>T	p.Y717=	COSM203680	1	Substitution - coding silent
+718	c.2152G>A	p.V718M	COSM203681	1	Substitution - Missense
+722	c.2164A>G	p.N722D	COSM5472819	1	Substitution - Missense
+723	c.2168C>T	p.P723L	COSM10466723	1	Substitution - Missense
+727	c.2180C>A	p.S727Y	COSM7814822	1	Substitution - Missense
+733	c.2197G>A	p.D733N	COSM755391	1	Substitution - Missense
+734	c.2201_2202delinsTT	p.P734L	COSM10757186	1	Substitution - Missense
+736	c.2206C>A	p.L736M	COSM9992626	1	Substitution - Missense
+739	c.2217C>A	p.N739K	COSM6611045	1	Substitution - Missense
+740	c.2218C>T	p.R740C	COSM9225602	1	Substitution - Missense
+740	c.2219G>A	p.R740H	COSM7340905	1	Substitution - Missense
+741	c.2222A>C	p.D741A	COSM10045241	1	Substitution - Missense
+742	c.2226C>T	p.P742=	COSM9716979	1	Substitution - coding silent
+743	c.2227del	p.R743Afs*40	COSM5616219	1	Deletion - Frameshift
+743	c.2228G>A	p.R743H	COSM1114960	2	Substitution - Missense
+746	c.2237C>A	p.P746H	COSM8717930	1	Substitution - Missense
+749	c.2245del	p.E749Sfs*34	COSM6853201	2	Deletion - Frameshift
+750	c.2249C>A	p.P750H	COSM8374035	1	Substitution - Missense
+752	c.2255C>T	p.S752F	COSM9491510	1	Substitution - Missense
+754	c.2261T>C	p.I754T	COSM1644428	1	Substitution - Missense
+754	c.?	p.I754fs*?	COSM7335548	1	Frameshift
+755	c.2263G>A	p.D755N	COSM10291984	1	Substitution - Missense
+756	c.2266C>T	p.Q756*	COSM422238	1	Substitution - Nonsense
+757	c.2269G>A	p.G757R	COSM4536103	2	Substitution - Missense
+761	c.2282del	p.G761Afs*22	COSM6611010	1	Deletion - Frameshift
+763	c.2288G>C	p.G763A	COSM2725648	1	Substitution - Missense
+765	c.2294C>T	p.T765M	COSM6023044	1	Substitution - Missense
+765	c.2295G>A	p.T765=	COSM127437	2	Substitution - coding silent
+766	c.2297G>T	p.C766F	COSM9582829	1	Substitution - Missense
+767	c.2300del	p.G767Afs*16	COSM6023041	1	Deletion - Frameshift
+769	c.2305A>T	p.K769*	COSM10547940	2	Substitution - Nonsense
+769	c.2306A>G	p.K769R	COSM3363806	1	Substitution - Missense
+769	c.2306del	p.K769Rfs*14	COSM7339025	2	Deletion - Frameshift
+769	c.2307G>T	p.K769N	COSM8516250	1	Substitution - Missense
+772	c.2314C>T	p.Q772*	COSM10308164	1	Substitution - Nonsense
+776	c.2326G>A	p.E776K	COSM7433890	1	Substitution - Missense
+777	c.2329G>C	p.G777R	COSM9992882	1	Substitution - Missense
+780	c.2339G>A	p.S780N	COSM4665542	3	Substitution - Missense
+784	c.2350C>T	p.R784*	COSM1319521	11	Substitution - Nonsense
+784	c.2351G>A	p.R784Q	COSM6018745	1	Substitution - Missense
+784	c.?	p.R784*	COSM7335684	2	Substitution - Nonsense
+787	c.2360C>T	p.P787L	COSM10159740	2	Substitution - Missense
+788	c.2364C>T	p.A788=	COSM5411980	1	Substitution - coding silent
+789	c.2365C>T	p.R789C	COSM3424455	2	Substitution - Missense
+789	c.2366G>A	p.R789H	COSM1114961	2	Substitution - Missense
+789	c.2366G>T	p.R789L	COSM755390	1	Substitution - Missense
+793	c.?	p.G793Xfs*?	COSM10783214	1	Frameshift
+797	c.2390G>T	p.C797F	COSM5782372	3	Substitution - Missense
+798	c.2392C>T	p.Q798*	COSM8225717	1	Substitution - Nonsense
+799	c.2396C>T	p.T799I	COSM1114962	1	Substitution - Missense
+801	c.2401G>A	p.E801K	COSM4665544	2	Substitution - Missense
+802	c.2404C>T	p.L802F	COSM10200006	1	Substitution - Missense
+803	c.2407T>C	p.S803P	COSM3390412	1	Substitution - Missense
+803	c.2408C>A	p.S803Y	COSM1114963	1	Substitution - Missense
+803	c.2408_2409del	p.S803Ffs*83	COSM10890829	1	Deletion - Frameshift
+807	c.2420C>G	p.P807R	COSM9991962	1	Substitution - Missense
+808	c.2422A>C	p.T808P	COSM6473568	1	Substitution - Missense
+808	c.2423C>A	p.T808K	COSM10179383	1	Substitution - Missense
+808	c.2424G>A	p.T808=	COSM295700	2	Substitution - coding silent
+810	c.2428C>A	p.P810T	COSM6191334	2	Substitution - Missense
+810	c.?	p.P810L	COSM10132612	1	Substitution - Missense
+811	c.2432C>A	p.A811E	COSM7815816	1	Substitution - Missense
+812	c.2434A>G	p.N812D	COSM9115457	1	Substitution - Missense
+813	c.2436dup	p.I813Yfs*74	COSM5730328	1	Insertion - Frameshift
+816	c.2446C>T	p.R816W	COSM10183149	1	Substitution - Missense
+816	c.2447G>A	p.R816Q	COSM5020938	2	Substitution - Missense
+818	c.2453C>T	p.S818L	COSM9921464	1	Substitution - Missense
+821	c.2461G>T	p.G821W	COSM6184880	1	Substitution - Missense
+822	c.2466del	p.K822Nfs*31	COSM4589176	1	Deletion - Frameshift
+823	c.2467C>G	p.P823A	COSM1490481	1	Substitution - Missense
+823	c.?	p.P823S	COSM9936163	1	Substitution - Missense
+825	c.2475C>A	p.S825R	COSM7827900	1	Substitution - Missense
+829	c.2485C>T	p.L829=	COSM3557750	1	Substitution - coding silent
+829	c.2486T>G	p.L829R	COSM5636651	1	Substitution - Missense
+832	c.2495G>A	p.G832D	COSM13997	2	Substitution - Missense
+835	c.2504C>A	p.P835Q	COSM7995570	1	Substitution - Missense
+835	c.2504C>T	p.P835L	COSM6611007	2	Substitution - Missense
+839	c.2517G>A	p.A839=	COSM3405955	1	Substitution - coding silent
+840	c.2517del	p.S840Lfs*13	COSM10783503	1	Deletion - Frameshift
+840	c.2518T>C	p.S840P	COSM3557752	1	Substitution - Missense
+841	c.2521C>T	p.L841=	COSM7161193	1	Substitution - coding silent
+843	c.2527del	p.S843Pfs*10	COSM7340602	1	Deletion - Frameshift
+845	c.2534G>T	p.G845V	COSM6610993	1	Substitution - Missense
+849	c.2546C>T	p.A849V	COSM10153879	1	Substitution - Missense
+849	c.2547C>T	p.A849=	COSM9033702	1	Substitution - coding silent
+850	c.2548G>A	p.G850R	COSM5877066	2	Substitution - Missense
+850	c.2548G>C	p.G850R	COSM7777672	1	Substitution - Missense
+850	c.2548G>T	p.G850W	COSM8675701	2	Substitution - Missense
+851	c.?	p.Q851K	COSM7335685	1	Substitution - Missense
+852	c.2556G>T	p.L852=	COSM8360113	1	Substitution - coding silent
+853	c.2558C>A	p.T853N	COSM5749217	1	Substitution - Missense
+854	c.2562C>A	p.P854=	COSM7823136	1	Substitution - coding silent
+856	c.2566C>T	p.Q856*	COSM9569668	1	Substitution - Nonsense
+856	c.2567_2568del	p.Q856Rfs*30	COSM10128435	1	Deletion - Frameshift
+857	c.2569G>A	p.G857R	COSM4538568	1	Substitution - Missense
+858	c.2572G>A	p.A858T	COSM9996970	2	Substitution - Missense
+858	c.2572del	p.A858Rfs*67	COSM4614266	1	Deletion - Frameshift
+858	c.2572dup	p.A858Gfs*29	COSM5513869	1	Insertion - Frameshift
+858	c.2573C>T	p.A858V	COSM6611033	1	Substitution - Missense
+860	c.2580C>T	p.I860=	COSM8654235	1	Substitution - coding silent
+862	c.2586C>A	p.P862=	COSM8032656	1	Substitution - coding silent
+866	c.2596G>A	p.V866I	COSM9178290	1	Substitution - Missense
+866	c.2597T>C	p.V866A	COSM10894632	1	Substitution - Missense
+867	c.2600C>T	p.S867L	COSM4482401	1	Substitution - Missense
+867	c.2601G>A	p.S867=	COSM7585834	2	Substitution - coding silent
+868	c.2602G>T	p.E868*	COSM9565771	1	Substitution - Nonsense
+869	c.2607T>C	p.F869=	COSM7606283	1	Substitution - coding silent
+870	c.2608dup	p.S870Ffs*17	COSM10200033	1	Insertion - Frameshift
+872	c.2615T>G	p.V872G	COSM2725653	1	Substitution - Missense
+874	c.2622T>C	p.S874=	COSM8527878	1	Substitution - coding silent
+875	c.2625C>G	p.L875=	COSM1315204	1	Substitution - coding silent
+877	c.2631C>T	p.S877=	COSM9675541	1	Substitution - coding silent
+878	c.2632A>G	p.S878G	COSM5731858	1	Substitution - Missense
+878	c.2634C>G	p.S878R	COSM7437099	1	Substitution - Missense
+881	c.2641G>A	p.V881M	COSM7441065	4	Substitution - Missense
+883	c.2647G>A	p.G883R	COSM7913895	2	Substitution - Missense
+883	c.2647_2648delinsAA	p.G883K	COSM9491069	1	Substitution - Missense
+883	c.2648G>A	p.G883E	COSM7914759	2	Substitution - Missense
+884	c.2647_2650dup	p.L884Rfs*4	COSM10608946	1	Insertion - Frameshift
+885	c.2653C>A	p.P885T	COSM8682316	1	Substitution - Missense
+885	c.2653C>T	p.P885S	COSM5926166	2	Substitution - Missense
+885	c.2654C>A	p.P885H	COSM8122537	2	Substitution - Missense
+888	c.2661del	p.Q888Nfs*37	COSM5494300	1	Deletion - Frameshift
+888	c.2662C>A	p.Q888K	COSM10656441	1	Substitution - Missense
+888	c.2662C>T	p.Q888*	COSM8650915	2	Substitution - Nonsense
+888	c.?	p.Q888H	COSM9277021	1	Substitution - Missense
+889	c.2665C>G	p.P889A	COSM4665546	1	Substitution - Missense
+889	c.2665C>T	p.P889S	COSM8359703	4	Substitution - Missense
+890	c.2669G>A	p.R890Q	COSM1556011	2	Substitution - Missense
+892	c.2674_2675delinsAT	p.G892M	COSM9871354	1	Substitution - Missense
+893	c.2679C>T	p.G893=	COSM7616488	1	Substitution - coding silent
+894	c.2680_2695del	p.S894Rfs*26	COSM111367	1	Deletion - Frameshift
+894	c.2681C>T	p.S894F	COSM5909949	2	Substitution - Missense
+894	c.2682C>T	p.S894=	COSM10429120	1	Substitution - coding silent
+895	c.2685C>T	p.F895=	COSM9093889	2	Substitution - coding silent
+896	c.2686G>A	p.V896I	COSM8914873	4	Substitution - Missense
+897	c.2689C>T	p.P897S	COSM7616481	1	Substitution - Missense
+898	c.2692G>T	p.E898*	COSM2725657	1	Substitution - Nonsense
+901	c.2702C>T	p.P901L	COSM1331254	1	Substitution - Missense
+902	c.2706T>C	p.V902=	COSM4788572	1	Substitution - coding silent
+903	c.2707dup	p.T903Nfs*14	COSM5749698	1	Insertion - Frameshift
+904	c.2712G>A	p.K904=	COSM8746996	1	Substitution - coding silent
+905	c.2715C>A	p.N905K	COSM8647529	1	Substitution - Missense
+908	c.2723G>T	p.C908F	COSM2725658	2	Substitution - Missense
+909	c.2726G>A	p.R909Q	COSM10145836	1	Substitution - Missense
+911	c.2732C>T	p.A911V	COSM5020083	1	Substitution - Missense
+912	c.2735C>A	p.A912D	COSM10128452	1	Substitution - Missense
+913	c.2737A>G	p.K913E	COSM77335	1	Substitution - Missense
+915	c.2743T>C	p.Y915H	COSM10072575	1	Substitution - Missense
+915	c.?	p.Y915fs*1	COSM9118843	1	Frameshift
+916	c.2746G>A	p.E916K	COSM9683934	1	Substitution - Missense
+916	c.2746G>T	p.E916*	COSM6022393	1	Substitution - Nonsense
+918	c.2752C>T	p.Q918*	COSM9990552	1	Substitution - Nonsense
+920	c.2757_2758insGATC	p.N920Dfs*22	COSM10895677	1	Insertion - Frameshift
+921	c.2761C>T	p.P921S	COSM10000079	1	Substitution - Missense
+921	c.2762C>A	p.P921H	COSM4106589	1	Substitution - Missense
+921	c.2762C>T	p.P921L	COSM9204559	3	Substitution - Missense
+922	c.2766C>T	p.V922=	COSM7159515	1	Substitution - coding silent
+923	c.2767C>A	p.L923I	COSM10728688	1	Substitution - Missense
+923	c.2767C>T	p.L923F	COSM10558819	1	Substitution - Missense
+923	c.2768T>A	p.L923H	COSM4186060	1	Substitution - Missense
+926	c.2776C>A	p.L926I	COSM10334828	1	Substitution - Missense
+928	c.2782C>G	p.P928A	COSM220424	1	Substitution - Missense
+929	c.2785C>T	p.Q929*	COSM2725659	2	Substitution - Nonsense
+929	c.2786_2792del	p.Q929Rfs*16	COSM7340777	1	Deletion - Frameshift
+929	c.2787G>A	p.Q929=	COSM3800400	1	Substitution - coding silent
+931	c.2791G>T	p.G931W	COSM7941641	1	Substitution - Missense
+932	c.2794_2795insGGGGGGTTGGG	p.T932Rfs*19	COSM10199246	1	Insertion - Frameshift
+936	c.2807C>T	p.S936F	COSM8196019	1	Substitution - Missense
+939	c.2817T>A	p.P939=	COSM8669259	1	Substitution - coding silent
+940	c.2820C>T	p.S940=	COSM4620569	1	Substitution - coding silent
+941	c.2821G>A	p.G941S	COSM4665548	2	Substitution - Missense
+941	c.2822G>T	p.G941V	COSM1580262	2	Substitution - Missense
+942	c.2824G>A	p.G942R	COSM9414630	1	Substitution - Missense
+942	c.2825G>A	p.G942E	COSM5749129	1	Substitution - Missense
+942	c.2825G>T	p.G942V	COSM8127634	1	Substitution - Missense
+943	c.2827del	p.D943Tfs*4	COSM5547088	1	Deletion - Frameshift
+945	c.2833C>G	p.R945G	COSM6209800	1	Substitution - Missense
+945	c.2833C>T	p.R945*	COSM1556010	7	Substitution - Nonsense
+945	c.2834G>A	p.R945Q	COSM4665550	5	Substitution - Missense
+948	c.?	p.Q948fs*3	COSM7335686	1	Frameshift
+950	c.2848C>G	p.P950A	COSM9967856	1	Substitution - Missense
+954	c.2860_2861insGG	p.E954Gfs*22	COSM7002094	1	Insertion - Frameshift
+955	c.2864G>T	p.S955I	COSM10728690	1	Substitution - Missense
+956	c.2867A>T	p.H956L	COSM10511539	1	Substitution - Missense
+959	c.2876C>T	p.S959F	COSM10801531	2	Substitution - Missense
+965	c.2894T>C	p.M965T	COSM10269352	1	Substitution - Missense
+966	c.2896G>A	p.E966K	COSM9695963	1	Substitution - Missense
+967	c.2899G>T	p.G967C	COSM7846401	1	Substitution - Missense
+968	c.2902C>T	p.P968S	COSM1682879	2	Substitution - Missense
+969	c.2907G>T	p.Q969H	COSM10555095	1	Substitution - Missense
+971	c.2911G>T	p.A971S	COSM3357379	1	Substitution - Missense
+971	c.2911del	p.A971Lfs*4	COSM10127102	1	Deletion - Frameshift
+971	c.2911dup	p.A971Gfs*13	COSM7003958	2	Insertion - Frameshift
+975	c.2923A>G	p.K975E	COSM4665552	1	Substitution - Missense
+978	c.2932G>A	p.G978R	COSM9883919	1	Substitution - Missense
+980	c.2940G>A	p.T980=	COSM6611067	1	Substitution - coding silent
+981	c.2942A>G	p.K981R	COSM10200007	1	Substitution - Missense
+982	c.2945C>T	p.P982L	COSM6018747	1	Substitution - Missense
+992	c.2974T>C	p.S992P	COSM10875247	1	Substitution - Missense
+992	c.2976C>T	p.S992=	COSM6611087	1	Substitution - coding silent
+993	c.2977C>A	p.H993N	COSM7921489	1	Substitution - Missense
+993	c.2977C>T	p.H993Y	COSM1465571	2	Substitution - Missense
+994	c.2982G>T	p.E994D	COSM370653	1	Substitution - Missense
+997	c.2989C>A	p.L997M	COSM7823261	1	Substitution - Missense
+998	c.2992G>A	p.A998T	COSM10200012	1	Substitution - Missense
+1000	c.2998C>G	p.P1000A	COSM5964104	2	Substitution - Missense
+1000	c.3000C>G	p.P1000=	COSM7442098	1	Substitution - coding silent
+1001	c.3001del	p.Q1001Rfs*49	COSM4665554	11	Deletion - Frameshift
+1001	c.3001dup	p.Q1001Pfs*5	COSM6191336	4	Insertion - Frameshift
+1001	c.3003G>A	p.Q1001=	COSM5606348	5	Substitution - coding silent
+1003	c.3007C>A	p.L1003M	COSM7810706	1	Substitution - Missense
+1004	c.3010C>G	p.P1004A	COSM7096581	1	Substitution - Missense
+1004	c.3010C>T	p.P1004S	COSM10127958	1	Substitution - Missense
+1005	c.3015G>C	p.K1005N	COSM9993120	1	Substitution - Missense
+1006	c.3017_3018insCCCCTTAT	p.M1006Ifs*47	COSM5880036	1	Insertion - Frameshift
+1007	c.3019C>T	p.P1007S	COSM6611081	1	Substitution - Missense
+1007	c.3020C>T	p.P1007L	COSM10200008	1	Substitution - Missense
+1012	c.3034C>A	p.L1012I	COSM10512207	1	Substitution - Missense
+1013	c.3038C>T	p.P1013L	COSM10031973	1	Substitution - Missense
+1014	c.3041A>G	p.H1014R	COSM6611053	1	Substitution - Missense
+1014	c.3041_3042del	p.H1014Rfs*43	COSM10287059	1	Deletion - Frameshift
+1017	c.3051C>A	p.H1017Q	COSM10899197	1	Substitution - Missense
+1018	c.3053C>T	p.P1018L	COSM456740	1	Substitution - Missense
+1020	c.3058G>A	p.E1020K	COSM5411982	1	Substitution - Missense
+1020	c.3058G>T	p.E1020*	COSM9102916	1	Substitution - Nonsense
+1025	c.3073G>A	p.V1025M	COSM6611041	1	Substitution - Missense
+1026	c.3076G>T	p.V1026F	COSM8257504	1	Substitution - Missense
+1027	c.3080C>G	p.P1027R	COSM8489235	1	Substitution - Missense
+1027	c.3081G>A	p.P1027=	COSM8605014	1	Substitution - coding silent
+1030	c.3089G>A	p.R1030K	COSM8501104	1	Substitution - Missense
+1034	c.3100A>T	p.S1034C	COSM10200009	1	Substitution - Missense
+1037	c.3109C>T	p.R1037C	COSM376462	1	Substitution - Missense
+1037	c.3110G>A	p.R1037H	COSM8616474	3	Substitution - Missense
+1038	c.3113C>T	p.P1038L	COSM9704025	1	Substitution - Missense
+1039	c.3116A>G	p.Q1039R	COSM9996332	1	Substitution - Missense
+1039	c.3117G>T	p.Q1039H	COSM6348053	1	Substitution - Missense
+1040	c.3118C>G	p.L1040V	COSM4909670	1	Substitution - Missense
+1046	c.3136C>A	p.L1046M	COSM6184878	1	Substitution - Missense
+1048	c.3142C>T	p.R1048*	COSM7335537	1	Substitution - Nonsense
+1048	c.3143G>A	p.R1048Q	COSM10200029	1	Substitution - Missense
+1049	c.3146T>C	p.V1049A	COSM10875248	1	Substitution - Missense
+1050	c.3148_3158delinsG	p.K1050Gfs*10	COSM10507812	1	Complex - frameshift
+1051	c.3152T>C	p.M1051T	COSM6611079	1	Substitution - Missense
+1051	c.3153G>T	p.M1051I	COSM1465572	1	Substitution - Missense
+1053	c.3158A>G	p.K1053R	COSM9973448	1	Substitution - Missense
+1060	c.3180C>T	p.F1060=	COSM3913347	1	Substitution - coding silent
+1066	c.3198C>T	p.F1066=	COSM3843539	1	Substitution - coding silent
+1067	c.3199C>T	p.R1067W	COSM279152	4	Substitution - Missense
+1067	c.3200G>A	p.R1067Q	COSM10166308	1	Substitution - Missense
+1070	c.3208G>C	p.G1070R	COSM9178292	1	Substitution - Missense
+1071	c.3211C>T	p.L1071F	COSM9916984	1	Substitution - Missense
+1074	c.3220G>T	p.A1074S	COSM7449571	1	Substitution - Missense
+1075	c.3224C>A	p.P1075H	COSM6610997	1	Substitution - Missense
+1075	c.3224C>T	p.P1075L	COSM9726813	1	Substitution - Missense
+1076	c.3226C>T	p.Q1076*	COSM388341	1	Substitution - Nonsense
+1076	c.3228G>T	p.Q1076H	COSM7335423	1	Substitution - Missense
+1083	c.3247C>T	p.R1083W	COSM3557754	1	Substitution - Missense
+1083	c.3249G>T	p.R1083=	COSM7780001	1	Substitution - coding silent
+1084	c.3250G>A	p.A1084T	COSM1660766	1	Substitution - Missense
+1084	c.3250G>C	p.A1084P	COSM10189790	1	Substitution - Missense
+1085	c.3252del	p.K1085Rfs*7	COSM1665370	2	Deletion - Frameshift
+1086	c.3258C>T	p.A1086=	COSM8997423	1	Substitution - coding silent
+1087	c.3259G>A	p.G1087R	COSM6611005	1	Substitution - Missense
+1087	c.3261G>A	p.G1087=	COSM8838007	1	Substitution - coding silent
+1088	c.3262C>T	p.Q1088*	COSM6853335	1	Substitution - Nonsense
+1090	c.3268C>T	p.R1090*	COSM289001	5	Substitution - Nonsense
+1090	c.3269G>A	p.R1090Q	COSM3424457	2	Substitution - Missense
+1090	c.?	p.R1090*	COSM7335687	1	Substitution - Nonsense
+1091	c.3272T>C	p.V1091A	COSM6611035	1	Substitution - Missense
+1094	c.3280G>A	p.E1094K	COSM6610995	1	Substitution - Missense
+1094	c.3280G>T	p.E1094*	COSM9866837	1	Substitution - Nonsense
+1096	c.3286G>A	p.V1096I	COSM1114964	3	Substitution - Missense
+1096	c.3286G>T	p.V1096L	COSM6117061	1	Substitution - Missense
+1097	c.3289G>A	p.G1097R	COSM8971083	1	Substitution - Missense
+1098	c.3292G>A	p.V1098I	COSM10404342	1	Substitution - Missense
+1102	c.3304A>T	p.K1102*	COSM5880038	1	Substitution - Nonsense
+1102	c.3306G>T	p.K1102N	COSM3800402	1	Substitution - Missense
+1111	c.3332C>T	p.T1111M	COSM1165292	3	Substitution - Missense
+1111	c.3333G>A	p.T1111=	COSM6611001	1	Substitution - coding silent
+1111	c.?	p.T1111M	COSM7335688	3	Substitution - Missense
+1112	c.3334G>T	p.E1112*	COSM6191340	2	Substitution - Nonsense
+1115	c.3343C>T	p.P1115S	COSM7631329	2	Substitution - Missense
+1115	c.3344C>T	p.P1115L	COSM10128363	1	Substitution - Missense
+1115	c.3345G>A	p.P1115=	COSM2725667	1	Substitution - coding silent
+1115	c.3345G>C	p.P1115=	COSM7830401	1	Substitution - coding silent
+1116	c.3346C>T	p.P1116S	COSM2725668	3	Substitution - Missense
+1117	c.3351G>C	p.K1117N	COSM7161641	1	Substitution - Missense
+1120	c.3360G>T	p.K1120N	COSM7184568	1	Substitution - Missense
+1122	c.3365G>A	p.G1122D	COSM6611020	1	Substitution - Missense
+1126	c.3376G>T	p.D1126Y	COSM6266698	1	Substitution - Missense
+1129	c.3387G>T	p.E1129D	COSM9999434	1	Substitution - Missense
+1130	c.3388C>T	p.Q1130*	COSM7339995	1	Substitution - Nonsense
+1131	c.3391C>T	p.Q1131*	COSM1465573	2	Substitution - Nonsense
+1132	c.3394C>A	p.L1132I	COSM1114965	1	Substitution - Missense
+1132	c.3395T>C	p.L1132P	COSM4596341	12	Substitution - Missense
+1132	c.3396C>G	p.L1132=	COSM5019993	2	Substitution - coding silent
+1133	c.3398A>G	p.Q1133R	COSM1114966	1	Substitution - Missense
+1135	c.3403C>T	p.Q1135*	COSM10200038	1	Substitution - Nonsense
+1137	c.3409A>T	p.K1137*	COSM9217726	5	Substitution - Nonsense
+1137	c.3411G>T	p.K1137N	COSM10728692	1	Substitution - Missense
+1137	c.?	p.K1137*	COSM7335689	1	Substitution - Nonsense
+1138	c.3413C>T	p.A1138V	COSM9991853	1	Substitution - Missense
+1139	c.3417G>A	p.V1139=	COSM487937	1	Substitution - coding silent
+1141	c.3421C>T	p.R1141W	COSM9990652	1	Substitution - Missense
+1141	c.3422G>A	p.R1141Q	COSM7540493	2	Substitution - Missense
+1143	c.3427T>A	p.S1143T	COSM10890749	1	Substitution - Missense
+1143	c.3428C>T	p.S1143F	COSM5909947	2	Substitution - Missense
+1143	c.3429C>A	p.S1143=	COSM5472821	1	Substitution - coding silent
+1143	c.3429C>T	p.S1143=	COSM3843541	1	Substitution - coding silent
+1144	c.3430C>T	p.H1144Y	COSM6853333	3	Substitution - Missense
+1146	c.3436C>A	p.P1146T	COSM9594402	1	Substitution - Missense
+1148	c.3443G>A	p.C1148Y	COSM5064362	1	Substitution - Missense
+1148	c.3443G>T	p.C1148F	COSM5805583	1	Substitution - Missense
+1149	c.3445C>T	p.R1149W	COSM611003	2	Substitution - Missense
+1149	c.3446G>T	p.R1149L	COSM8319420	1	Substitution - Missense
+1150	c.3449A>C	p.K1150T	COSM6611065	1	Substitution - Missense
+1150	c.3449A>G	p.K1150R	COSM3720543	1	Substitution - Missense
+1152	c.3455C>G	p.P1152R	COSM6048128	1	Substitution - Missense
+1153	c.3459T>C	p.S1153=	COSM5065934	1	Substitution - coding silent
+1157	c.3469G>A	p.E1157K	COSM1114967	2	Substitution - Missense
+1158	c.3472T>G	p.S1158A	COSM6191342	2	Substitution - Missense
+1158	c.3473C>A	p.S1158Y	COSM6008736	1	Substitution - Missense
+1159	c.3476C>A	p.T1159N	COSM131435	1	Substitution - Missense
+1160	c.3476_3477insT	p.K1160Qfs*56	COSM10128110	1	Insertion - Frameshift
+1161	c.3481A>T	p.K1161*	COSM6907685	2	Substitution - Nonsense
+1163	c.3487C>T	p.P1163S	COSM378574	1	Substitution - Missense
+1164	c.3490A>G	p.R1164G	COSM8953835	1	Substitution - Missense
+1164	c.3492G>C	p.R1164S	COSM6611055	1	Substitution - Missense
+1165	c.3493G>A	p.G1165R	COSM9959290	1	Substitution - Missense
+1165	c.3493G>T	p.G1165W	COSM5486772	1	Substitution - Missense
+1165	c.3494G>A	p.G1165E	COSM7357431	1	Substitution - Missense
+1165	c.3494G>T	p.G1165V	COSM4589178	1	Substitution - Missense
+1166	c.3496del	p.A1166Lfs*56	COSM1465574	5	Deletion - Frameshift
+1166	c.3496dup	p.A1166Gfs*50	COSM5158773	2	Insertion - Frameshift
+1169	c.3505del	p.S1169Qfs*53	COSM7340600	1	Deletion - Frameshift
+1169	c.3506C>T	p.S1169L	COSM5527323	1	Substitution - Missense
+1170	c.3509G>A	p.G1170E	COSM10177925	1	Substitution - Missense
+1170	c.3509G>C	p.G1170A	COSM9097718	1	Substitution - Missense
+1172	c.3513dup	p.E1172Rfs*44	COSM5368013	2	Insertion - Frameshift
+1177	c.3530G>A	p.R1177K	COSM10175209	1	Substitution - Missense
+1178	c.3532G>T	p.G1178*	COSM6853323	1	Substitution - Nonsense
+1183	c.3547C>T	p.R1183W	COSM7412492	2	Substitution - Missense
+1183	c.3548G>A	p.R1183Q	COSM10181773	1	Substitution - Missense
+1183	c.3549G>A	p.R1183=	COSM10182752	1	Substitution - coding silent
+1184	c.3551A>T	p.K1184M	COSM755389	1	Substitution - Missense
+1185	c.3555G>A	p.P1185=	COSM1556008	1	Substitution - coding silent
+1187	c.3561G>T	p.K1187N	COSM6295296	1	Substitution - Missense
+1188	c.3562C>A	p.P1188T	COSM6184876	1	Substitution - Missense
+1188	c.3563C>T	p.P1188L	COSM4820740	1	Substitution - Missense
+1188	c.3564G>A	p.P1188=	COSM9272425	1	Substitution - coding silent
+1189	c.3566A>G	p.E1189G	COSM4423115	1	Substitution - Missense
+1190	c.3564_3567dup	p.S1190Gfs*27	COSM6853622	1	Insertion - Frameshift
+1191	c.3571C>A	p.Q1191K	COSM1132409	2	Substitution - Missense
+1192	c.3575C>T	p.S1192F	COSM3363808	1	Substitution - Missense
+1196	c.3586C>T	p.R1196*	COSM5880040	4	Substitution - Nonsense
+1196	c.3587G>A	p.R1196Q	COSM9999565	1	Substitution - Missense
+1196	c.?	p.R1196*	COSM7335545	2	Substitution - Nonsense
+1198	c.3592G>A	p.D1198N	COSM9936334	1	Substitution - Missense
+1199	c.3596G>T	p.S1199I	COSM6247322	1	Substitution - Missense
+1199	c.3597C>A	p.S1199R	COSM6406461	2	Substitution - Missense
+1201	c.3601G>A	p.E1201K	COSM9874315	1	Substitution - Missense
+1201	c.3602A>C	p.E1201A	COSM6022392	1	Substitution - Missense
+1201	c.3603G>A	p.E1201=	COSM2151435	3	Substitution - coding silent
+1202	c.3604G>A	p.E1202K	COSM6853327	1	Substitution - Missense
+1204	c.3611C>T	p.S1204F	COSM10360812	1	Substitution - Missense
+1205	c.3614T>C	p.L1205S	COSM7924477	1	Substitution - Missense
+1207	c.3621G>A	p.K1207=	COSM1114969	2	Substitution - coding silent
+1207	c.3621G>T	p.K1207N	COSM1114968	3	Substitution - Missense
+1208	c.3622A>T	p.K1208*	COSM6439943	1	Substitution - Nonsense
+1211	c.3632G>A	p.S1211N	COSM1682880	1	Substitution - Missense
+1213	c.3639C>T	p.F1213=	COSM3557757	2	Substitution - coding silent
+1214	c.3640C>T	p.R1214C	COSM6611063	1	Substitution - Missense
+1214	c.3641G>A	p.R1214H	COSM6611051	1	Substitution - Missense
+1218	c.3652C>T	p.P1218S	COSM1114970	2	Substitution - Missense
+1218	c.3653C>T	p.P1218L	COSM8331221	2	Substitution - Missense
+1221	c.3661C>G	p.L1221V	COSM8369497	1	Substitution - Missense
+1224	c.3671G>A	p.R1224H	COSM69811	2	Substitution - Missense
+1225	c.3674C>T	p.T1225M	COSM10154960	1	Substitution - Missense
+1226	c.3676C>G	p.R1226G	COSM8212637	1	Substitution - Missense
+1226	c.3677G>A	p.R1226H	COSM10002597	1	Substitution - Missense
+1228	c.3682C>T	p.Q1228*	COSM7339993	1	Substitution - Nonsense
+1229	c.3686C>T	p.S1229F	COSM9897152	1	Substitution - Missense
+1233	c.3699T>C	p.C1233=	COSM3843543	1	Substitution - coding silent
+1234	c.3701G>T	p.S1234I	COSM10728694	1	Substitution - Missense
+1234	c.3702C>A	p.S1234R	COSM7229636	1	Substitution - Missense
+1235	c.3704C>A	p.S1235Y	COSM6022173	1	Substitution - Missense
+1241	c.3721G>T	p.D1241Y	COSM10601813	1	Substitution - Missense
+1243	c.3729C>A	p.D1243E	COSM5962693	2	Substitution - Missense
+1245	c.3733G>A	p.G1245R	COSM10183150	1	Substitution - Missense
+1246	c.3736A>G	p.S1246G	COSM7340906	1	Substitution - Missense
+1247	c.3739C>A	p.Q1247K	COSM10139484	1	Substitution - Missense
+1248	c.3744_3745delinsTA	p.E1248_V1249delinsDI	COSM4456161	1	Substitution - Missense
+1250	c.3748T>C	p.F1250L	COSM7339352	1	Substitution - Missense
+1250	c.3749T>C	p.F1250S	COSM4106591	1	Substitution - Missense
+1251	c.3751C>T	p.P1251S	COSM10200010	1	Substitution - Missense
+1251	c.3752C>A	p.P1251H	COSM9514157	1	Substitution - Missense
+1253	c.3757G>T	p.E1253*	COSM6444634	1	Substitution - Nonsense
+1254	c.3761A>G	p.E1254G	COSM6184874	1	Substitution - Missense
+1255	c.3763G>T	p.E1255*	COSM10128461	1	Substitution - Nonsense
+1257	c.3765_3767del	p.E1257del	COSM4972053	2	Deletion - In frame
+1257	c.?	p.E1257del	COSM7335690	1	Deletion - In frame
+1259	c.3776C>T	p.T1259I	COSM9890587	1	Substitution - Missense
+1261	c.3780del	p.T1261Pfs*8	COSM5064364	1	Deletion - Frameshift
+1261	c.3781del	p.T1261Pfs*8	COSM5731861	1	Deletion - Frameshift
+1262	c.3784C>A	p.P1262T	COSM7726852	1	Substitution - Missense
+1265	c.3793C>T	p.R1265C	COSM2725674	2	Substitution - Missense
+1265	c.3794G>A	p.R1265H	COSM5762842	3	Substitution - Missense
+1266	c.3796C>T	p.R1266*	COSM6853325	6	Substitution - Nonsense
+1266	c.3797G>A	p.R1266Q	COSM7545893	2	Substitution - Missense
+1271	c.3813C>T	p.T1271=	COSM3557759	1	Substitution - coding silent
+1272	c.3815A>G	p.Q1272R	COSM4106593	1	Substitution - Missense
+1273	c.3818G>A	p.R1273Q	COSM6611031	1	Substitution - Missense
+1273	c.3819G>A	p.R1273=	COSM9658475	1	Substitution - coding silent
+1278	c.3832C>T	p.R1278C	COSM3557761	2	Substitution - Missense
+1278	c.3833G>A	p.R1278H	COSM4665557	1	Substitution - Missense
+1279	c.3836G>T	p.S1279I	COSM1114971	1	Substitution - Missense
+1280	c.3838C>A	p.H1280N	COSM6374511	2	Substitution - Missense
+1281	c.3841C>T	p.H1281Y	COSM5914455	1	Substitution - Missense
+1281	c.3843_3848del	p.H1281_A1282del	COSM391440	1	Deletion - In frame
+1283	c.3847C>T	p.Q1283*	COSM10200013	1	Substitution - Nonsense
+1287	c.3861G>T	p.L1287=	COSM4882241	1	Substitution - coding silent
+1292	c.3874C>T	p.R1292*	COSM228772	3	Substitution - Nonsense
+1292	c.3875G>A	p.R1292Q	COSM2725676	2	Substitution - Missense
+1292	c.3875G>C	p.R1292P	COSM9514722	1	Substitution - Missense
+1293	c.3878G>A	p.R1293K	COSM9991779	1	Substitution - Missense
+1294	c.3880C>T	p.H1294Y	COSM4911470	1	Substitution - Missense
+1297	c.3889C>T	p.R1297*	COSM5880044	2	Substitution - Nonsense
+1299	c.3895C>A	p.R1299=	COSM9514159	1	Substitution - coding silent
+1299	c.3896G>A	p.R1299Q	COSM355708	1	Substitution - Missense
+1301	c.3902T>C	p.M1301T	COSM4106595	1	Substitution - Missense
+1301	c.3903G>T	p.M1301I	COSM6907520	1	Substitution - Missense
+1304	c.3912G>T	p.R1304S	COSM9701801	1	Substitution - Missense
+1309	c.3925C>A	p.R1309=	COSM10308609	1	Substitution - coding silent
+1316	c.3946G>A	p.E1316K	COSM6611003	2	Substitution - Missense
+1316	c.3948G>T	p.E1316D	COSM7250965	1	Substitution - Missense
+1319	c.3955G>A	p.E1319K	COSM4665559	2	Substitution - Missense
+1319	c.3957G>A	p.E1319=	COSM6611085	1	Substitution - coding silent
+1320	c.3960A>G	p.E1320=	COSM4631427	2	Substitution - coding silent
+1322	c.3964G>T	p.E1322*	COSM7412615	1	Substitution - Nonsense
+1324	c.3957_3959del	p.E1324del	COSM9273838	1	Deletion - In frame
+1325	c.3974G>A	p.G1325D	COSM7737353	1	Substitution - Missense
+1332	c.3994C>A	p.R1332=	COSM8773847	1	Substitution - coding silent
+1332	c.3994C>T	p.R1332*	COSM4665561	4	Substitution - Nonsense
+1332	c.3995G>A	p.R1332Q	COSM5907088	6	Substitution - Missense
+1334	c.4000C>T	p.R1334W	COSM7540505	2	Substitution - Missense
+1335	c.4003C>T	p.Q1335*	COSM9865852	1	Substitution - Nonsense
+1336	c.4008G>C	p.K1336N	COSM4825518	1	Substitution - Missense
+1337	c.4010G>T	p.S1337I	COSM8461155	1	Substitution - Missense
+1337	c.4011C>T	p.S1337=	COSM9167145	1	Substitution - coding silent
+1338	c.4012C>A	p.R1338=	COSM7501137	2	Substitution - coding silent
+1338	c.4012C>T	p.R1338*	COSM10127957	1	Substitution - Nonsense
+1342	c.4024A>T	p.T1342S	COSM7340903	1	Substitution - Missense
+1344	c.4026_4029dup	p.E1344Wfs*23	COSM10202571	1	Insertion - Frameshift
+1344	c.4030G>A	p.E1344K	COSM7707413	1	Substitution - Missense
+1344	c.4031A>G	p.E1344G	COSM9812245	1	Substitution - Missense
+1346	c.4037T>C	p.L1346P	COSM7340904	1	Substitution - Missense
+1346	c.4038G>A	p.L1346=	COSM755388	1	Substitution - coding silent
+1349	c.4045C>T	p.Q1349*	COSM7335288	1	Substitution - Nonsense
+1349	c.4047A>C	p.Q1349H	COSM9511727	1	Substitution - Missense
+1351	c.4053C>T	p.D1351=	COSM6611077	2	Substitution - coding silent
+1357	c.4070G>A	p.G1357E	COSM9514702	1	Substitution - Missense
+1357	c.4071G>A	p.G1357=	COSM8011400	1	Substitution - coding silent
+1359	c.4075G>A	p.A1359T	COSM8186267	1	Substitution - Missense
+1361	c.4082T>G	p.L1361*	COSM10045249	1	Substitution - Nonsense
+1364	c.4091G>A	p.R1364H	COSM3390414	4	Substitution - Missense
+1366	c.4096C>A	p.Q1366K	COSM9963116	1	Substitution - Missense
+1367	c.4101G>C	p.K1367N	COSM9995913	1	Substitution - Missense
+1368	c.4102A>C	p.T1368P	COSM9994404	1	Substitution - Missense
+1370	c.4108T>C	p.S1370P	COSM5985497	1	Substitution - Missense
+1370	c.4109C>T	p.S1370F	COSM3405958	2	Substitution - Missense
+1370	c.4110C>T	p.S1370=	COSM6611099	1	Substitution - coding silent
+1371	c.4112C>A	p.S1371Y	COSM4883477	1	Substitution - Missense
+1371	c.4112C>T	p.S1371F	COSM9752087	1	Substitution - Missense
+1371	c.4113C>T	p.S1371=	COSM8029961	1	Substitution - coding silent
+1372	c.4114C>T	p.Q1372*	COSM7339991	1	Substitution - Nonsense
+1372	c.4115A>G	p.Q1372R	COSM4957004	1	Substitution - Missense
+1377	c.4129C>T	p.R1377C	COSM6611075	2	Substitution - Missense
+1378	c.4132C>A	p.L1378I	COSM115760	1	Substitution - Missense
+1379	c.4135A>G	p.R1379G	COSM7340901	1	Substitution - Missense
+1382	c.4146C>A	p.N1382K	COSM2725681	1	Substitution - Missense
+1384	c.4152C>T	p.L1384=	COSM8658080	1	Substitution - coding silent
+1387	c.4159A>G	p.N1387D	COSM1114972	1	Substitution - Missense
+1389	c.4167C>T	p.V1389=	COSM2725682	1	Substitution - coding silent
+1391	c.4173G>A	p.G1391=	COSM6880336	1	Substitution - coding silent
+1391	c.?	p.G1391R	COSM7335691	1	Substitution - Missense
+1394	c.4182T>C	p.D1394=	COSM4106597	1	Substitution - coding silent
+1397	c.4191C>T	p.N1397=	COSM7562882	1	Substitution - coding silent
+1406	c.4216G>T	p.E1406*	COSM9999402	1	Substitution - Nonsense
+1411	c.4232A>T	p.E1411V	COSM4942607	1	Substitution - Missense
+1417	c.4250C>G	p.S1417*	COSM10434655	1	Substitution - Nonsense
+1419	c.4257A>C	p.K1419N	COSM7340337	1	Substitution - Missense
+1420	c.4256_4257dup	p.R1420Nfs*31	COSM5880046	2	Insertion - Frameshift
+1420	c.4258C>T	p.R1420*	COSM5880048	5	Substitution - Nonsense
+1422	c.4265G>T	p.C1422F	COSM1114973	1	Substitution - Missense
+1423	c.4268A>G	p.K1423R	COSM6539899	1	Substitution - Missense
+1424	c.4269_4270insTAG	p.K1423_T1424ins*	COSM10200048	1	Insertion - In frame
+1424	c.4271C>A	p.T1424N	COSM10798254	1	Substitution - Missense
+1429	c.4287C>T	p.T1429=	COSM7675262	1	Substitution - coding silent
+1430	c.4288G>A	p.V1430I	COSM1114974	3	Substitution - Missense
+1431	c.4291T>C	p.S1431P	COSM9177987	1	Substitution - Missense
+1432	c.4294G>T	p.E1432*	COSM7412715	1	Substitution - Nonsense
+1434	c.4300G>A	p.A1434T	COSM1184624	1	Substitution - Missense
+1443	c.4329G>C	p.Q1443H	COSM6840391	1	Substitution - Missense
+1446	c.4338T>C	p.S1446=	COSM6473570	1	Substitution - coding silent
+1448	c.4344T>A	p.D1448E	COSM10774142	1	Substitution - Missense
+1451	c.4351C>G	p.H1451D	COSM9994090	1	Substitution - Missense
+1452	c.4354C>A	p.R1452S	COSM7913900	1	Substitution - Missense
+1453	c.4357G>C	p.D1453H	COSM10774144	1	Substitution - Missense
+1456	c.4366G>A	p.G1456S	COSM5877068	1	Substitution - Missense
+1459	c.4375G>A	p.A1459T	COSM8945855	1	Substitution - Missense
+1460	c.4380G>A	p.L1460=	COSM7202248	1	Substitution - coding silent
+1461	c.4381C>T	p.H1461Y	COSM6611095	1	Substitution - Missense
+1465	c.4394C>T	p.S1465F	COSM8287378	1	Substitution - Missense
+1465	c.4395C>T	p.S1465=	COSM8287376	1	Substitution - coding silent
+1466	c.4396C>A	p.R1466=	COSM7848168	1	Substitution - coding silent
+1466	c.4396C>T	p.R1466W	COSM1114975	2	Substitution - Missense
+1468	c.4403G>T	p.W1468L	COSM390701	2	Substitution - Missense
+1468	c.4404G>A	p.W1468*	COSM10046118	1	Substitution - Nonsense
+1469	c.4406C>A	p.T1469N	COSM8960905	1	Substitution - Missense
+1469	c.4406C>T	p.T1469I	COSM8899719	1	Substitution - Missense
+1470	c.4410C>T	p.D1470=	COSM4154833	1	Substitution - coding silent
+1472	c.4414C>G	p.L1472V	COSM5945640	1	Substitution - Missense
+1475	c.4423C>A	p.L1475M	COSM5945641	1	Substitution - Missense
+1477	c.4429G>T	p.E1477*	COSM6853329	1	Substitution - Nonsense
+1478	c.4434C>T	p.H1478=	COSM8950762	1	Substitution - coding silent
+1479	c.4435G>T	p.G1479W	COSM487938	1	Substitution - Missense
+1481	c.4443C>T	p.N1481=	COSM4824981	1	Substitution - coding silent
+1486	c.4457C>T	p.A1486V	COSM1184623	4	Substitution - Missense
+1486	c.4458G>T	p.A1486=	COSM5682626	1	Substitution - coding silent
+1487	c.4461_4468del	p.Q1487Hfs*6	COSM6853537	1	Deletion - Frameshift
+1488	c.4464C>T	p.D1488=	COSM611002	5	Substitution - coding silent
+1489	c.4465G>T	p.G1489C	COSM7803591	1	Substitution - Missense
+1490	c.4470G>A	p.T1490=	COSM456741	2	Substitution - coding silent
+1492	c.4474C>A	p.P1492T	COSM10001618	1	Substitution - Missense
+1495	c.4483G>A	p.D1495N	COSM9213112	1	Substitution - Missense
+1496	c.4487C>T	p.A1496V	COSM6611089	2	Substitution - Missense
+1499	c.4496A>G	p.N1499S	COSM1497168	1	Substitution - Missense
+1502	c.4506G>T	p.L1502=	COSM7954339	1	Substitution - coding silent
+1509	c.4525C>A	p.L1509M	COSM9990302	2	Substitution - Missense
+1510	c.4529C>T	p.S1510F	COSM9746998	1	Substitution - Missense
+1512	c.4535G>A	p.G1512E	COSM4960836	1	Substitution - Missense
+1512	c.4536G>T	p.G1512=	COSM6560117	1	Substitution - coding silent
+1514	c.4540G>A	p.D1514N	COSM10378111	1	Substitution - Missense
+1514	c.4540G>T	p.D1514Y	COSM6184872	1	Substitution - Missense
+1514	c.4542T>C	p.D1514=	COSM9514648	1	Substitution - coding silent
+1515	c.4545C>T	p.P1515=	COSM3557764	1	Substitution - coding silent
+1520	c.?	p.Y1520*	COSM7335692	1	Substitution - Nonsense
+1523	c.4567C>T	p.Q1523*	COSM10768796	1	Substitution - Nonsense
+1524	c.4569del	p.T1524Qfs*3	COSM9999369	1	Deletion - Frameshift
+1524	c.4571C>G	p.T1524R	COSM10882406	1	Substitution - Missense
+1525	c.4573G>T	p.A1525S	COSM1114976	1	Substitution - Missense
+1526	c.4578G>A	p.M1526I	COSM4847966	1	Substitution - Missense
+1529	c.4586C>T	p.A1529V	COSM10201018	1	Substitution - Missense
+1530	c.4589G>T	p.S1530I	COSM2725692	1	Substitution - Missense
+1532	c.4594G>A	p.D1532N	COSM6611059	2	Substitution - Missense
+1535	c.4605G>A	p.K1535=	COSM7424356	1	Substitution - coding silent
+1536	c.4606C>A	p.R1536S	COSM7340908	1	Substitution - Missense
+1536	c.4606C>T	p.R1536C	COSM1114977	2	Substitution - Missense
+1536	c.4607G>A	p.R1536H	COSM2725694	1	Substitution - Missense
+1538	c.4612C>A	p.L1538I	COSM10894263	1	Substitution - Missense
+1538	c.4612C>T	p.L1538F	COSM3557766	1	Substitution - Missense
+1538	c.4614C>A	p.L1538=	COSM7850232	1	Substitution - coding silent
+1539	c.4617T>C	p.S1539=	COSM1246059	1	Substitution - coding silent
+1541	c.4621C>T	p.H1541Y	COSM9492923	1	Substitution - Missense
+1542	c.?	p.L1542F	COSM7335693	1	Substitution - Missense
+1543	c.4628C>T	p.S1543L	COSM6611061	1	Substitution - Missense
+1546	c.4636C>G	p.Q1546E	COSM8687187	1	Substitution - Missense
+1546	c.4636C>T	p.Q1546*	COSM1682881	2	Substitution - Nonsense
+1548	c.4643G>C	p.R1548P	COSM6117058	1	Substitution - Missense
+1549	c.4645del	p.A1549Qfs*81	COSM5366725	1	Deletion - Frameshift
+1551	c.4652del	p.G1551Vfs*79	COSM6023045	1	Deletion - Frameshift
+1553	c.4657C>T	p.P1553S	COSM4665564	2	Substitution - Missense
+1553	c.4659C>T	p.P1553=	COSM8530805	1	Substitution - coding silent
+1557	c.4670G>T	p.W1557L	COSM5742413	1	Substitution - Missense
+1560	c.4678T>G	p.Y1560D	COSM6907730	2	Substitution - Missense
+1560	c.4678dup	p.Y1560Lfs*15	COSM5045659	2	Insertion - Frameshift
+1561	c.4683C>A	p.S1561R	COSM7534614	1	Substitution - Missense
+1562	c.4685G>T	p.S1562I	COSM8377104	1	Substitution - Missense
+1563	c.4688C>T	p.S1563F	COSM1114978	2	Substitution - Missense
+1564	c.4692G>T	p.V1564=	COSM7505689	2	Substitution - coding silent
+1566	c.4696G>T	p.E1566*	COSM3780339	1	Substitution - Nonsense
+1567	c.4699G>A	p.E1567K	COSM5877070	2	Substitution - Missense
+1567	c.4700A>G	p.E1567G	COSM8400594	1	Substitution - Missense
+1568	c.4703_4704del	p.K1568Rfs*6	COSM5749225	1	Deletion - Frameshift
+1569	c.4706A>T	p.D1569V	COSM390962	1	Substitution - Missense
+1569	c.4707C>T	p.D1569=	COSM2725700	1	Substitution - coding silent
+1570	c.4708G>T	p.G1570W	COSM9959292	1	Substitution - Missense
+1570	c.4710G>T	p.G1570=	COSM10325483	1	Substitution - coding silent
+1571	c.4711T>G	p.F1571V	COSM4106599	1	Substitution - Missense
+1572	c.4715C>T	p.A1572V	COSM10803602	1	Substitution - Missense
+1572	c.4716C>T	p.A1572=	COSM3939783	2	Substitution - coding silent
+1573	c.4717dup	p.C1573Lfs*2	COSM21787	2	Insertion - Frameshift
+1575	c.4725C>A	p.L1575=	COSM7727265	1	Substitution - coding silent
+1577	c.4731T>C	p.H1577=	COSM8408246	1	Substitution - coding silent
+1578	c.4733A>C	p.N1578T	COSM9073163	1	Substitution - Missense
+1584	c.4750G>A	p.D1584N	COSM1682882	2	Substitution - Missense
+1585	c.4755A>G	p.Q1585=	COSM8549994	1	Substitution - coding silent
+1585	c.4755A>T	p.Q1585H	COSM6184870	1	Substitution - Missense
+1588	c.4764C>T	p.D1588=	COSM1114979	1	Substitution - coding silent
+1589	c.4765G>A	p.D1589N	COSM7497121	2	Substitution - Missense
+1590	c.4769C>T	p.P1590L	COSM6303435	1	Substitution - Missense
+1590	c.4770G>A	p.P1590=	COSM3786443	3	Substitution - coding silent
+1591	c.4772T>C	p.M1591T	COSM4106601	1	Substitution - Missense
+1593	c.4779G>A	p.E1593=	COSM9578643	1	Substitution - coding silent
+1594	c.4782T>A	p.D1594E	COSM9512426	1	Substitution - Missense
+1597	c.4790T>C	p.M1597T	COSM217465	1	Substitution - Missense
+1599	c.4795G>A	p.E1599K	COSM10027769	1	Substitution - Missense
+1599	c.4797del	p.E1599Dfs*31	COSM9363042	1	Deletion - Frameshift
+1600	c.4800C>A	p.L1600=	COSM8160576	1	Substitution - coding silent
+1601	c.4801dup	p.S1601Ffs*47	COSM7412714	1	Insertion - Frameshift
+1601	c.4802C>G	p.S1601*	COSM7412607	1	Substitution - Nonsense
+1603	c.4808A>G	p.K1603R	COSM6444635	2	Substitution - Missense
+1605	c.4814T>G	p.L1605R	COSM4106603	1	Substitution - Missense
+1614	c.4840T>A	p.S1614T	COSM6611083	1	Substitution - Missense
+1615	c.4843G>A	p.V1615M	COSM10177684	1	Substitution - Missense
+1615	c.4845G>A	p.V1615=	COSM10500153	1	Substitution - coding silent
+1617	c.4849C>T	p.R1617C	COSM1643945	1	Substitution - Missense
+1617	c.4850G>A	p.R1617H	COSM8431414	1	Substitution - Missense
+1617	c.4851C>T	p.R1617=	COSM8839274	1	Substitution - coding silent
+1618	c.4854G>C	p.G1618=	COSM1659115	1	Substitution - coding silent
+1620	c.4860C>A	p.C1620*	COSM7432037	2	Substitution - Nonsense
+1621	c.4862A>T	p.N1621I	COSM6421000	2	Substitution - Missense
+1622	c.4865G>A	p.W1622*	COSM5749954	1	Substitution - Nonsense
+1624	c.4870C>A	p.L1624I	COSM3732689	1	Substitution - Missense
+1624	c.4872C>G	p.L1624=	COSM3713858	2	Substitution - coding silent
+1626	c.4878C>T	p.S1626=	COSM6611047	1	Substitution - coding silent
+1627	c.4879G>A	p.D1627N	COSM378848	4	Substitution - Missense
+1627	c.4880A>G	p.D1627G	COSM1643946	1	Substitution - Missense
+1627	c.4881T>A	p.D1627E	COSM9971180	1	Substitution - Missense
+1629	c.4887G>C	p.L1629F	COSM9531170	1	Substitution - Missense
+1631	c.4893G>A	p.R1631=	COSM1465579	1	Substitution - coding silent
+1632	c.4895T>G	p.L1632R	COSM8247953	1	Substitution - Missense
+1635	c.4904C>T	p.S1635F	COSM8817261	1	Substitution - Missense
+1635	c.4905C>T	p.S1635=	COSM4497128	1	Substitution - coding silent
+1636	c.4896_4906dup	p.S1636*	COSM6853620	1	Insertion - Frameshift
+1636	c.4907C>T	p.S1636L	COSM5934163	2	Substitution - Missense
+1637	c.4909del	p.R1637Gfs*30	COSM5731857	1	Deletion - Frameshift
+1637	c.4911G>A	p.R1637=	COSM3557768	1	Substitution - coding silent
+1638	c.4912A>C	p.I1638L	COSM6907570	1	Substitution - Missense
+1638	c.4913T>C	p.I1638T	COSM3557770	1	Substitution - Missense
+1639	c.4917T>C	p.F1639=	COSM9372003	1	Substitution - coding silent
+1640	c.4918C>G	p.Q1640E	COSM8712643	1	Substitution - Missense
+1640	c.4918C>T	p.Q1640*	COSM10758255	1	Substitution - Nonsense
+1640	c.4920G>T	p.Q1640H	COSM388388	1	Substitution - Missense
+1642	c.4924C>T	p.R1642W	COSM7810773	1	Substitution - Missense
+1642	c.4924del	p.R1642Gfs*25	COSM10202356	1	Deletion - Frameshift
+1642	c.4925G>A	p.R1642Q	COSM9128661	2	Substitution - Missense
+1643	c.4929C>T	p.F1643=	COSM5623041	1	Substitution - coding silent
+1644	c.4931C>T	p.P1644L	COSM6611014	1	Substitution - Missense
+1644	c.4932G>A	p.P1644=	COSM4106606	1	Substitution - coding silent
+1645	c.4934del	p.H1645Pfs*22	COSM9854035	1	Deletion - Frameshift
+1646	c.4938T>A	p.F1646L	COSM10632659	1	Substitution - Missense
+1647	c.4939G>T	p.E1647*	COSM10783603	1	Substitution - Nonsense
+1649	c.4947C>A	p.T1649=	COSM6611073	1	Substitution - coding silent
+1649	c.4947C>T	p.T1649=	COSM1497167	1	Substitution - coding silent
+1651	c.4952T>A	p.M1651K	COSM9976159	1	Substitution - Missense
+1655	c.4962_4963dup	p.E1655Afs*13	COSM6022395	1	Insertion - Frameshift
+1655	c.4963G>T	p.E1655*	COSM10128238	1	Substitution - Nonsense
+1655	c.4963_4969delinsTCCCCC	p.E1655Sfs*12	COSM6022394	1	Complex - frameshift
+1655	c.4965G>T	p.E1655D	COSM755387	1	Substitution - Missense
+1657	c.4971C>G	p.Y1657*	COSM10128602	1	Substitution - Nonsense
+1658	c.4973G>A	p.R1658K	COSM1114980	1	Substitution - Missense
+1658	c.4973G>T	p.R1658M	COSM4106608	1	Substitution - Missense
+1659	c.4971_4975dup	p.Q1659Pfs*10	COSM5880050	1	Insertion - Frameshift
+1660	c.4978G>A	p.V1660M	COSM10177890	1	Substitution - Missense
+1660	c.4979T>G	p.V1660G	COSM4156578	27	Substitution - Missense
+1660	c.4979del	p.V1660Gfs*7	COSM10078598	1	Deletion - Frameshift
+1661	c.4981G>A	p.A1661T	COSM8995094	1	Substitution - Missense
+1661	c.4981G>T	p.A1661S	COSM4391494	1	Substitution - Missense
+1661	c.4982_4988del	p.A1661Vfs*4	COSM10078600	1	Deletion - Frameshift
+1662	c.4984T>G	p.S1662A	COSM4665566	2	Substitution - Missense
+1662	c.4985C>G	p.S1662C	COSM4137672	1	Substitution - Missense
+1663	c.4987A>C	p.S1663R	COSM4592043	7	Substitution - Missense
+1664	c.4990C>G	p.Q1664E	COSM9514311	2	Substitution - Missense
+1666	c.4996C>T	p.L1666=	COSM8257455	1	Substitution - coding silent
+1667	c.4999A>C	p.T1667P	COSM1497166	1	Substitution - Missense
+1667	c.5000C>A	p.T1667N	COSM7776046	1	Substitution - Missense
+1669	c.5006C>A	p.A1669D	COSM7519997	2	Substitution - Missense
+1669	c.5007C>A	p.A1669=	COSM7519975	2	Substitution - coding silent
+1669	c.5007C>T	p.A1669=	COSM8171995	1	Substitution - coding silent
+1670	c.5008G>A	p.E1670K	COSM456742	1	Substitution - Missense
+1670	c.5008G>T	p.E1670*	COSM9995698	1	Substitution - Nonsense
+1673	c.5016_5017insCC	p.G1673Pfs*29	COSM5005644	1	Insertion - Frameshift
+1673	c.5018G>C	p.G1673A	COSM3964696	2	Substitution - Missense
+1676	c.5028C>G	p.D1676E	COSM9530729	1	Substitution - Missense
+1676	c.5028C>T	p.D1676=	COSM1114981	4	Substitution - coding silent
+1679	c.5035dup	p.S1679Ffs*7	COSM7002097	1	Insertion - Frameshift
+1679	c.5036_5037delinsTA	p.S1679L	COSM9993875	1	Substitution - Missense
+1679	c.5037C>T	p.S1679=	COSM9743802	1	Substitution - coding silent
+1679	c.?	p.S1679fs*?	COSM7335549	1	Frameshift
+1681	c.5041C>T	p.P1681S	COSM7742541	1	Substitution - Missense
+1681	c.5041_5042del	p.P1681Rfs*4	COSM8472701	1	Deletion - Frameshift
+1681	c.5042C>A	p.P1681Q	COSM9959294	1	Substitution - Missense
+1681	c.5042del	p.P1681Qfs*20	COSM1181075	79	Deletion - Frameshift
+1682	c.5042dup	p.G1682Rfs*4	COSM2725705	17	Insertion - Frameshift
+1682	c.5044G>A	p.G1682S	COSM3557772	1	Substitution - Missense
+1683	c.5047T>C	p.S1683P	COSM8268469	1	Substitution - Missense
+1685	c.5053G>T	p.E1685*	COSM2150564	2	Substitution - Nonsense
+1687	c.5060T>C	p.V1687A	COSM7340907	1	Substitution - Missense
+1690	c.5068G>T	p.V1690L	COSM8665293	1	Substitution - Missense
+1691	c.5071C>T	p.R1691W	COSM7340909	1	Substitution - Missense
+1692	c.5076C>A	p.Y1692*	COSM6853321	2	Substitution - Nonsense
+1692	c.5076C>G	p.Y1692*	COSM4972051	5	Substitution - Nonsense
+1692	c.5076C>T	p.Y1692=	COSM4106610	3	Substitution - coding silent
+1693	c.5077G>A	p.E1693K	COSM1292927	1	Substitution - Missense
+1693	c.5077G>C	p.E1693Q	COSM10128424	1	Substitution - Missense
+1693	c.5077G>T	p.E1693*	COSM7339543	1	Substitution - Nonsense
+1695	c.5083G>A	p.D1695N	COSM8382247	1	Substitution - Missense
+1699	c.5097C>T	p.L1699=	COSM1625493	1	Substitution - coding silent
+1700	c.5098C>A	p.L1700I	COSM8870389	1	Substitution - Missense
+1700	c.5098C>T	p.L1700=	COSM1625494	1	Substitution - coding silent
+1701	c.5102G>T	p.G1701V	COSM7789621	1	Substitution - Missense
+1702	c.5103dup	p.S1702Vfs*43	COSM6853624	1	Insertion - Frameshift
+1702	c.5105C>T	p.S1702F	COSM1246058	2	Substitution - Missense
+1706	c.5118C>G	p.F1706L	COSM10127956	1	Substitution - Missense
+1708	c.5124T>G	p.S1708=	COSM8659691	1	Substitution - coding silent
+1711	c.5131A>T	p.S1711C	COSM10264529	1	Substitution - Missense
+	c.-13G>A	p.?	COSN16132318	1	Unknown
+	c.-16G>A	p.?	COSN31552445	1	Unknown
+	c.-19C>G	p.?	COSN20852644	1	Unknown
+	c.-24C>T	p.?	COSN17179757	1	Unknown
+	c.-41G>A	p.?	COSN26967802	1	Unknown
+	c.-5C>T	p.?	COSN30506409	1	Unknown
+	c.86+1362G>T	p.?	COSN8998234	1	Unknown
+	c.86+147G>A	p.?	COSN30685408	1	Unknown
+	c.86+1887G>C	p.?	COSN9178971	1	Unknown
+	c.86+1971C>G	p.?	COSN22181403	1	Unknown
+	c.86+2308G>A	p.?	COSN15868016	1	Unknown
+	c.86+2340G>A	p.?	COSN33247023	1	Unknown
+	c.86+2400G>A	p.?	COSN20696960	1	Unknown
+	c.86+2815del	p.?	COSN22780500	1	Unknown
+	c.86+2963dup	p.?	COSN27303715	2	Unknown
+	c.86+299A>G	p.?	COSN7506019	1	Unknown
+	c.86+3269C>T	p.?	COSN17262946	1	Unknown
+	c.86+3530G>A	p.?	COSN25332433	1	Unknown
+	c.86+47A>G	p.?	COSN24398396	1	Unknown
+	c.86+782C>A	p.?	COSN32324534	1	Unknown
+	c.86+8G>A	p.?	COSM9998065	1	Unknown
+	c.87-1106C>T	p.?	COSN20803585	1	Unknown
+	c.87-1301G>A	p.?	COSN19518152	1	Unknown
+	c.87-1375G>A	p.?	COSN18957580	2	Unknown
+	c.87-13T>G	p.?	COSN32713979	1	Unknown
+	c.87-1634G>T	p.?	COSN5773395	1	Unknown
+	c.87-1871G>A	p.?	COSN22311078	1	Unknown
+	c.87-1G>C	p.?	COSM9576850	2	Unknown
+	c.87-2131A>C	p.?	COSN25140739	1	Unknown
+	c.87-2148T>C	p.?	COSN23411143	1	Unknown
+	c.87-2224C>A	p.?	COSN4976450	1	Unknown
+	c.87-2609C>T	p.?	COSN6487920	1	Unknown
+	c.87-2733C>T	p.?	COSN22418823	1	Unknown
+	c.87-2744G>T	p.?	COSN4976449	1	Unknown
+	c.87-2A>G	p.?	COSM8686095	1	Unknown
+	c.87-3014C>A	p.?	COSN21945768	1	Unknown
+	c.87-3078A>G	p.?	COSN25401430	1	Unknown
+	c.87-964del	p.?	COSN29055262	1	Unknown
+	c.177+105G>A	p.?	COSN8613252	2	Unknown
+	c.178-122C>T	p.?	COSN30597546	1	Unknown
+	c.178-27G>T	p.?	COSN26636228	1	Unknown
+	c.178-2A>T	p.?	COSM6987750	1	Unknown
+	c.3441+1287A>G	p.?	COSN18077807	1	Unknown
+	c.3441+1433G>T	p.?	COSN33303540	1	Unknown
+	c.3441+1532A>G	p.?	COSN2342669	1	Unknown
+	c.3441+1604G>A	p.?	COSN19126831	2	Unknown
+	c.3441+1G>C	p.?	COSM10768794	1	Unknown
+	c.3441+2111T>C	p.?	COSN2342670	1	Unknown
+	c.3441+2303A>T	p.?	COSN26621201	1	Unknown
+	c.3441+298C>T	p.?	COSN21959976	1	Unknown
+	c.3441+299G>A	p.?	COSN7506021	1	Unknown
+	c.3441+30G>T	p.?	COSN7506020	1	Unknown
+	c.3441+54G>A	p.?	COSN32460310	1	Unknown
+	c.3441+722C>A	p.?	COSN2342668	1	Unknown
+	c.3441+723C>G	p.?	COSN25336845	1	Unknown
+	c.3442-1155G>A	p.?	COSN21381850	1	Unknown
+	c.3442-1450G>A	p.?	COSN21669932	1	Unknown
+	c.3442-1531G>A	p.?	COSN25551147	1	Unknown
+	c.3442-1566T>C	p.?	COSN15129284	1	Unknown
+	c.3442-1680A>C	p.?	COSN2342671	1	Unknown
+	c.3442-1776G>A	p.?	COSN16565247	1	Unknown
+	c.3442-305G>A	p.?	COSN6487923	1	Unknown
+	c.3442-503A>T	p.?	COSN6487922	1	Unknown
+	c.3442-504G>T	p.?	COSN26824423	1	Unknown
+	c.3442-76A>G	p.?	COSN20064006	1	Unknown
+	c.3607+11C>T	p.?	COSN26645293	1	Unknown
+	c.3607+15C>G	p.?	COSN21842180	1	Unknown
+	c.3607+3A>C	p.?	COSM5880042	1	Unknown
+	c.3607+491G>T	p.?	COSN9178972	1	Unknown
+	c.3608-1G>C	p.?	COSM9862305	1	Unknown
+	c.3608-23C>T	p.?	COSN17139357	2	Unknown
+	c.3608-353A>G	p.?	COSN1385716	1	Unknown
+	c.3608-4C>A	p.?	COSM10001237	1	Unknown
+	c.3608-795C>A	p.?	COSN7506023	1	Unknown
+	c.3688+163G>T	p.?	COSN1385717	1	Unknown
+	c.3688+2T>C	p.?	COSM4803555	1	Unknown
+	c.3688+354G>A	p.?	COSN23155417	1	Unknown
+	c.3688+36C>G	p.?	COSN23885043	1	Unknown
+	c.3688+473T>C	p.?	COSN9178973	1	Unknown
+	c.3688+55C>G	p.?	COSN32035790	1	Unknown
+	c.3688+55C>T	p.?	COSN30764165	1	Unknown
+	c.3688+727A>C	p.?	COSN25289385	1	Unknown
+	c.3689-1000A>C	p.?	COSN24379938	1	Unknown
+	c.3689-2A>G	p.?	COSM10175766	2	Unknown
+	c.3689-45C>G	p.?	COSN20819050	1	Unknown
+	c.4078+1233C>A	p.?	COSN25251270	1	Unknown
+	c.4078+76C>T	p.?	COSN32712290	1	Unknown
+	c.4079-201C>T	p.?	COSN6564729	1	Unknown
+	c.4079-56G>T	p.?	COSN26599724	1	Unknown
+	c.4079-753G>C	p.?	COSN20902766	2	Unknown
+	c.4079-765G>A	p.?	COSN6487924	1	Unknown
+	c.4079-766C>T	p.?	COSN20788175	1	Unknown
+	c.4305+1150G>A	p.?	COSN5773396	1	Unknown
+	c.4305+1346G>A	p.?	COSN2527973	1	Unknown
+	c.4305+1581G>T	p.?	COSN6487926	1	Unknown
+	c.4305+1694A>G	p.?	COSN6487927	1	Unknown
+	c.4305+16G>T	p.?	COSN20467429	1	Unknown
+	c.4305+1780C>A	p.?	COSN17249154	1	Unknown
+	c.4305+2021A>C	p.?	COSN25829298	1	Unknown
+	c.4305+2137C>T	p.?	COSN24398397	1	Unknown
+	c.4305+2295C>A	p.?	COSN9178974	2	Unknown
+	c.4305+2842G>A	p.?	COSN32119463	1	Unknown
+	c.4305+3429T>A	p.?	COSN20898881	1	Unknown
+	c.4305+3939T>A	p.?	COSN19049977	1	Unknown
+	c.4305+4026G>T	p.?	COSN1385718	1	Unknown
+	c.4305+445G>A	p.?	COSN8568567	1	Unknown
+	c.4305+652C>G	p.?	COSN6487925	1	Unknown
+	c.4305+788T>C	p.?	COSN24057489	1	Unknown
+	c.4306-125G>A	p.?	COSN23711210	1	Unknown
+	c.4306-1903A>C	p.?	COSN9178975	1	Unknown
+	c.4306-1G>T	p.?	COSM8934857	1	Unknown
+	c.4306-2147G>A	p.?	COSN22278120	1	Unknown
+	c.4306-214del	p.?	COSN32775948	1	Unknown
+	c.4306-224del	p.?	COSN32761050	1	Unknown
+	c.4306-2531G>A	p.?	COSN5460624	1	Unknown
+	c.4306-2691G>A	p.?	COSM6894592	1	Unknown
+	c.4306-2704G>A	p.?	COSM7552624	1	Unknown
+	c.4306-2707C>T	p.?	COSM7611894	1	Unknown
+	c.4306-2710C>T	p.?	COSM8898901	1	Unknown
+	c.4306-2728A>G	p.?	COSM5499471	1	Unknown
+	c.4306-2769C>A	p.?	COSM6030346	1	Unknown
+	c.4306-2773dup	p.?	COSM10307740	1	Unknown
+	c.4306-2804G>A	p.?	COSM10174479	1	Unknown
+	c.4306-2808dup	p.?	COSM7255678	1	Unknown
+	c.4306-2821G>A	p.?	COSM10483352	1	Unknown
+	c.4306-2822C>T	p.?	COSM7338921	1	Unknown
+	c.4306-2838T>A	p.?	COSM7333455	1	Unknown
+	c.4306-2843C>T	p.?	COSM10000100	1	Unknown
+	c.4306-2854A>T	p.?	COSM10312887	1	Unknown
+	c.4306-2865C>T	p.?	COSM3964695	2	Unknown
+	c.4306-2872A>G	p.?	COSM7424358	1	Unknown
+	c.4306-2876C>T	p.?	COSM4445420	1	Unknown
+	c.4306-2882C>T	p.?	COSM4908633	4	Unknown
+	c.4306-2902G>A	p.?	COSM6907747	1	Unknown
+	c.4306-2945G>T	p.?	COSN8613253	1	Unknown
+	c.4306-2962G>A	p.?	COSN32713170	1	Unknown
+	c.4306-3111A>T	p.?	COSN6487929	1	Unknown
+	c.4306-3187G>T	p.?	COSN15568464	1	Unknown
+	c.4306-3610C>T	p.?	COSN24463060	1	Unknown
+	c.4306-3648A>G	p.?	COSN29889657	1	Unknown
+	c.4306-376C>T	p.?	COSN32410613	1	Unknown
+	c.4306-3776G>A	p.?	COSN19020830	1	Unknown
+	c.4306-4193C>G	p.?	COSN23852687	1	Unknown
+	c.4306-469C>T	p.?	COSN4787494	1	Unknown
+	c.4306-46A>G	p.?	COSN30627504	1	Unknown
+	c.4472+1G>A	p.?	COSM8318813	1	Unknown
+	c.4472+20C>T	p.?	COSN33448734	1	Unknown
+	c.4472+29C>T	p.?	COSN32410614	1	Unknown
+	c.4473-1G>T	p.?	COSM9586913	1	Unknown
+	c.4473-272C>A	p.?	COSN1385719	1	Unknown
+	c.4473-2A>T	p.?	COSM2725691	1	Unknown
+	c.4473-437T>C	p.?	COSN20895093	1	Unknown
+	c.4473-654A>C	p.?	COSN19278383	1	Unknown
+	c.4473-8C>A	p.?	COSM7293994	1	Unknown
+	c.4618+1041T>A	p.?	COSN20880111	1	Unknown
+	c.4618+12C>A	p.?	COSN25021562	1	Unknown
+	c.4618+1G>T	p.?	COSM9006794	1	Unknown
+	c.4618+2114C>T	p.?	COSN7506024	2	Unknown
+	c.4618+225C>A	p.?	COSN1385720	1	Unknown
+	c.4618+226A>T	p.?	COSN1385721	2	Unknown
+	c.4618+2278C>T	p.?	COSN32119464	1	Unknown
+	c.4618+2356_4618+2357insA	p.?	COSN20226943	1	Unknown
+	c.4618+2558G>A	p.?	COSN22282492	1	Unknown
+	c.4618+3377C>G	p.?	COSN5773398	1	Unknown
+	c.4618+40C>T	p.?	COSN32030965	1	Unknown
+	c.4618+44C>T	p.?	COSN30598371	1	Unknown
+	c.4618+4604C>T	p.?	COSN21696537	1	Unknown
+	c.4618+4817T>C	p.?	COSN18847882	1	Unknown
+	c.4618+4869G>C	p.?	COSN21863294	1	Unknown
+	c.4618+4948C>G	p.?	COSN32353300	1	Unknown
+	c.4618+5246A>T	p.?	COSN29260309	1	Unknown
+	c.4618+52C>T	p.?	COSN24316095	1	Unknown
+	c.4618+5470G>A	p.?	COSN24223554	1	Unknown
+	c.4618+586C>T	p.?	COSN29933862	1	Unknown
+	c.4618+768C>G	p.?	COSN22038890	1	Unknown
+	c.4618+981C>T	p.?	COSN29845941	1	Unknown
+	c.4619-1270C>T	p.?	COSN33448735	1	Unknown
+	c.4619-1287C>G	p.?	COSN22050012	2	Unknown
+	c.4619-1465A>G	p.?	COSN2459392	1	Unknown
+	c.4619-1528T>C	p.?	COSN24433447	1	Unknown
+	c.4619-156G>C	p.?	COSN22303472	2	Unknown
+	c.4619-1732G>A	p.?	COSN9178977	1	Unknown
+	c.4619-1816A>G	p.?	COSN15715119	1	Unknown
+	c.4619-1818G>T	p.?	COSN15679633	1	Unknown
+	c.4619-1883C>G	p.?	COSN21649434	1	Unknown
+	c.4619-1G>A	p.?	COSM2725695	1	Unknown
+	c.4619-2114T>C	p.?	COSN4976451	1	Unknown
+	c.4619-2347C>G	p.?	COSN20754967	1	Unknown
+	c.4619-2554A>C	p.?	COSN8164954	1	Unknown
+	c.4619-2832A>G	p.?	COSN2342672	1	Unknown
+	c.4619-2893T>G	p.?	COSN25021869	1	Unknown
+	c.4619-28G>T	p.?	COSN29511808	1	Unknown
+	c.4619-3088C>T	p.?	COSN21971485	1	Unknown
+	c.4619-3341G>A	p.?	COSN21124002	1	Unknown
+	c.4619-3486C>T	p.?	COSN7506028	1	Unknown
+	c.4619-3778T>C	p.?	COSN23085154	1	Unknown
+	c.4619-3789C>T	p.?	COSN7506027	1	Unknown
+	c.4619-390A>G	p.?	COSN33448736	1	Unknown
+	c.4619-3997G>A	p.?	COSN16797622	1	Unknown
+	c.4619-4110C>T	p.?	COSN6487930	1	Unknown
+	c.4619-4166A>T	p.?	COSN21150341	1	Unknown
+	c.4619-4247C>T	p.?	COSN27776351	2	Unknown
+	c.4619-4277G>A	p.?	COSN7506026	1	Unknown
+	c.4619-4604C>T	p.?	COSN16842145	1	Unknown
+	c.4619-4655A>G	p.?	COSN7506025	1	Unknown
+	c.4619-46C>A	p.?	COSN32119465	1	Unknown
+	c.4619-4919dup	p.?	COSN22881947	1	Unknown
+	c.4619-5322T>G	p.?	COSN8998235	1	Unknown
+	c.4619-5422G>C	p.?	COSN20717703	1	Unknown
+	c.4619-5428C>T	p.?	COSN20328765	1	Unknown
+	c.4619-5471C>T	p.?	COSN24930843	1	Unknown
+	c.4619-633del	p.?	COSN23088139	1	Unknown
+	c.4619-919A>G	p.?	COSN23034031	1	Unknown
+	c.4696+1G>A	p.?	COSM8977531	2	Unknown
+	c.4696+66C>A	p.?	COSN20087635	1	Unknown
+	c.4697-1G>A	p.?	COSM422237	1	Unknown
+	c.4697-359A>G	p.?	COSN33448737	1	Unknown
+	c.4697-88C>T	p.?	COSN26642521	1	Unknown
+	c.4697-8C>T	p.?	COSM9515296	1	Unknown
+	c.4853+1066G>T	p.?	COSN27969921	1	Unknown
+	c.4853+1234G>T	p.?	COSN15855531	1	Unknown
+	c.4853+1304G>C	p.?	COSN1385722	1	Unknown
+	c.4853+1328G>C	p.?	COSN1385723	1	Unknown
+	c.4853+1409G>A	p.?	COSN25262848	1	Unknown
+	c.4853+1559C>A	p.?	COSN2342673	1	Unknown
+	c.4853+1G>T	p.?	COSM6295298	1	Unknown
+	c.4853+21C>T	p.?	COSN15655253	1	Unknown
+	c.4853+78A>T	p.?	COSN8613254	2	Unknown
+	c.4853+983G>A	p.?	COSN8164955	1	Unknown
+	c.4853+988G>T	p.?	COSN16005752	1	Unknown
+	c.4854-1762A>G	p.?	COSN2342674	1	Unknown
+	c.4854-388G>A	p.?	COSN4787495	1	Unknown
+	c.4854-500T>G	p.?	COSN26300009	1	Unknown
+	c.4854-527C>T	p.?	COSN16911307	1	Unknown
+	c.4854-87C>T	p.?	COSN32878115	1	Unknown
+	c.*1020del	p.?	COSN24964530	1	Unknown
+	c.*1133C>T	p.?	COSN27294134	1	Unknown
+	c.*1209G>A	p.?	COSN31483683	1	Unknown
+	c.*1277G>C	p.?	COSN22247523	2	Unknown
+	c.*1445T>C	p.?	COSN31582527	1	Unknown
+	c.*1457G>T	p.?	COSN32720018	1	Unknown
+	c.*1476C>G	p.?	COSN7506031	1	Unknown
+	c.*1483G>A	p.?	COSN28776362	1	Unknown
+	c.*1490G>A	p.?	COSN19655372	1	Unknown
+	c.*1500dup	p.?	COSN31555905	2	Unknown
+	c.*1501G>A	p.?	COSN28820981	1	Unknown
+	c.*153C>T	p.?	COSN31518952	1	Unknown
+	c.*1804T>C	p.?	COSN5460626	1	Unknown
+	c.*188C>T	p.?	COSN31590921	1	Unknown
+	c.*266C>T	p.?	COSN18720191	1	Unknown
+	c.*309C>T	p.?	COSN7506030	1	Unknown
+	c.*325G>T	p.?	COSN20094109	1	Unknown
+	c.*36G>A	p.?	COSN31547920	1	Unknown
+	c.*431C>A	p.?	COSN31517089	1	Unknown
+	c.*436G>T	p.?	COSN26670825	1	Unknown
+	c.*46T>C	p.?	COSN30169254	1	Unknown
+	c.*475G>T	p.?	COSN26635524	1	Unknown
+	c.*522G>A	p.?	COSN30541253	1	Unknown
+	c.*529G>T	p.?	COSN31577502	1	Unknown
+	c.*547T>C	p.?	COSN31597296	1	Unknown
+	c.*601C>T	p.?	COSN31588218	1	Unknown
+	c.*615G>A	p.?	COSN30543827	1	Unknown
+	c.*804G>A	p.?	COSN21803240	1	Unknown
+	c.?	p.?	COSM7002452	3	Unknown
