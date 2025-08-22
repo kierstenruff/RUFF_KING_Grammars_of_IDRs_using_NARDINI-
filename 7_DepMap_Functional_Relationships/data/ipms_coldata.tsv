@@ -1,0 +1,58 @@
+id	mutation	norm
+AN3CA Control +Dox 48h Rep1	Control	none
+AN3CA 1A WT +Dox 48h Rep1	ARID1A WT	none
+AN3CA 1A DBDmut +Dox 48h Rep1	ARID1A DBDmut	none
+AN3CA 1A delIDR1 +Dox 48h Rep1	ARID1A delIDR1	none
+AN3CA 1A CBR +Dox 48h Rep1	ARID1A CBR	none
+AN3CA 1A-FUS IDR +Dox 48h Rep1	ARID1A-FUS IDR	none
+AN3CA 1A-DDX4 IDR +Dox 48h Rep1	ARID1A-DDX4 IDR	none
+AN3CA Control +Dox 48h Rep2	Control	none
+AN3CA 1A WT +Dox 48h Rep2	ARID1A WT	none
+AN3CA 1A DBDmut +Dox 48h Rep2	ARID1A DBDmut	none
+AN3CA 1A delIDR1 +Dox 48h Rep2	ARID1A delIDR1	none
+AN3CA 1A CBR +Dox 48h Rep2	ARID1A CBR	none
+AN3CA 1A-FUS IDR +Dox 48h Rep2	ARID1A-FUS IDR	none
+AN3CA 1A-DDX4 IDR +Dox 48h Rep2	ARID1A-DDX4 IDR	none
+AN3CA Control +Dox 48h Rep1_ctrl_norm	Control	minus_control
+AN3CA 1A WT +Dox 48h Rep1_ctrl_norm	ARID1A WT	minus_control
+AN3CA 1A DBDmut +Dox 48h Rep1_ctrl_norm	ARID1A DBDmut	minus_control
+AN3CA 1A delIDR1 +Dox 48h Rep1_ctrl_norm	ARID1A delIDR1	minus_control
+AN3CA 1A CBR +Dox 48h Rep1_ctrl_norm	ARID1A CBR	minus_control
+AN3CA 1A-FUS IDR +Dox 48h Rep1_ctrl_norm	ARID1A-FUS IDR	minus_control
+AN3CA 1A-DDX4 IDR +Dox 48h Rep1_ctrl_norm	ARID1A-DDX4 IDR	minus_control
+AN3CA 1A WT +Dox 48h Rep2_ctrl_norm	ARID1A WT	minus_control
+AN3CA 1A DBDmut +Dox 48h Rep2_ctrl_norm	ARID1A DBDmut	minus_control
+AN3CA 1A delIDR1 +Dox 48h Rep2_ctrl_norm	ARID1A delIDR1	minus_control
+AN3CA 1A CBR +Dox 48h Rep2_ctrl_norm	ARID1A CBR	minus_control
+AN3CA 1A-FUS IDR +Dox 48h Rep2_ctrl_norm	ARID1A-FUS IDR	minus_control
+AN3CA 1A-DDX4 IDR +Dox 48h Rep2_ctrl_norm	ARID1A-DDX4 IDR	minus_control
+AN3CA 1A WT +Dox 48h Rep1_ctrl_norm_bait_norm	ARID1A WT	minus_control_bait_norm
+AN3CA 1A DBDmut +Dox 48h Rep1_ctrl_norm_bait_norm	ARID1A DBDmut	minus_control_bait_norm
+AN3CA 1A delIDR1 +Dox 48h Rep1_ctrl_norm_bait_norm	ARID1A delIDR1	minus_control_bait_norm
+AN3CA 1A CBR +Dox 48h Rep1_ctrl_norm_bait_norm	ARID1A CBR	minus_control_bait_norm
+AN3CA 1A-FUS IDR +Dox 48h Rep1_ctrl_norm_bait_norm	ARID1A-FUS IDR	minus_control_bait_norm
+AN3CA 1A-DDX4 IDR +Dox 48h Rep1_ctrl_norm_bait_norm	ARID1A-DDX4 IDR	minus_control_bait_norm
+AN3CA 1A WT +Dox 48h Rep2_ctrl_norm_bait_norm	ARID1A WT	minus_control_bait_norm
+AN3CA 1A DBDmut +Dox 48h Rep2_ctrl_norm_bait_norm	ARID1A DBDmut	minus_control_bait_norm
+AN3CA 1A delIDR1 +Dox 48h Rep2_ctrl_norm_bait_norm	ARID1A delIDR1	minus_control_bait_norm
+AN3CA 1A CBR +Dox 48h Rep2_ctrl_norm_bait_norm	ARID1A CBR	minus_control_bait_norm
+AN3CA 1A-FUS IDR +Dox 48h Rep2_ctrl_norm_bait_norm	ARID1A-FUS IDR	minus_control_bait_norm
+AN3CA 1A-DDX4 IDR +Dox 48h Rep2_ctrl_norm_bait_norm	ARID1A-DDX4 IDR	minus_control_bait_norm
+Control Rep1	Control	none
+ARID1B WT Rep1	ARID1B WT	none
+ARID1B S320_G327del Rep1	ARID1B S320_G327del	none
+Control Rep2	Control	none
+ARID1B WT Rep2	ARID1B WT	none
+ARID1B S320_G327del Rep2	ARID1B S320_G327del	none
+Control Rep3	Control	none
+ARID1B WT Rep3	ARID1B WT	none
+ARID1B S320_G327del Rep3	ARID1B S320_G327del	none
+Control Rep1_bait_norm	Control	bait_norm
+ARID1B WT Rep1_bait_norm	ARID1B WT	bait_norm
+ARID1B S320_G327del Rep1_bait_norm	ARID1B S320_G327del	bait_norm
+Control Rep2_bait_norm	Control	bait_norm
+ARID1B WT Rep2_bait_norm	ARID1B WT	bait_norm
+ARID1B S320_G327del Rep2_bait_norm	ARID1B S320_G327del	bait_norm
+Control Rep3_bait_norm	Control	bait_norm
+ARID1B WT Rep3_bait_norm	ARID1B WT	bait_norm
+ARID1B S320_G327del Rep3_bait_norm	ARID1B S320_G327del	bait_norm
