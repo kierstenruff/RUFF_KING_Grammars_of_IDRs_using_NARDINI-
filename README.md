@@ -2,7 +2,7 @@
 
 This repository contains the analysis code associated with the **GIN: Grammars of IDRs using NARDINI+** project, led by **Kiersten M. Ruff** and **Matthew R. King**. 
 
-The manuscript is has been published in Cell [here]([https://www.biorxiv.org/content/10.1101/2025.02.27.640591v1](https://www.cell.com/cell/fulltext/S0092-8674(25)01191-2)).
+The manuscript is has been published in Cell [here](https://www.cell.com/cell/fulltext/S0092-8674(25)01191-2).
 
 
 ## GIN Resource
