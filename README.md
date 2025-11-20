@@ -22,7 +22,7 @@ Examples of mutating IDRs based on their non-random features to determine IDR fu
 
 2. [C. Hoffmann, K.M. Ruff, I.A. Edu, M.K. Shinn, J.V. Tromm, M.R. King, A. Pant, H. Ausserwöger, J.R. Morgan, T.P.J. Knowles, R.V. Pappu, D. Milovanovic. (2025). Synapsin condensation is governed by sequence-encoded molecular grammars. Journal of molecular biology 437 (8), 168987](https://www.sciencedirect.com/science/article/pii/S0022283625000531)
 
-3. [K. Meyer, K. Yserentant, R. Cheloor-Kovilakam, K.M. Ruff, C. Chung, X. Shu, B. Huang, O.D. Weiner. (2025) YAP charge patterning mediates signal integration through transcriptional co-condensates. Nature Communications 16 (1), 7454](https://www.nature.com/articles/s41467-025-62157-3)
+3. [K. Meyer, K. Yserentant, R. Cheloor-Kovilakam, K.M. Ruff, C. Chung, X. Shu, B. Huang, O.D. Weiner. (2025). YAP charge patterning mediates signal integration through transcriptional co-condensates. Nature Communications 16 (1), 7454](https://www.nature.com/articles/s41467-025-62157-3)
 
 
 ## Google Colab Notebook: [NARDINI+_from_accession](https://colab.research.google.com/drive/15O00GXapuDmD8AijSvkFfRm2fo0xgFPv#scrollTo=DNWtoXwYr71X)
