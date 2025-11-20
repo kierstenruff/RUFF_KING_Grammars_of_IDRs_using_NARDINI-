@@ -15,7 +15,7 @@ Each GIN cluster has a distinct set of grammar features that define it.
 To faciliate the use of GIN as a resource, we created three Google Colab notebooks.
 
 Additionally, our NARDINI+ framework can be used to redesign IDRs to mutate specific non-random grammars and test their effect on IDR function. 
-If you want to mutate your IDR based on a NARDINI+ identified non-random feature, please reach out at kiersten.ruff at wustl.edu and I can give you access to the alpha version of our mutant generator.
+**If you want to mutate your IDR based on a NARDINI+ identified non-random feature, please reach out at kiersten.ruff at wustl.edu and I can give you access to the alpha version of our mutant generator.**
 Examples of mutating IDRs based on their non-random features to determine IDR function can be found in the following published manucripts:
 
 1. [A. Patil, A.R. Strom, J.A. Paulo, C.K. Collings, K.M. Ruff, M.K. Shinn, A Sankar, K.S. Cervantes, T. Wauer, J.D. St Laurent, G Xu, L.A. Becker, S.P. Gygi, R.V. Pappu, C.P. Brangwynne, Cigall Kadoch. (2023). A disordered region controls cBAF activity via condensation and partner recruitment. Cell 186 (22), 4936-4955. e26](https://www.cell.com/cell/fulltext/S0092-8674(23)00965-0)
