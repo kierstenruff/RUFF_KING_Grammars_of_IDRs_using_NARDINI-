@@ -4,6 +4,8 @@ This repository contains the analysis code associated with the **GIN: Grammars I
 
 The manuscript is has been published in Cell [here](https://www.cell.com/cell/fulltext/S0092-8674(25)01191-2).
 
+If you want to mutate your IDR based on a NARDINI+ identified non-random feature, please reach out to kiersten.ruff at wustl.edu and I can give you access to the alpha version of our mutant generator.
+
 
 ## GIN Resource
 
