@@ -4,8 +4,6 @@ This repository contains the analysis code associated with the **GIN: Grammars I
 
 The manuscript is has been published in Cell [here](https://www.cell.com/cell/fulltext/S0092-8674(25)01191-2).
 
-If you want to mutate your IDR based on a NARDINI+ identified non-random feature, please reach out at kiersten.ruff at wustl.edu and I can give you access to the alpha version of our mutant generator.
-
 
 ## GIN Resource
 
@@ -15,6 +13,14 @@ Molecular grammars for each IDR are reported as a 90-feature z-score vector (ZSV
 These ZSVs were utilized to cluster the human IDRome into 30 distinct grammar clusters which we refer to as GIN clusters. 
 Each GIN cluster has a distinct set of grammar features that define it. 
 To faciliate the use of GIN as a resource, we created three Google Colab notebooks.
+
+Additionally, our NARDINI+ framework can be used to redesign IDRs to mutate specific non-random grammars and test their effect on IDR function. 
+If you want to mutate your IDR based on a NARDINI+ identified non-random feature, please reach out at kiersten.ruff at wustl.edu and I can give you access to the alpha version of our mutant generator.
+Examples of mutating IDRs based on their non-random features to determine IDR function can be found in the following published manucripts:
+
+1. [A. Patil, A.R. Strom, J.A. Paulo, C.K. Collings, K.M. Ruff, M.K. Shinn, A Sankar, K.S. Cervantes, T. Wauer, J.D. St Laurent, G Xu, L.A. Becker, S.P. Gygi, R.V. Pappu, C.P. Brangwynne, Cigall Kadoch. (2023). A disordered region controls cBAF activity via condensation and partner recruitment. Cell 186 (22), 4936-4955. e26](https://www.cell.com/cell/fulltext/S0092-8674(23)00965-0)
+
+2. [C. Hoffmann, K.M. Ruff, I.A. Edu, M.K. Shinn, J.V. Tromm, M.R. King, A. Pant, H. Ausserwöger, J.R. Morgan, T.P.J. Knowles, R.V. Pappu, D. Milovanovic. (2025). Synapsin condensation is governed by sequence-encoded molecular grammars. Journal of molecular biology 437 (8), 168987](https://www.sciencedirect.com/science/article/pii/S0022283625000531)
 
 
 ## Google Colab Notebook: [NARDINI+_from_accession](https://colab.research.google.com/drive/15O00GXapuDmD8AijSvkFfRm2fo0xgFPv#scrollTo=DNWtoXwYr71X)
