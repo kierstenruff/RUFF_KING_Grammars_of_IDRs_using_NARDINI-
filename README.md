@@ -4,17 +4,9 @@ This repository contains the analysis code associated with the **GIN: Grammars I
 
 The manuscript is has been published in Cell [here](https://www.cell.com/cell/fulltext/S0092-8674(25)01191-2).
 
+## NARDINI+ Mutant Generator
 
-## GIN Resource
-
-The GIN resource includes molecular grammar analyses of all 24,508 predicted human IDR of length ≥ 30. 
-Here, molecular grammar refers to the non-random amino acid composition and the non-random patterning of distinct pairs of amino acid types with respect to one another.
-Molecular grammars for each IDR are reported as a 90-feature z-score vector (ZSV). 
-These ZSVs were utilized to cluster the human IDRome into 30 distinct grammar clusters which we refer to as GIN clusters. 
-Each GIN cluster has a distinct set of grammar features that define it. 
-To faciliate the use of GIN as a resource, we created three Google Colab notebooks.
-
-Additionally, our NARDINI+ framework can be used to redesign IDRs to mutate specific non-random grammars and test their effect on IDR function. 
+Our NARDINI+ framework can be used to redesign IDRs to mutate specific non-random grammars and test their effect on IDR function. 
 If you want to mutate your IDR based on a NARDINI+ identified non-random feature, please reach out at kiersten.ruff at wustl.edu and I can give you access to the alpha version of our mutant generator.
 Examples of mutating IDRs based on their non-random features to determine IDR function can be found in the following published manucripts:
 
@@ -24,6 +16,17 @@ Examples of mutating IDRs based on their non-random features to determine IDR fu
 
 3. [K. Meyer, K. Yserentant, R. Cheloor-Kovilakam, K.M. Ruff, C. Chung, X. Shu, B. Huang, O.D. Weiner. (2025). YAP charge patterning mediates signal integration through transcriptional co-condensates. Nature Communications 16 (1), 7454](https://www.nature.com/articles/s41467-025-62157-3)
 
+![](http://drive.google.com/uc?export=view&id=1uE1njkXIShciesx9rspyXIkwaBkC7dme)
+
+
+## GIN Resource
+
+The GIN resource includes molecular grammar analyses of all 24,508 predicted human IDR of length ≥ 30. 
+Here, molecular grammar refers to the non-random amino acid composition and the non-random patterning of distinct pairs of amino acid types with respect to one another.
+Molecular grammars for each IDR are reported as a 90-feature z-score vector (ZSV). 
+These ZSVs were utilized to cluster the human IDRome into 30 distinct grammar clusters which we refer to as GIN clusters. 
+Each GIN cluster has a distinct set of grammar features that define it. 
+To faciliate the use of GIN as a resource, we created three Google Colab notebooks.
 
 ## Google Colab Notebook: [NARDINI+_from_accession](https://colab.research.google.com/drive/15O00GXapuDmD8AijSvkFfRm2fo0xgFPv#scrollTo=DNWtoXwYr71X)
 
