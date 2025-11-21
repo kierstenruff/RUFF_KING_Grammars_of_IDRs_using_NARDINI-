@@ -7,7 +7,7 @@ The manuscript is has been published in Cell [here](https://www.cell.com/cell/fu
 
 ## GIN Resource
 
-The GIN resource inlcudes molecular grammar analyses of all 24,508 predicted human IDR of length ≥ 30. 
+The GIN resource includes molecular grammar analyses of all 24,508 predicted human IDR of length ≥ 30. 
 Here, molecular grammar refers to the non-random amino acid composition and the non-random patterning of distinct pairs of amino acid types with respect to one another.
 Molecular grammars for each IDR are reported as a 90-feature z-score vector (ZSV). 
 These ZSVs were utilized to cluster the human IDRome into 30 distinct grammar clusters which we refer to as GIN clusters. 
