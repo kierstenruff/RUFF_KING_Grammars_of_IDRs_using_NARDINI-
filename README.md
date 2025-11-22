@@ -41,6 +41,8 @@ and labeled by the domain name. To visualize exceptional grammars within the IDR
 Users also have access to extracting IDRs and their sequence grammars from eight other species. Here, the compositonal features of the selected IDRome are used as the prior distirbution.
 However, if a species besides Homo sapiens is selected the GIN clusters and sequence schematics are not shown given that clustering was only done for the human IDRome. 
 
+![](http://drive.google.com/uc?export=view&id=1puG8zqJhMcVwBRYtCVrJauLuDzbQAF9G)
+
 ## Google Colab Notebook: [NARDINI+_from_fasta](https://colab.research.google.com/drive/1Lmb0pm5iFUOC4_ecBnFdmmcT0EOjLvfu#scrollTo=F6reO_2GvIrv)
 
 This Google Colab notebook can be found [here](https://colab.research.google.com/drive/1Lmb0pm5iFUOC4_ecBnFdmmcT0EOjLvfu#scrollTo=F6reO_2GvIrv).
