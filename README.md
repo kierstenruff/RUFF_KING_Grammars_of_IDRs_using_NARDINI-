@@ -62,4 +62,4 @@ This Google Colab notebook can be found [here](https://colab.research.google.com
 
 In this notebook, users input a human uniprot accession number and then the associated human GIN clusters are mapped and NARDINI+ z-score vectors are shown for all human and orthologous IDRs. This notebook takes advantage of previously generated orthologous sequences extracted using BLASTp. Additionally, the notebook can rank order specific grammar features for each species and select the IDR with the top rank per species. For the latter, heatmaps are generated for (1) the rank of the top scoring IDRs (2) the percent identity of the top scoring IDRs to the human IDR, and (3) the z-score / grammar value of the top scoring IDRs. The total number of proteins per species refers to the number of unique proteins that are orthologs to human IDR containing proteins. This choice was made for tractability.
 
-![](http://drive.google.com/uc?export=view&id=1flV6XzMRifANlxcL-PhKDzdK2u3l4Isr&sz=w100)
+![](http://drive.google.com/uc?export=view&id=1flV6XzMRifANlxcL-PhKDzdK2u3l4Isr)
