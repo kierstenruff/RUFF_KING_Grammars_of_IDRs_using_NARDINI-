@@ -7,7 +7,12 @@ The manuscript is has been published in Cell [here](https://www.cell.com/cell/fu
 ## NARDINI+ Mutant Generator
 
 Our NARDINI+ framework can be used to redesign IDRs to mutate specific non-random grammars and test their effect on IDR function. 
-If you want to mutate your IDR based on a NARDINI+ identified non-random feature, please reach out at kiersten.ruff at wustl.edu and I can give you access to the alpha version of our mutant generator.
+The main process is to identify a non-random feature and mutate that feature while keeping most other grammar features similar to the wild-type sequence.
+Thus, one can identify the effect of a specific grammar feature on IDR function. 
+We have created a Google Colab notebook that allows users to input an IDR sequence of interest. Then, the notebook identifies the non-random features, allows users to pick which non-random feature they want to mutate, and outputs a mutated version of the input sequence based on that choice.
+The alpha version of our NARDINI+ Mutant Generator can be found [here](https://colab.research.google.com/drive/1VoWfOvSDgZ04ZeGXazLDndD9c2Hm4YCy#scrollTo=xLTTCTcIeP8C).
+
+
 Examples of mutating IDRs based on their non-random features to determine IDR function can be found in the following published manucripts:
 
 1. [A. Patil, A.R. Strom, J.A. Paulo, C.K. Collings, K.M. Ruff, M.K. Shinn, A Sankar, K.S. Cervantes, T. Wauer, J.D. St Laurent, G Xu, L.A. Becker, S.P. Gygi, R.V. Pappu, C.P. Brangwynne, Cigall Kadoch. (2023). A disordered region controls cBAF activity via condensation and partner recruitment. Cell 186 (22), 4936-4955. e26.](https://www.cell.com/cell/fulltext/S0092-8674(23)00965-0)
