@@ -4,7 +4,7 @@ This repository contains the analysis code associated with the **GIN: Grammars I
 
 The manuscript is has been published in Cell [here](https://www.cell.com/cell/fulltext/S0092-8674(25)01191-2).
 
-## NARDINI+ Mutant Generator
+## [NARDINI+ Mutant Generator](https://colab.research.google.com/drive/1VoWfOvSDgZ04ZeGXazLDndD9c2Hm4YCy#scrollTo=xLTTCTcIeP8C)
 
 Our NARDINI+ framework can be used to redesign IDRs to mutate specific non-random grammars and test their effect on IDR function. 
 The main process is to identify a non-random feature and mutate that feature while keeping most other grammar features similar to the wild-type sequence.
