@@ -13,6 +13,9 @@ We have created a Google Colab notebook that allows users to input an IDR sequen
 The alpha version of our NARDINI+ Mutant Generator can be found [here](https://colab.research.google.com/drive/1VoWfOvSDgZ04ZeGXazLDndD9c2Hm4YCy#scrollTo=xLTTCTcIeP8C).
 
 
+[![Watch this video](http://drive.google.com/uc?export=view&id=1KPuoIRVvya2l5y39bG8BEHa-y_nlKR02)](https://drive.google.com/file/d/1P9zmKcgINsXN1B_qLToLgRRRaOPS2FtC)
+
+
 Examples of mutating IDRs based on their non-random features to determine IDR function can be found in the following published manucripts:
 
 1. [A. Patil, A.R. Strom, J.A. Paulo, C.K. Collings, K.M. Ruff, M.K. Shinn, A Sankar, K.S. Cervantes, T. Wauer, J.D. St Laurent, G Xu, L.A. Becker, S.P. Gygi, R.V. Pappu, C.P. Brangwynne, Cigall Kadoch. (2023). A disordered region controls cBAF activity via condensation and partner recruitment. Cell 186 (22), 4936-4955. e26.](https://www.cell.com/cell/fulltext/S0092-8674(23)00965-0)
@@ -22,8 +25,6 @@ Examples of mutating IDRs based on their non-random features to determine IDR fu
 3. [K. Meyer, K. Yserentant, R. Cheloor-Kovilakam, K.M. Ruff, C. Chung, X. Shu, B. Huang, O.D. Weiner. (2025). YAP charge patterning mediates signal integration through transcriptional co-condensates. Nature Communications 16 (1), 7454.](https://www.nature.com/articles/s41467-025-62157-3)
 
 ![](http://drive.google.com/uc?export=view&id=1uE1njkXIShciesx9rspyXIkwaBkC7dme)
-
-[![Watch this video](http://drive.google.com/uc?export=view&id=1KPuoIRVvya2l5y39bG8BEHa-y_nlKR02)](https://drive.google.com/file/d/1P9zmKcgINsXN1B_qLToLgRRRaOPS2FtC)
 
 ## GIN Resource
 
