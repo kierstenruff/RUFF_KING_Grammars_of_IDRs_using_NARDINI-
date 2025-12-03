@@ -23,9 +23,7 @@ Examples of mutating IDRs based on their non-random features to determine IDR fu
 
 ![](http://drive.google.com/uc?export=view&id=1uE1njkXIShciesx9rspyXIkwaBkC7dme)
 
-![[](http://drive.google.com/uc?export=view&id=1KPuoIRVvya2l5y39bG8BEHa-y_nlKR02)](https://drive.google.com/file/d/1P9zmKcgINsXN1B_qLToLgRRRaOPS2FtC)
-
-![](http://drive.google.com/uc?export=view&id=1uE1njkXIShciesx9rspyXIkwaBkC7dme)(http://drive.google.com/uc?export=view&id=1P9zmKcgINsXN1B_qLToLgRRRaOPS2FtC)
+[![Watch this video](http://drive.google.com/uc?export=view&id=1KPuoIRVvya2l5y39bG8BEHa-y_nlKR02)](https://drive.google.com/file/d/1P9zmKcgINsXN1B_qLToLgRRRaOPS2FtC)
 
 ## GIN Resource
 
