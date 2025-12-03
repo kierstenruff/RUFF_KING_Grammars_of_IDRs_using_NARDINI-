@@ -2,7 +2,9 @@
 
 This repository contains the analysis code associated with the **GIN: Grammars Inferred using NARDINI+** project, led by **Kiersten M. Ruff** and **Matthew R. King**, as well as links to tools related to NARDINI+ and GIN. 
 
-The manuscript is has been published in Cell [here](https://www.cell.com/cell/fulltext/S0092-8674(25)01191-2).
+The manuscript is has been published in Cell here:
+
+[K.M. Ruff, M.R. King, A.W. Ying, V. Liu, A. Pant, W.E. Lieberman, M.K. Shinn, X. Su, C. Kadoch, R.V. Pappu. (2025). Molecular grammars of predicted intrinsically disordered regions that span the human proteome. Cell.](https://www.cell.com/cell/fulltext/S0092-8674(25)01191-2)
 
 ## [NARDINI+ Mutant Generator](https://colab.research.google.com/drive/1VoWfOvSDgZ04ZeGXazLDndD9c2Hm4YCy#scrollTo=xLTTCTcIeP8C)
 
