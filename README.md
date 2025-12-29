@@ -68,7 +68,6 @@ For more IDRs or longer IDRs, users can extract patterning ZSVs using [NARDINI](
 The final outputs of this notebook are a summary of the GIN cluster annotations and the ZSVs for all IDRs in the inputed list. 
 
 Users also have access to extracting IDRs and their sequence grammars from eight other species. Here, the compositonal features of the selected IDRome are used as the prior distirbution.
-However, if a species besides Homo sapiens is selected the GIN clusters are not shown since human IDRome was utilized as the prior to construct these clusters. 
 
 ## Google Colab Notebook: [GIN cluster and NARDINI+ analysis for orthologs](https://colab.research.google.com/drive/1RNsWk-eP1z_DyKr9lI6Q7nBJjR2xY04H#scrollTo=Nc60ua4_k707)
 
