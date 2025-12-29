@@ -18,7 +18,7 @@ The alpha version of our NARDINI+ Mutant Generator can be found [here](https://c
 [![Watch this video](http://drive.google.com/uc?export=view&id=1KPuoIRVvya2l5y39bG8BEHa-y_nlKR02)](https://drive.google.com/file/d/1P9zmKcgINsXN1B_qLToLgRRRaOPS2FtC)
 
 
-Examples of mutating IDRs based on their non-random features to determine IDR function can be found in the following published manucripts:
+Examples of mutating IDRs based on their non-random features to determine IDR function can be found in the following published manuscripts:
 
 1. [A. Patil, A.R. Strom, J.A. Paulo, C.K. Collings, K.M. Ruff, M.K. Shinn, A Sankar, K.S. Cervantes, T. Wauer, J.D. St Laurent, G Xu, L.A. Becker, S.P. Gygi, R.V. Pappu, C.P. Brangwynne, Cigall Kadoch. (2023). A disordered region controls cBAF activity via condensation and partner recruitment. Cell 186 (22), 4936-4955. e26.](https://www.cell.com/cell/fulltext/S0092-8674(23)00965-0)
 
