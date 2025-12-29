@@ -30,6 +30,23 @@ Examples of mutating IDRs based on their non-random features to determine IDR fu
 
 ## [NARDINI+ Protein List Analyzer](https://colab.research.google.com/drive/1GU6NZQJ-4FNTiz9vGmXzxqhQV3hqunqZ#scrollTo=x02xvtfZbhug): What IDR grammar features are enriched in my protein list?
 
+Our NARDINI+/GIN framework can also be used to determine enrichment of IDR grammars within a list of proteins. 
+Such analyses can help identify potential IDR candidates to study.
+We have created a Google Colab notebook that allows users to input a list of proteins.
+The list of proteins may come from a protein complex, subcellular localization, proteomics, etc. 
+Then the notebook identifies the IDRs and outputs IDR grammar features enriched / depleted and GIN clusters enriched in the user defined list.
+You can think of this tool as similar to a GO enrichment analysis. 
+However, instead of giving enrichment of biological processes, molecular functions, or cellular components, the tool gives enrichment of IDR grammar features and GIN clusters.
+The notebook also allows users to sort IDRs by enriched features / GIN clusters in order to identify potential candidate IDRs to study.
+The alpha version of our NARDINI+ Protein List Analyzer can be found [here](https://colab.research.google.com/drive/1GU6NZQJ-4FNTiz9vGmXzxqhQV3hqunqZ#scrollTo=x02xvtfZbhug).
+
+The following papers show examples of determining enriched grammar features within IDRs from protein lists extracted from the Human Protein Atlas (HPA).
+
+1. [M.R. King, K.M. Ruff, A.Z. Lin, A. Pant, J.M. Lalmansingh, T. Wu, M. Farag, W. Ouyang, M.J. Fossat, E. Lundberg, M.D. Lew, M.D. Vahey, R.V. Pappu. (2024). Macromolecular condensation organizes nucleolar sub-phases and sets up a pH gradient. Cell, 187: 1889-1906.E24.](https://www.cell.com/cell/fulltext/S0092-8674(24)00232-0)
+
+2. [K.M. Ruff, M.R. King, A.W. Ying, V. Liu, A. Pant, W.E. Lieberman, M.K. Shinn, X. Su, C. Kadoch, R.V. Pappu. (2025). Molecular grammars of predicted intrinsically disordered regions that span the human proteome. Cell.](https://www.cell.com/cell/fulltext/S0092-8674(25)01191-2)
+
+![](http://drive.google.com/uc?export=view&id=1JN_N25KzMt8yLjriBbskCobftsGMFcqb)
 
 ## GIN Resource
 
