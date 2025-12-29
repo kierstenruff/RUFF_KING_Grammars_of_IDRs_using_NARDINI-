@@ -28,6 +28,9 @@ Examples of mutating IDRs based on their non-random features to determine IDR fu
 
 ![](http://drive.google.com/uc?export=view&id=1uE1njkXIShciesx9rspyXIkwaBkC7dme)
 
+## [NARDINI+ Protein List Analyzer](https://colab.research.google.com/drive/1GU6NZQJ-4FNTiz9vGmXzxqhQV3hqunqZ#scrollTo=x02xvtfZbhug): What IDR grammar features are enriched in my protein list?
+
+
 ## GIN Resource
 
 The GIN resource includes molecular grammar analyses of all 24,508 predicted human IDR of length ≥ 30. 
