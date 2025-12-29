@@ -6,7 +6,7 @@ The manuscript is has been published in Cell here:
 
 [K.M. Ruff, M.R. King, A.W. Ying, V. Liu, A. Pant, W.E. Lieberman, M.K. Shinn, X. Su, C. Kadoch, R.V. Pappu. (2025). Molecular grammars of predicted intrinsically disordered regions that span the human proteome. Cell.](https://www.cell.com/cell/fulltext/S0092-8674(25)01191-2)
 
-## How should I mutate my IDR to determine function? [NARDINI+ Mutant Generator](https://colab.research.google.com/drive/1VoWfOvSDgZ04ZeGXazLDndD9c2Hm4YCy#scrollTo=xLTTCTcIeP8C)
+## [NARDINI+ Mutant Generator](https://colab.research.google.com/drive/1VoWfOvSDgZ04ZeGXazLDndD9c2Hm4YCy#scrollTo=xLTTCTcIeP8C): How should I mutate my IDR to determine function?
 
 Our NARDINI+ framework can be used to redesign IDRs to mutate specific non-random grammars and test their effect on IDR function. 
 The main process is to identify a non-random feature and mutate that feature while keeping most other grammar features similar to the wild-type sequence.
